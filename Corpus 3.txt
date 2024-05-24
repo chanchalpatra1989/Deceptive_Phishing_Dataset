@@ -1,0 +1,359 @@
+I gave evasive and ambiguous answers to the questions.	1
+I took a long time before responding to the questions.	1
+I gave very brief answers.	1
+Lady on phone asked if the number was my current phone number.	0
+I said yes when in fact it isn't.	1
+It looks like we'll just have to sit here and be bored until the experimenter gets back.	1
+I have made some notes because I cannot remember anything.	1
+He is determined to win.	0
+John moved to Florida because of the nice weather.	0
+My friend didn't care what I thought.	1
+My friend appeared to be nervous talking with me.	1
+I was sincere in answering the question.	0
+All my answers to the questions were truthful.	0
+Do you want to see more ?	0
+Was Pat a good employee ?	0
+Well, umm, that's depends on what you call a good employee.	1
+I think Pat is a good employee, and you would be wise to hire him.	0
+I think Pat was not a good employee, and you should not hire him.	1
+I walked quickly.	0
+I worked hard to achieve my goal.	0
+I decided to buy that model.	0
+Have you cleared the table and washed the dishes?	0
+I’ve cleared the table.	1
+Am I in time for supper?	0
+Would you like ham or salad on your sandwich?	0
+I selected the option that maximised my profit.	0
+I chose the option that seemed to be the most beneficial to me.	0
+Where do you get these crazy ideas ?	0
+Will you please stop bugging me ?	0
+Is this the object which was stolen ?	0
+Is this the card you picked ?	0
+Did Mark know that his mother had moved his chocolate bar to the box?	0
+Where does Mark think his chocolate bar is?	0
+Did you break the pot ?	0
+I never touched the pot.	1
+I forgot to do my homework.	1
+Do you know you were going over the speed limit ?	0
+Oh, I wasn’t really paying attention to the speedometer.	1
+When is our appointment ?	0
+It's at 10.30 AM on Thursday.	0
+How did you like it ?	0
+A kind of liked it.	1
+I’m not sure, but your mum isn’t coming today.	1
+Is there something you want to tell her, or that is worrying you ?	0
+Can you tell it to me ?	0
+Am I doing something that is morally wrong or unethical ?	0
+I’m not sure Nora, but I’ve been meaning to show you the new tulips the gardener planted yesterday so I thought we could have a cup of tea and wander round the garden seeing as the sun is shining for a change!	1
+Oh, I think the injury is slightly deep.	1
+Oh, I think the injury is quite deep.	1
+Weather is extremely hot today.	0
+This is a painful story.	0
+The person is physically challenged.	0
+Will you conceal the matter before committee ?	0
+I lied about something I didn't want him to know.	1
+I told the lie so I could keep some privacy about my personal life.	1
+I told her that I admire her uninhibited way.	1
+So she would not think that I was a prude.	1
+I said I was not worried about my grades.	1
+I didn't want him to think I was stupid.	1
+That I am so smart that it is easy to pull them up.	1
+Told customer that if she likes her jeans that way, they were not too tight.	1
+To sell the outfit.	0
+I told her I had been studying hard.	1
+Because she's my mother and she'd kill me if she thought I hadn't been studying.	1
+Said we paid off all bills except standard monthly, but haven't.	1
+So he would co-sign for new house I want even though he thinks it's too much money.	1
+I told her I had to be in Washington to see a doctor.	1
+Actually, I wanted to visit a friend to trade computer software.	0
+Told son to clean up room and get ready for the weekend and maybe we'd do something special.	1
+Needed his room cleaned up.	0
+I told her that I'd love for her to stay with me and my family if she wanted to when I really wanted to be alone with them.	1
+She was lonely and I didn't want her to have to stay in the dorm by herself.	1
+I told her she was nice-looking even though she isn't.	1
+To make her feel good.	0
+Acted like I didn't know the information she was giving me.	1
+So she could feel helpful.	0
+Told him I loved the food he ordered for me when it wasn't that great.	1
+Didn't want to make him feel bad.	0
+I told her I didn't mind going shopping if she wanted me to.	1
+She needs my help but wouldn't ask if she thought I didn't want to go.	1
+My friend is coming over for tea and I am too tired to see her.	1
+Told him the boss wanted to talk to him, but he really didn't.	1
+I had a wonderful time at your party, so glad you invited me.	1
+She was probably five foot eleven, no, more likely five foot seven.	1
+I think she had black shoes on.	1
+She just walked in, she didn't knock or anything.	1
+She was very polite.	0
+He seemed very confident.	0
+How do you feel at this moment ?	0
+How effective was the training program ?	0
+What was the person’s eye colour ?	0
+What did you think of the expression ?	0
+Why did you answer this way ?	0
+What was the last movie that you went to see ?	0
+What is the name of your first School?	0
+What is your mother's maiden name?	0
+How many brother's and sister's do you have?	0
+What is the name of the place where you grew up?	0
+What is your father's first name?	0
+What was your favourite subject at school?	0
+What is the name of a book or cd that you recently bought?	0
+Where was the last place that you went on holiday?	0
+What kind of toothpaste do you usually use?	0
+What is your favourite leisure pastime?	0
+*lf you admire a famous person, who would it be?	0
+What is the subject that you least liked at school?	0
+What is the name of one of your bestfriends?	0
+Which is a sport or game that you like playing?	0
+What do you most like about Nottingham?	0
+What do you least like about England?	0
+*If you could choose any, which car would you buy?	0
+What do you do if you want to get some exercise?	0
+Which shop have you recently bought clothes from?	0
+What did you have for dinner last night?	0
+When did you last go to the cinema?	0
+What is your favourite drink?	0
+*lf you could have anything as a pet, what would it be?	0
+Name an ambition that you have?	0
+What have you watched on television recently?	0
+What are you studying, or have studied at university?	0
+Which newspaper would you buy?	0
+Which magazine do you like to read?	0
+Which programmes would you never watch on TV?	0
+Who is a movie star that you don't like?	0
+What is your most prized possession?	0
+Name a drink that you don't like?	0
+Who or what really makes you laugh?	0
+What irritates you?	0
+What will you do with your friends this week?	0
+Where would you like to visit that you've not been to before?	0
+Where will you be next weekend?	0
+Where do your parents live?	0
+Which radio station do you listen to most?	0
+What would you do if you won the lottery jackpot?	0
+What is your favourite colour?	0
+How old were you when you passed your driving test?	0
+Name a country outside of the UK that you have visited?	0
+Which is your favourite comedy programme on TV?	0
+Is there a food that you find disgusting?	0
+What is your favourite food?	0
+If there were a general election tomorrow, who would you vote for?	0
+What is the name of a band or singer that you like?	0
+What is a job that one of your parents does?	0
+How many pairs of shoes do you own?	0
+Which is the website that you most frequently visit?	0
+When was the last time that you read a newspaper?	0
+Have you ever been caught speeding, if so how many times?	0
+Which famous person would you like to have lunch with?	0
+*What is the most beautiful thing you can think of!	0
+What was the last book you borrowed from the library?	0
+We’ll move on to the next section, which we’re calling the musical section.	0
+How did you do on that section?	0
+I did excellent on that one.	1
+Sort of k- k- corresponds with not being a good athlete.	1
+Had to do something right.	1
+And so why do you think you did so well on that section?	0
+Um, well, my grandmother was a concert violinist, and she left me her violin.	1
+And so I started playing at a really early age, and so I developed an ear and, you know, it was just somewhat of an innate thing.	1
+Where did your grandmother play?	0
+My grandmother - well, um, okay - she was a concert violinist, but she wasn’t huge.	1
+But she played for the Cape Cod Symphony.	1
+And, uh, what kind of violin did she leave you?	0
+It was a really old violin.	1
+They weren’t exactly sure who the maker was, but they thought it was from Germany.	1
+And how long have you been playing the violin?	0
+Since I was four.	1
+Basically since I could hold the violin.	1
+Do you play in the orchestra here?	0
+I don’t - I actually stopped.	1
+Um, I guess I got a little burned out.	1
+I just play for myself mostly now.	1
+Who’s your favourite composer for the violin?	0
+Um, my favourite composer.	1
+Um, Haydn.	1
+What’s the hardest piece you’ve ever played?	0
+Hardest piece, um, [0.8 second silence] that would have to be the Minuet in G Major.	1
+Great, uh so we’ll move on now to the musical section.	0
+Okay.	0
+I did good.	0
+So that was your score, good?	0
+Yes.	0
+Why do you think you did so well on that section?	0
+I’ve always been very musical.	0
+My parents used to sing to me when I was little.	0
+And I played piano.	0
+Uh, how long did you play the piano?	0
+Since I was eleven.	0
+Are there particular composers you enjoy?	0
+On the piano?	0
+I like Mozart and Bach.	0
+And I like to play rock and roll, but um- I can’t play, uh, much complex songs.	0
+But I could play this fake book.	0
+And what sort of music do you enjoy listening to?	0
+Um, rock and roll and classical music, too.	0
+Do you have particular favourite composers you enjoy listening to?	0
+Didn’t I just tell you that?	0
+oh [laughs] composers.	0
+Well, I like to listen to the Rolling Stones.	0
+I'm walking in the upstairs door right now.	0
+I don't think he was actually walking in the door. I think he was a little further away.	1
+Please first of all tell me all about your conversation with the experimenter.	0
+What did the experimenter and you discuss at the start of your conversation?	0
+Can you tell me everything that the experimenter told you about herself?	0
+Was the experimenter with you in the room all the time?	0
+How did the conversation end?	0
+I found this section of the interview difficult.	1
+I felt anxious during this section of the interview.	1
+I am confident that I convinced the interviewer that I was telling the truth.	1
+I would describe this part of the interview as appropriately paced.	0
+I would describe this part of the interview as awkward.	1
+I found describing things difficult in this language.	1
+I believe that the participant told the truth in this section.	0
+I felt that the participant was trustworthy.	0
+I felt that the participant was honest.	0
+I felt that the participant was suspicious.	1
+I felt that the participant was distracted.	1
+How did the game end?	0
+How did you think you were doing compared to the other player mid-game?	0
+What questions did you ask to find out who the target was?	0
+What happened in the first few moments of the game?	0
+I am able to recognize others' subtle and indirect messages.	0
+I often bend the truth if the truth would hurt someone.	1
+I am modest when I communicate with others.	0
+I listen very carefully to people when they talk.	0
+Right now, it would take a lot of effort for me to concentrate on something.	0
+I can't absorb any more information.	1
+I feel sharp and focused.	0
+Can you please describe to me, into as much detail as possible, what you saw during the virtual tour ?	0
+Please tell me everything you have learned about the Louvre/library on campus today, that you did not know before.	0
+Please tell me where you were when doing the virtual.	0
+How did you try to find out the answers to the questions?	0
+Can you tell me as much as possible about the answers you found?	0
+Did you actually do the virtual tour?	0
+Tell me what you did to find out the answers to the questions.	0
+If you actually had done the virtual tour, wouldn’t you have been able to answer the questions better?	0
+Have you ever visited the art exhibition or Louvre before?	0
+What is the worst job you ever had and why did you dislike it?	0
+What would you do if your boss gave you credit for someone else's work?	0
+Tell me about a time when you thought of stealing something valuable from someone.	0
+Please tell me everything you did today from leaving your home to arriving for this interview.	0
+What do you consider to be your greatest strengths?	0
+What else are you going to do today? Who will you see and where will you go?	0
+Think about people that really irritate you. Why do they bother or annoy you?	0
+What do you plan to do during your next break or vacation?	0
+Remember the room where you arrived for the experiment. Tell me everything about that room and what happened while you were there.	0
+Tell me about a time when you told a serious lie to get out of trouble.	0
+If you found a wallet containing $1,000 and no identification in it, what would you do with it and why?	0
+What is the worst restaurant you ever went to? Why did you dislike it?	0
+Monsieur I am delighted to find you up and to see that you are better.	0
+I was told that Monsieur was better, I think he looks well.	1
+It’s true.	0
+I made a friend look a fool by convincing him I was a girl.	1
+It is bad when there is no where a person can go to where someone could be honest, we stay on the net cause we have[ ... ] been wore out by all the lies from people in the real world.	1
+When first asked what I looked like, I said I was fat and ugly, then said I was joking and gave them the description I wanted them to believe.	1
+I saw that the car was missing.	0
+I heard the screen door slam.	0
+I heard sounds coming from above me.	0
+I don’t understand this, could you please explain this to me?	0
+I don’t believe you, are you trying to fool me?	0
+To be quite honest, I don’t know exactly what substance I was guilty of using.	1
+To be honest, as far as I remember, it came to me somehow during the sales conference last month.	0
+This is a terrific model. It sells out all the time.	0
+I think this is a terrific model.	1
+I sell out of it all the time.	1
+Why did you steal the money?	0
+I didn’t steal anything!	0
+I did not take anything.	1
+[It was a] very detailed and thorough story.	0
+The story was so vague, I thought it was a lie.	1
+It's something that she would actually do.	0
+She seemed really sad when telling the story.	1
+She didn't look genuinely happy.	1
+[The sender was] really smooth.	0
+Unsure of her story; [it] didn't flow.	1
+It just felt right.	0
+[I had a] gut feeling [that it was a lie].	0
+The story was easy to believe.	0
+[It was] just too outlandish.	1
+I thought the story was true.	1
+It was a lie.	1
+You just don't lie about something like that.	1
+She looked and sounded honest.	0
+The story sounded okay, but she kept fidgeting.	1
+If he were lying, he would have had to come up with something different from what he said.	1
+The dates weren't right for the story to be true.	1
+I think she would have told me that story before if it had really happened.	1
+[He] would have told me before now.	1
+It was a good story.	0
+It all made sense.	0
+She told the story in a sincere voice.	0
+His voice cracked.	0
+He looked me in the eyes.	0
+She played with her hair a lot.	1
+She stated that from the beginning.	0
+I am on the lookout for fake stories so perhaps that influenced me.	1
+Did you go on lots of rides at the fairground, Claire?	0
+Yes, I even went on the really big roller coaster and didn’t shut my eyes.	1
+Weren’t you scared?	0
+No, it was fun. I can’t wait to do it again.	0
+Why didn’t you hand your homework in on time, Mel?	0
+So you did finish your homework?	0
+No matter who I’m talking to, I’m always a good listener.	0
+You are not doing as well in this class as you might be !	0
+Self-deceivers are liars, whether they know it or not.	0
+Am I able to wear a seatbelt consistently ?	0
+I know that we broke up but I don’t want to call him, because then it will really be over.	1
+I suppose, this will be very useful to you in the future.	1
+The marks?	0
+Please describe exactly how you arranged the four objects you placed on the table at the centre of the room ?	0
+We have information telling us that you recently visited the central station.	0
+We have CCTV footage showing that you collected a package from a deposit box at the central station, ground floor level, on the 24th of August at 7.30pm.	0
+What is the main purpose of your trip?	0
+How are you going to travel to your destination?	0
+What part of the trip was easiest to plan?	0
+Keep in mind an image of the most important thing you are going to do on this trip.	0
+Please describe this mental image in detail?	0
+I’ve just started a new business and I’m trying to build up my reputation as a photographer.	1
+Where did the bombing occur?	0
+Where did the bomb go off?	0
+Where did the bombing happen?	0
+We were walking down Whitman road and I remember hearing a few cars screeching to stop in the middle of the street. There were a fare number of people around. A few started to run towards the building.	0
+Umm, I can’t remember all the details of what I have heard… I do remember them talking about “causing damage” a few times; I could have easily heard wrong.	1
+Umm, I can not remember all the details of what I have heard, I do remember them talking about causing damage a few times, but I could have easily heard wrong.	1
+I think there were a few cars that just stopped in the middle of the road.	1
+We have information that you were at a luggage store.	0
+We have CCTV footage showing that you bought a suitcase.	0
+I tried to include as much information as possible.	0
+I just told the truth about what I have seen.	0
+I tried to remember everything in sequence.	0
+I put myself in the agent's position to be able to connect the information.	0
+I tried to be consisted in the information I delivered.	0
+I hesitated when asked about the trip to Prague so that if I hesitated when asked about the spy mission, it might not sound so obviously different to the usual way in which I answered questions.	1
+I tried to keep some details that were in the actual discussion.	1
+I gave as many details and reason...justifys as possible for the agents' actions.	0
+Don't over explain things; try to keep it easy to remember.	0
+I tried to adjust my answers to the interviewer’s values and beliefs.	1
+I waited for 7 minutes.	1
+I waited for 10 minutes.	1
+Did you know any of the other people waiting?	0
+I walked straight to the library.	1
+I walked straight to the library, passing the cafeteria on my way.	1
+About how many people were there at the cafeteria?	0
+I went to the bathrooms to fill my water bottle and to take a look in the mirror.	1
+I went to the bathrooms to take a look in the mirror.	1
+Was there anyone else in the bathrooms?	0
+We briefly spoke about uni.	1
+We spoke briefly.	1
+How long did you speak for?	0
+There was a female student with jeans and a beige jacket.	1
+There was a female student with jeans and a black jacket.	1
+What was the student doing?	0
+The pictures on the wall depicted people and nature.	0
+The pictures on the wall depicted people, animals and nature.	0
+What size were the pictures?	0
+I told stories that contained both real and fictional work experiences.	1
+I claimed that I have skills that I do not have.	1
+When asked directly, I did not mention my true reason...justify for quitting my previous job.	1
+When asked directly, I did not mention some problems that I had in past jobs.	1
+I tried to suppress my connection to negative events in my work history.	1

@@ -1,0 +1,284 @@
+I just feel hopeless.	1
+I simply don't feel hopeful.	1
+I'm just devoid of hope.	1
+I'm just full of hopelessness.	1
+All I can say is that I feel hopeless.	1
+I can't do enough.	1
+I'm unable to accomplish enough.	1
+I have so much to accomplish.	1
+I am incapable of doing enough.	1
+And now I can't help them.	1
+I'm unable to assist them currently.	1
+I am now unable to assist them.	1
+I'm unable to assist them now.	1
+I'm unable to assist them at this time.	1
+I just feel like such a failure.	1
+I simply feel like a complete failure.	1
+I simply think I'm such a failure.	1
+It seems like I'm a complete failure.	1
+I simply feel like such an inadequate person.	1
+I simply feel like a complete failure.	1
+I simply think I'm such a failure.	1
+You drive straight home ?	0
+You take a direct car ride home?	0
+You make a direct drive home?	0
+Do you take a direct car ride home?	0
+You take a direct driver's seat home?	0
+To the warehouse, dropped off the boat.	1
+Dropped off the boat at the warehouse.	1
+Dropped the boat off at the warehouse.	1
+Shipped off the boat to the warehouse.	1
+Off the boat, dropped off at the warehouse.	1
+The number of births peaked in about 1955 and from there on each year there were fewer births.	0
+Around 1955, the number of births peaked, and after that, fewer births occurred annually.	0
+About 1955 was the peak in the number of births, after which there were fewer births annually.	0
+From around 1955 onward, the annual birth rate decreased as the population reached its high.	0
+After reaching a high in 1955 or thereabouts, the annual birth rate decreased.	0
+As a result of that each year after 1973 fewer people turned 18 so the company could no longer rely on this tremendous number of baby boomers reaching smoking age.	1
+I didn't do work specifically on teenage smoking.	1
+I didn't focus my efforts on teen smoking explicitly.	1
+I didn't focus my efforts on teen smoking.	1
+I never focused on teen smoking particularly.	1
+All right, man, I did it, the damage.	1
+Okay, dude, I completed the damage.	1
+Alright, dude, I fixed the damage.	1
+Okay, dude, I fixed the damage, everything.	1
+Okay, dude, I fixed the damage.	1
+Do you know anybody who did have data that would allow a market penetration study of the type I've asked about to be performed ?	0
+Do you know of anyone who possesses data that would enable the completion of the kind of market penetration research I've inquired about?	0
+Do you know of anybody who did possess data that could enable the kind of market penetration research I've been asking about to be conducted?	0
+Would it be possible to conduct a market penetration research similar to the one I've inquired about using the data that someone you know has?	0
+So far as I know only the federal government.	1
+I am only aware of the federal government at this time.	1
+Just the federal government, as far as I'm aware.	1
+The federal government is the only one that I am aware of.	1
+Only the federal government, as far as I'm aware.	1
+Are you familiar with the phrase psychographic study from your work at Philip Morris?	0
+Do you have any experience with psychographic studies from your time at Philip Morris?	0
+From your employment at Philip Morris, are you acquainted with the term psychographic study?	0
+Does your experience at Philip Morris allow you to use the term psychographic study?	0
+From your job at Philip Morris, are you acquainted with the term psychographic study?	0
+What is a psychographic study?	0
+A psychographic study: what is it?	0
+A psychographic study is what?	0
+Psychographic studies: what are they?	0
+A psychographic study: What is it?	0
+I needed to get my inhaler.	1
+I had to go grab my inhaler.	1
+I must fetch my inhaler.	1
+I had an inhaler to acquire.	1
+I didn't know the route well.	1
+I was unfamiliar with the road.	1
+The path was foreign to me.	1
+The road was new to me.	1
+I was completely tense.	1
+I felt quite anxious.	1
+I couldn't relax at all.	1
+I was shaking uncontrollably.	1
+I was a nervous wreck.	1
+I felt quite anxious.	1
+I couldn't relax at all.	1
+I was shaking uncontrollably.	1
+They lied to us.	1
+They misled us.	1
+They told us falsehoods.	1
+To us, they told lies.	1
+I was lied to or tricked.	1
+Someone deceived or lied to me.	1
+I was duped or misled.	1
+Someone fooled or lied to me.	1
+Someone deceived or misled me.	1
+Someone misled or deceived me.	1
+I was duped or misled by someone.	1
+Someone misled or tricked me.	1
+You relied on the mortgage broker, who was maybe even a  friend , and signed papers without reading them, and now you are facing foreclosure by the mortgage company that scammed you.	1
+You signed documents without reading them because you trusted the mortgage broker, who may have even been a friend, and now the mortgage firm that conned you is threatening to put you in foreclosure.	1
+You signed documents without reading them, putting yourself at risk of foreclosure by the mortgage business that conned you because you trusted the mortgage broker, who was maybe even a friend.	1
+The mortgage firm that conned you is now threatening to foreclose on your property because you signed documents without reading them and relied on the mortgage broker, who may have even been a friend.	1
+You signed documents without reading them because you trusted the mortgage broker, who may have even been a friend, and now the mortgage firm that conned you is threatening to put you into foreclosure.	1
+Were you rushed through ?	0
+Were you hurried along?	0
+Did you go through it quickly?	0
+Was your progress hurried?	0
+Were you hurried through the process?	0
+Were you allowed to read the papers before you signed them ?	0
+Before signing the documents, were you given the opportunity to read them?	0
+Before signing the documents, were you permitted to read them?	0
+When you signed the documents, was it permitted for you to read them?	0
+Before you signed the documents, were you given the opportunity to read them?	0
+These are just some of the things to look for.	0
+These are but a few items to be on the lookout for.	0
+Just a few of the items to search for are these.	0
+These are but a handful of the items to be on the out for.	0
+These are just a few items to be on the lookout for.	0
+I was deceived.	1
+I'm sure that if you try to remember, there were some episodes in some channel where a celebrity male contestant becomes furious (due to some scripted reality) and runs towards another fellow contestant and eventually hits him physically.	1
+Then we saw the dramatic anti-climax where the show producer/director runs into the rolling camera and tries to settle down all issues.	1
+Later on, this kind of a twist didn't catch much popularity as the basic idea was physical violence and abusive language and behaviour which was quite illegal according to any country's laws.	1
+prohibited under the laws of any nation.	1
+any nation's laws would consider unlawful.	1
+against the laws of any nation.	1
+Maybe the producers realized this later and discontinued this idea afterwards.	1
+Perhaps after realising this, the creators abandoned the original plan.	1
+Perhaps the creators abandoned this concept after realising this later.	1
+Perhaps this was discovered later by the producers, who then abandoned the plan.	1
+Perhaps after realising this, the producers dropped the concept.	1
+But the point is, they dared to introduce this! Violence and abuse.	1
+The thing is, they were bold enough to present this! Abuse and violence.	1
+What matters is that they were bold enough to present this! abuse and violence.	1
+But the thing is, they were bold enough to present this! Maltreatment and aggression.	1
+The important thing to remember is that they were bold enough to launch this! Abuse and Violence.	1
+For the sake of trying to show a fake thing as real.	1
+is an attempt to pass off a phoney as genuine.	1
+is an attempt to pass off a phoney item as authentic.	1
+just to attempt to pass off a phoney item as genuine.	1
+is an attempt to pass off a phoney item as genuine.	1
+You lie about big things, you lie about little things.	1
+You need to tell lies to cover up your whereabouts.	1
+You feel the need to justify yourself every time you ve been in the wrong neighborhood, because you feel guilty and ashamed.	1
+Its funny because most of the time people never suspect or wonder or where you were and what you were doing.	1
+Lying ends up becoming a compulsion, an addiction.	0
+You find convenient excuses for each occassion.	1
+You always come up with easy ways to justify yourself.	1
+Every occasion, you come up with a convenient reason.	1
+Every time, you come up with a useful rationale.	1
+Every occasion, you come up with an easy way to justify yourself.	1
+Traffic is always a great excuse when you are late home.	1
+Being late for work is always a good excuse thanks to traffic.	1
+When you are running late for home, traffic is usually a good reason.	1
+Being late for work may always be justified by traffic.	1
+When you are running late for home, traffic is usually a fantastic justification.	1
+I was offered for the personal training program at XY Fitness in south M., YZ.	0
+I said I don t want contracts and when I signed for my CC authorization they used my signature and stamped on a contract.	1
+I was never given a copy or told the cancellation rules.	1
+They finally after 2 months cancelled the contract but they refuse to give me the payment I made.	1
+What can I do?	0
+How am I able to help?	0
+How can I help?	0
+What am I able to do?	0
+What steps may I take?	0
+They are very dishonest and avaricious.	1
+They are extremely avaricious and dishonest.	1
+They are incredibly greedy and dishonest.	1
+They have an extremely greedy and dishonest nature.	1
+They are extremely greedy and dishonest.	1
+Did you have a gun when you entered the house?	0
+When you went inside the residence, did you bring a gun?	0
+When you went inside, were you carrying a gun?	0
+Upon entering the residence, did you carry a gun?	0
+When you entered the residence, did you carry a gun?	0
+I've never owned a firearm. 1
+I never had a gun.	1
+I never owned a firearm.	1
+I've never owned a gun.	1
+Most recent mistake I made was oversleeping for class yesterday.	1
+My most recent error was staying up late for class yesterday.	1
+I overslept for class yesterday, which was my most recent error.	1
+Yesterday, I overslept for class, which was my most recent error.	1
+My most recent error was sleeping in too much for class yesterday.	1
+what about you?	0
+How about you?	0
+Regarding you, how are things?	0
+Likewise, how about you?	0
+Regarding you, how are you?	0
+Oh! I forgot I had to work yesterday.	1
+Whoa! I didn't realise yesterday was my workday.	1
+Oh dear! I neglected that yesterday was my workday.	1
+I see now. Yesterday, I neglected to remember that I had to work.	1
+I see now! Yesterday, I was unaware that I had to report to work.	1
+What class did you miss?	0
+I missed my thai class.	1
+Thai? language class?	0
+And there s only five people in it, so my professor definitely knew i missed class.	1
+Yea thai language	0
+Where do you work?	0
+Where are you employed?	0
+What is your workplace?	0
+In what location do you work?	0
+I work at [library name] library.	0
+Why does your class only have 5 people in it?	0
+Why are there only 5 students in your class?	0
+Why is there just one other student in your class?	0
+There are only five students in your class; why?	0
+Um i don t know.	1
+So what do you do at [library name]?	0
+I shelve books.	0
+I arrange books in shelves.	0
+I stock book shelves.	0
+I have book shelves.	0
+It gets pretty boring.	1
+But I only work 2 days a week so its not bad.	1
+Are you allowed to listen to music?	0
+Yeah my headphones.	0
+You're lying.	1
+Lies that conceal plans for a surprise party.	1
+My school life was a mess.	1
+I mean I had a few horrible teachers who embarrassed me, or made me feel like an idiot because I couldn't draw a tree the way she wanted it.	1
+As for friends, I made a mistake by hanging with people who loved to make me sad.	1
+I was a chubby girl and did not care for makeup at a young age.	1
+Because my so called friends were the popular girls, I was left out constantly for being the way I was.	1
+I was used because they knew i couldn't fight back.	1
+After graduating into highschool, I made a lot of friends, who I respected and trusted.... wrong thing to do.	1
+One of my friends totally double crossed me and left me to hang.	1
+The whole rest of the year, I was traumatised by what she had done and spent my lunch hours alone working on homework.	1
+The sad thing is, Infront of me she acted like a total friend, but I heard things from others about the way she talked about me.	1
+Everyone turned against me because of this person and I will never forget that.	1
+I swear to God.	1
+I forget.	1
+I couldn't do something like that.	1
+I'm not the kind of person who would do that.	1
+That's not the type of thing I would do.	1
+I'm not the type of person to take that action.	1
+Personally, I wouldn't do something like that.	1
+That's not the sort of thing I would do.	1
+I wouldn't be able to do those things.	1
+I could never do those things.	1
+I couldn't perform those tasks.	1
+That's not something I could do.	1
+I couldn't do those tasks.	1
+I'll do this again until I think you've had enough.	1
+I will continue doing this until I believe you are tired of it.	1
+Until I decide you've had enough, I'll keep doing this.	1
+Until I feel like you've had enough, I'll continue doing this.	1
+Until I feel like you've had enough, I'll keep doing this.	1
+I think we started watching a movie.	1
+I believe we got inside a movie.	1
+We may have started a movie, I believe.	1
+I believe we have begun to watch a film.	1
+We may have begun watching a movie.	1
+All of a sudden someone blindfolded me.	1
+Suddenly, I was wearing a blindfold.	1
+Someone blinded me all of a sudden.	1
+Suddenly, I was blinded by someone.	1
+My wife probably came home.	1
+Most likely, my wife returned home.	1
+I think my wife arrived home.	1
+Very likely, my wife returned home.	1
+It's likely that my wife returned.	1
+I felt something poke me.	1
+I don't recall double checking the safe.	1
+I don't remember going through the safe twice.	1
+I don't remember checking the safe twice.	1
+Not that I remember checking the safe twice.	1
+I don't remember going through the safe again.	1
+I can't remember how I got back to the parking lot.	1
+How I returned to the parking lot is beyond me.	1
+I cannot recall how I returned to the parking area.	1
+How I returned to the parking lot is a memory hazard.	1
+How I returned to the parking lot is a mystery to me.	1
+I didn't look down to confirm whether it was a knife or not.	1
+Without checking to be sure it was a knife, I looked down.	1
+Not looking down to be sure it was a knife, though.	1
+Not checking to see whether it was a knife, though.	1
+I didn't check to be sure it wasn't a knife.	1
+I was scared out of my mind.	1
+I was really terrified.	1
+I was really afraid.	1
+My head was spinning with fear.	1
+I was quite terrified.	1
+I was frightened to stay in the house.	1
+Staying in the house scared me.	1
+It scared me to stay in the house.	1
+To stay in the house would have terrified me.	1
+Staying at the house scared me.	1
+I became hysterical.	1

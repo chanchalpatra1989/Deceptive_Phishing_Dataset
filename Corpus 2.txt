@@ -1,0 +1,192 @@
+She was less comfortable telling this story.	1
+This was a story she felt less at ease telling.	1
+Telling this story made her feel less at ease.	1
+This was not the story she felt most at ease telling.	1
+It's something that she would actually do.	1
+She would genuinely take action on it.	1
+It's something she would genuinely carry out.	1
+She would genuinely take action in this regard.	1
+He doesn't seem like he would drink with his parents.	1
+It appears that he would not partake in alcohol with his parents.	1
+He does not appear to be a drinker when around his parents.	1
+It is unlikely that he would partake in alcohol with his parents.	1
+It doesn't appear like he would partake in alcohol consumption with his parents.	1
+He was laid back when he told the story, not nervous.	1
+When he delivered the anecdote, he was not nervous; rather, he was casual.	1
+He didn't seem apprehensive at all when he told the story.	1
+Instead of being nervous, he was relaxed as he related the tale.	1
+It was a lie.	1
+It was untrue.	1
+It wasn't true.	1
+That was false.	1
+The topic was too sensitive to lie about.	1
+It was too delicate a subject to lie about.	1
+Lying on such a delicate subject was not an option.	1
+There was no way I could lie about such a delicate subject.	1
+It would have been inappropriate to lie on such a delicate subject.	1
+You just don't lie about something like that.	1
+You simply don't tell lies about that kind of thing.	1
+Simply put, you wouldn't lie about something like that.	1
+You simply do not tell lies about such things.	1
+It was too important to lie about.	1
+It was just too significant to be untrue.	1
+Too much depended on it to be lied about.	1
+The matter was too significant to fabricate.	1
+There was no way I could have lied about it.	1
+The boss was so stingy, he didn't reward me for all the work I did, so I took some myself.	1
+Because my supervisor was so inconsiderate, I took some of the work I did because he didn't give me credit for it all.	1
+I took part of the job myself because the employer was so unappreciative of all the effort I done.	1
+I brought some work home with me because my boss was so inconsiderate that he didn't value all of the work I produced.	1
+I swear to God, I was home last night.	1
+I was home yesterday night, I promise you.	1
+I swear to God that I spent last night at home.	1
+I was at home last night, I promise you.	1
+To tell you the truth, I thought those numbers looked a little off myself.	1
+To be honest, I too felt that the numbers were a little odd.	1
+The fact is, I also felt that the numbers were a little strange.	1
+The numbers seemed a little strange to me, to be honest.	1
+I don t know how that showed up on your bill, to be honest.	1
+To be honest, I have no idea how that ended up on your bill.	1
+Honestly, I'm not sure how that ended up on your bill.	1
+To tell the truth, I have no idea how that appeared on your bill.	1
+I suspect my partner was not telling me the truth.	1
+My spouse wasn't telling me the whole truth, I think.	1
+My partner might not have been telling the truth, in my opinion.	1
+I told him I had done poorly on my calculus homework when I had aced it.	1
+Even though I had aced my math homework, I told him I had done poorly.	1
+I told him that even though I had aced my calculus homework, I had done poorly on it.	1
+Though I'd aced my math homework, I told him I'd done poorly on it.	1
+I told him I didn't take out our garbage because I didn't know where to take it.	1
+I told him that I didn't know where to take our trash, so I didn't take it out.	1
+I explained to him that I had not taken out our trash because I had not known where to put it.	1
+Reminding him that I didn't know where to take our trash, I told him.	1
+Told her she looked well, voice sounded good when she looks less well than a few weeks ago.	1
+Told her that although she didn't look as great as she did a few weeks earlier, her voice sounded terrific.	1
+Told her that although her appearance had improved a few weeks prior, her voice sounded nice and she looked great.	1
+She looked better than a few weeks ago, but you told her that her voice sounded nice and she looked great.	1
+Informed her that although she didn't look as great as she did a few weeks earlier, her voice sounded terrific.	1
+Exaggerated how sorry I was to be late.	1
+I apologized a lot for being late.	1
+I lied when I said I was sorry for being late.	1
+Felt compelled to apologize for my tardiness.	1
+I apologized profusely for being late.	1
+Disagreed when she told me my drawing was good even though I thought it was.	1
+I didn't agree with her when she said my drawing was good, even though I did.	1
+I wasn't in agreement when she said my drawing was good, even though I felt it was.	1
+Though I believed my drawing was good, I disagreed with her when she said it was.	1
+I worked hard to achieve my goal.	1
+To reach my goal, I put forth a lot of effort.	1
+To accomplish my aim, I worked very hard.	1
+To reach my goal, I put in a lot of work.	1
+I put a lot of effort into achieving my objective.	1
+hey I just got your missed call.	1
+Hey, your missed call just reached me.	1
+Hello, I saw that you missed our call.	1
+I noticed that your call was missed.	1
+Hello, I just noticed that your call was missed.	1
+okay last question and then I have to get to class.	0
+Alright, one last question before I get to class.	0
+I have to leave for class after this last question.	0
+Alright, one final query before I get to class.	0
+Anyway, I have to go so I can write a paper.	1
+In any case, I have to leave so that I can finish my paper.	1
+I have to leave, though, so I can finish writing my paper.	1
+That being said, I must depart in order to compose a paper.	1
+In any case, I must leave so that I may finish writing my paper.	1
+alright I'am going to get some dinner..i'll speak to you later.	1
+Okay, I'm heading to grab some dinner and will talk to you later.	1
+I will talk to you later. Alright, I'm heading to grab some food.	1
+Okay, I'll talk to you later. I'm out to get some dinner.	1
+I'm going to grab some lunch now, I guess.	1
+I suppose I'll go have some food now.	1
+I guess I'm going to have some food now.	1
+Now I suppose I'll go have some food.	1
+I forgot about it completely.	1
+I completely lost track of it.	1
+I entirely forgot about it.	1
+I totally lost track of it.	1
+It absolutely slipped my mind.	1
+I have lots of work, so I can't.	1
+I'm unable to because of my workload.	1
+I can't since I have a lot of work.	1
+I cannot since I am overworked.	1
+I had a conference all week and got home late last night and passed out.	1
+I returned home late last night after a week-long conference and passed out.	1
+I was exhausted after a late-night meeting all this week.	1
+After returning home late yesterday night from a conference that lasted the entire week, I passed out.	1
+I returned home late last night from a conference that lasted the entire week, and I passed out.	1
+I know it happened because I can remember I had the note on my calendar.	0
+I can recall having the notation on my calendar, so I know it happened.	0
+Since I can still recall seeing the note on my calendar, I am positive it happened.	0
+My memory of having the notation on my calendar allows me to confirm that it did indeed happen.	0
+I distinctly recall having the notation in my calendar, so I know it happened.	0
+Is it correct that personnel cannot be charged to an award until their COI Training is completed ?	0
+Is it true that employees cannot be charged to an award until they have finished their COI training?	0
+Do employees have to wait to be charged to an award until after they have finished their COI training?	0
+With her injuries it's doubtful that she'll ever walk again.	1
+It's unlikely that she will ever be able to walk normally due to her injuries.	1
+She probably won't be able to walk again due to her injuries.	1
+Her chances of ever walking again are slim due to her injuries.	1
+Rose is due to start school in January.	0
+Rose's first day of school is in January.	0
+In January, Rose is supposed to start school.	0
+January marks Rose's scheduled start of school.	0
+Is it true or false that the Robinson projection shows the size of the continents accurately and the water areas are expanded to fill the extra ?	0
+Is it realistic to say that the continents' sizes are depicted in the Robinson projection, and the sea areas are enlarged to fill in the gaps?	0
+Is it true or incorrect that the water areas are enlarged to occupy the extra space in the Robinson projection, which appropriately depicts the size of the continents?	0
+Is it correct that the ocean areas are enlarged to fit the excess space in the Robinson projection, which depicts the sizes of the continents accurately?	0
+Is it true or incorrect that the water areas are stretched to occupy the excess space in the Robinson projection, which appropriately depicts the size of the continents?	0
+It was inevitable that there would be job losses.	0
+A certain amount of jobs would have to be lost.	0
+It was inevitable that people would lose their jobs.	0
+Losses of employment were unavoidable.	0
+It's just possible that I gave them the wrong directions.	1
+Maybe I just gave them the wrong instructions.	1
+I might have just given them the incorrect instructions.	1
+I could have just given them the wrong instructions.	1
+It's possible that I misdirected them.	1
+Is it right that mostly college drop-out students run the biggest business in the world ?	0
+Is it accurate to say that the largest company in the world is primarily run by college dropouts?	0
+Does the largest company in the world primarily consist of college dropouts?	0
+Is it true that the largest company in the world is primarily run by college dropouts?	0
+These control failures are certain to happen occasionally.	1
+There will inevitably be occasional instances of these control failures.	1
+It is inevitable that there may be occasional control failures.	1
+Undoubtedly, there will be some instances of these control failures.	1
+Tell me where you are?	0
+Please let me know where you are.	0
+Could you tell me where you are?	0
+Please tell me your location.	0
+Ehm : Oh God (laughs)	1
+Oh God, ehm (laughs)	1
+Ehm: Oh my God, he laughs.	1
+Oh God, Ehm says, laughing.	1
+Ehm: God, that's hilarious.	1
+Right : two along from the bottom one up	0
+Right: two in a row, starting at the bottom.	0
+Right: two running up from the bottom	0
+Right: two consecutive ones starting from the bottom.	0
+Two along from the bottom, which side?	0
+Which side is two along from the bottom?	0
+On which side are two from the bottom?	0
+The left : going from left to right in the second box.	0
+The left: in the second box, moving from left to right.	0
+The left: navigating the second box from left to right.	0
+Within the second box, the left is moving from left to right.	0
+In the second box, the left is moving from left to right.	0
+You re in the second box.	0
+The second box contains you.	0
+In the second box, you are.	0
+You are located in the second container.	0
+One up (1 sec.) I take it we ve got identical mazes?	0
+One up (one second) I assume that our mazes are the same?	0
+One second up Are our mazes exactly the same, I assume it?	0
+A single up (1 second) Do our mazes look the same to you?	0
+Yeah well : right, starting from the left, you re one along	0
+Yes, that's correct. Let's start from the left and work our way down.	0
+Okay, so you're one along. Let's start from the left.	0
+Indeed, in that case, you're one along. Let's start from the left.	0
+Alright, so you're one along. Let's start from the left.	0
+Uh-huh	0
+Yes, I understand.	0
+Well, yeah	0

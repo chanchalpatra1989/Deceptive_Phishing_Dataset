@@ -1,0 +1,431 @@
+The kitchen is in a terrible mess	1
+There's an awful mess in the kitchen.	1
+The kitchen is a complete disaster.	1
+This mess in the kitchen is awful.	1
+I'm certain you won't mind giving me a lift.	1
+You'll have no problem providing me a ride.	1
+You'll have no trouble providing me a ride, I'm sure.	1
+You'll be happy to give me a lift, I'm sure.	1
+You'd better move your car right now!	0
+It's best that you move your car now!	0
+You had better get your car moved immediately!	0
+Moving your car right now would be wise.	0
+You really should move your automobile immediately!	0
+Clean up that mess!	0
+Clear that mess!	0
+Tidy up that mess!	0
+Take care of that mess!	0
+I've explained myself and that's that	0
+I've given my explanation, so that's it.	0
+I've made my point clear, so that's it.	0
+That concludes my explanation of myself.	0
+Get lost Leave me alone!	1
+Get disoriented Give me some space!	1
+Become disoriented Please don't bother me!	1
+Go a lost Go away from me!	1
+Go somewhere. Be gone from me!	1
+Go and clean that kitchen!	0
+Now get that kitchen cleaned!	0
+Get that kitchen cleaned!	0
+Proceed to tidy that kitchen!	0
+Are you going to be free this afternoon?	0
+Will you have any free time this afternoon?	0
+This afternoon, will you be available?	0
+Which time this afternoon are you going to be free?	0
+Will you have some spare time this afternoon?	0
+I guess so	1
+I suppose it is.	1
+Apparently so	1
+So, I suppose.	1
+Yeah, 'cause I need to get those papers from you.	0
+Yes, since I must obtain such documents from you.	0
+Yes, since I require such papers from you.	0
+Indeed, I must obtain those documents from you.	0
+Why don't you come by my office after I'm done with my two o'clock?	0
+How about dropping by my workplace once I finish my two o'clock?	0
+After I finish my two o'clock, why don't you stop by my office?	0
+When I finish up with my two o'clock, why don't you stop by my office?	0
+Okay	0
+Alright.	0
+Right, so	0
+You probably won't believe this/	0
+Most likely, you won't believe this.	0
+This may probably surprise you.	0
+This will definitely shock you.	0
+You're right, I won't. So why tell me?	0
+I won't, you're right. What makes you tell me then?	0
+It's true that I won't. Therefore, why reveal to me?	0
+Thought you might be curious.	1
+I figured you would be interested.	1
+I thought you might be interested.	1
+I wondered whether you were interested.	1
+You thought wrong.	0
+You had the incorrect idea.	0
+You were mistaken in your thinking.	0
+Your assumption was incorrect.	0
+It was a mistake in judgement.	0
+I could say something, but I won't.	1
+I could, but I won't, say anything.	1
+Though I could, I won't say anything.	1
+I could say something, but I'm not going to.	1
+O.K. Don't.	0
+Okay, don't.	0
+Alright, don't.	0
+Okay, do not.	0
+Well, maybe I should tell you....	1
+Perhaps I should inform you, then.	1
+Maybe I should inform you, though.	1
+Possibly, I ought to inform you.	1
+I don't really want to talk about this now, but I think you should know.	1
+Though I feel that you should know, I truly don't want to discuss this right now.	1
+Although I don't really want to discuss it right now, I feel that you should know.	1
+I feel like you should know, even though I really don't want to discuss this right now.	1
+Not now.	1
+Not right now.	1
+Not at this moment.	1
+Not at this point in time.	1
+It's been a long day and I want to relax for awhile.	0
+After a long day, I'd like to unwind for a bit.	0
+I want to unwind for a little because it's been a long day.	0
+I want to relax for a little after such a busy day.	0
+Good idea.	0
+Excellent concept.	0
+Nice thought.	0
+Good approach.	0
+Good approach.	0
+I find his sense of humor very unique.	0
+I think his sense of humor is quite original.	0
+His humor strikes me as being incredibly original.	0
+His humor strikes me as being truly unique.	0
+I order you to stop running.	0
+I plan on finishing my thesis this year.	0
+This year, I want to finish my thesis.	0
+My goal for this year is to complete my thesis.	0
+During this year, I want to complete my thesis.	0
+I apologize for not returning your phone call sooner	1
+I regret not getting back to you on your call sooner.	1
+I'm sorry for not getting back to you on the phone sooner.	1
+Sorry I didn't get back to you on the phone sooner.	1
+I apologise for not getting back to you on your call sooner.	1
+I argue that classifying apologies is a complex task	1
+I contend that categorising regrets is a difficult undertaking.	1
+I contend that the task of categorising apologies is difficult.	1
+Classifying apologies, in my opinion, is a difficult assignment.	1
+Can you open the door?	0
+Is it possible for you to open the door?	0
+Could you please open the door?	0
+Are you able to open the door?	0
+Can you let the door open?	0
+O.K	0
+Alright.	0
+Okay.	0
+Haven't you seen it at least twice?	0
+You've watched it at least twice, right?	0
+Have you not watched it two or more times?	0
+You've watched it two times minimum, right?	0
+O.K. I'm going to do my homework now.	0
+Alright. Now I'm going to work on my schoolwork.	0
+Okay. I'm about to tackle my schoolwork.	0
+All right. I'm about to start working on my assignment.	0
+Alright. I'm going to start working on my schoolwork now.	0
+Please send me the books	0
+Send the books to me, please.	0
+Kindly forward the books to me.	0
+Please send the books to me.	0
+I am asking you to help me	0
+I'm requesting your assistance.	0
+I need your assistance.	0
+Please lend a hand, please.	0
+I would like you to tell me how to do it.	1
+Could you please explain the process to me?	1
+Please walk me through the process.	1
+Please explain the process to me.	1
+Tell me how to do it, please.	1
+You should show me how to do it.	0
+Please demonstrate the process for me.	0
+I should see you demonstrate how to do it.	0
+You should to demonstrate the process to me.	0
+I should see you demonstrate how to accomplish it.	0
+I wish you would give us more time to finish.	1
+I hope you would extend our finishing time.	1
+I hope you would allow us additional time to complete.	1
+I would prefer that you extend our finishing time.	1
+How about next Thursday?	0
+What about Thursday of next week?	0
+Perhaps Thursday of next week?	0
+Possibly Thursday of next week?	0
+Could you/would you tell me when can I meet you?	0
+Would you please let me know when we can meet?	0
+When can I meet you, if you could or would?	0
+What time would you be available for us to meet?	0
+Could you let me know when we can meet?	0
+I cannot do it by myself.	1
+I'm not able to handle it alone.	1
+I am not able to do it on my own.	1
+No way could I do this on my own.	1
+I'm not capable of doing it on my own.	1
+I do not have the net at home.	1
+The net is not with me at home.	1
+At home, I don't have the internet.	1
+My house is not equipped with a net.	1
+please tell us when will you come to the university ?	0
+Please let us know when you plan to visit the university.	0
+Could you please tell us when you plan to visit the university?	0
+When would you be visiting the university, please?	0
+please Dr. Z tell me when can I find you at university to bring you the dissertation.	0
+Please let me know when I may come see you at the university so I can bring the dissertation, Dr. Z.	0
+Tell me when I can find you at the university so I can bring you the dissertation, please, Dr. Z.	0
+To bring you the dissertation, please let me know when I can locate you at the university, Dr. Z.	0
+To bring you the dissertation, please let me know when I can locate you at the university, Dr. Z.	0
+Please Sir, e-mail me if you have something.	0
+Kindly send me an email if you have any updates.	0
+If you have any questions, please email me, sir.	0
+Kindly, if you have any questions, send me an email.	0
+sir, please answer my calls or join me on the net whenever possible.	0
+Please return my calls, sir, or log on to the internet with me whenever you can.	0
+Please pick up my phone when I call or go on to the internet whenever you can, sir.	0
+Whenever you can, sir, please take my calls and join me online.	0
+Please read it and, of course I'm welcoming any of your suggestions.	0
+Please take a look at it, and feel free to provide any suggestions.	0
+Kindly review it, and naturally, I would appreciate any feedback you may have.	0
+Please take a glance at it, and undoubtedly, I would appreciate any feedback.	0
+i just wanted to asked whether you finished correcting my thesis or not yet	1
+I simply wanted to know if you had completed editing my thesis.	1
+I was simply curious as to whether you had completed editing my thesis.	1
+Would you please let me know if you have completed editing my thesis?	1
+I would like to know if you have completed editing my thesis.	1
+i just thought maybe you sent me something and i didn't receive it!	1
+I was simply thinking that perhaps something was delivered to me and I never got it!	1
+I was just thinking, perhaps you sent me something and I never got it!	1
+I simply reasoned that it's possible I didn't receive something you sent!	1
+I was simply thinking that probably there's something you sent me but I never got it!	1
+I just wanted to know if this article is a reliable source to be used in my thesis	1
+Simply put, I needed to know if this article would be a trustworthy source for my thesis.	1
+Just wondering if this article is a trustworthy source to use for my thesis.	1
+My question was simply if this article would be a trustworthy source for my thesis.	1
+All I wanted to know was whether this article would be a trustworthy source for my thesis.	1
+I just wanted to discuss these issues with you	1
+I simply wanted to talk to you about my concerns.	1
+All I wanted to do was talk to you about these problems.	1
+I was only hoping to talk to you about these matters.	1
+I merely wanted to talk to you about these matters.	1
+I'm always willing to admit it when I make a mistake.	1
+I have no problem owning up to my mistakes.	1
+When I make a mistake, I'm always ready to own up to it.	1
+When I commit an error, I'm always prepared to own up to it.	1
+When I make a mistake, I'm always prepared to own up to it.	1
+I like to gossip at times.	1
+Sometimes I like to gossip.	1
+Sometimes I enjoy gossiping.	1
+I enjoy gossiping occasionally.	1
+Sometimes I enjoy chatting up people.	1
+Was this lie ever discovered?	0
+Was this falsehood ever found out?	0
+Was this falsehood ever exposed?	0
+Did anyone ever find out about this lie?	0
+Was there ever any proof of this lie?	0
+If you could relive this social interaction, would you tell the lie again?	0
+Would you tell the same lie in this social situation again if you could?	0
+Would you tell the same untruth in this social situation if you could go back in time?	0
+Would you tell the same untruth if you could go back and redo this social exchange?	0
+Would you lie again in this social situation if you could?	0
+How do you expect sales to be next year?	0
+What is your forecast for the upcoming year's sales?	0
+What is your forecast for sales the next year?	0
+What kind of sales do you anticipate for the upcoming year?	0
+What are your projections for the upcoming year's sales?	0
+I expect sales to grow next year.	1
+Next year, I anticipate sales to increase.	1
+Next year, I think sales will increase.	1
+Next year, I anticipate higher sales.	1
+Sales should increase in the upcoming year.	1
+Well, as you know, over the last 10 years our sales have grown consistently.	1
+As you are aware, we have had steady growth in sales over the past ten years.	1
+As you are aware, our sales have increased steadily during the past ten years.	1
+Our sales have increased steadily over the past ten years, as you are aware.	1
+As you are aware, we have steadily increased sales over the past ten years.	1
+Since sales have gone up the last 10 years, I expect them to go up next year.	1
+Sales should increase next year, as they did over the past ten years.	1
+I anticipate higher sales next year, as they have increased over the last ten years.	1
+Sales should increase in 2019 as they did over the last ten years.	1
+Given the upward trend in sales over the past ten years, I anticipate continued growth in sales in 2019.	1
+Has this car ever had problems?	0
+Was there ever an issue with this car?	0
+Was there ever a problem with this car?	0
+Has this vehicle ever experienced issues?	0
+Has there ever been an issue with this car?	0
+Twice in the last year this car would not start and both times I had to have a mechanic fix it	1
+This automobile would not start twice in the past year, and each time I had to have a mechanic fix it.	1
+My car wouldn't start twice in the past year, and I had to get a mechanic to fix it each times.	1
+I had to get a mechanic to fix this automobile twice in the past year because it would not start.	1
+This car has never had problems.	1
+This vehicle has never experienced issues.	1
+Problems have never arisen with this car.	1
+There have never been any issues with this car.	1
+
+This car drives very smoothly and is very responsive. Just last week it started up with no problems when the temperature was -5 degrees Fahrenheit.	1
+
+They [Laci s family] are obviously um upset with me about the um the romantic um relationship with Amber um and they have little trust as they ve expressed in the media to date um but I believe that they re still looking for Laci.	0
+
+Um well I ll just I ll just tell you. Uh you haven t been watching the news obviously. Um I have not been travelling during the last couple weeks. I have, I have lied to you that I ve been travelling. The girl I m married to, her name is Laci. She disappeared just before Christmas.	0
+
+It was a couple of days after Laci s disappearance, I telephoned her [Amber] and told her the truth.	1
+
+I ll call when it s my night time. About nine hours difference. I ll take the train late tonight from here to Brussels. And then I ll be in Brussels for at least four days.	1
+
+I ll call when it s my night time.	0
+When it's my night, I'll give you a call.	0
+When darkness falls, I'll give you a call.	0
+When I go to bed, I'll give you a call.	0
+When it's my nighttime, I'll give you a call.	0
+About nine hours difference.	0
+A difference of almost nine hours.	0
+The difference is almost nine hours.	0
+Nine hours or so is the difference.	0
+About nine hours separate the two.	0
+I ll take the train late tonight from here to Brussels.	0
+I'm going to Brussels by train later tonight.	0
+From here, I'll take the late train to Brussels tonight.	0
+Tonight, I'll travel to Brussels by train, departing late.	0
+I'm going to Brussels tonight by train.	0
+And then I ll be in Brussels for at least four days.	0
+After that, I'll spend at least four days in Brussels.	0
+I'll spend at least four days in Brussels after that.	0
+The next four days or more will be spent in Brussels.	0
+Following that, I'll spend at least four days in Brussels.	0
+Would you like to meet for lunch tomorrow?	0
+Do you want to get together tomorrow for lunch?	0
+Are you open to getting together for lunch tomorrow?	0
+Shall we have lunch together tomorrow?	0
+Would you be interested in getting together for lunch tomorrow?	0
+Sure!	0
+Yes, of course!	0
+Yes, without doubt!	0
+Well, hmm, let's see... Tomorrow's Tuesday, right? I told Harry I'd have lunch with him. And I told him so long ago that I'd feel bad canceling. Maybe another time, okay?	1
+Oh, well, let's investigate. It's Tuesday tomorrow, correct? I promised Harry we would eat lunch together. I also warned him a long time ago that I would regret cancelling. Okay, maybe another time.	1
+Alright, let's see... It's Tuesday, right, tomorrow? I promised Harry that we would eat lunch. And I'd felt horrible for cancelling, I told him years ago. Alright, maybe later?	1
+Let's see, then... Tuesday is next week, correct? Harry and I were going to eat lunch. And I had already warned him that I would regret cancelling. Perhaps at a later time?	1
+And I told him so long ago that I'd feel bad canceling.	1
+I also warned him a long time ago that I would regret cancelling.	1
+And I'd felt horrible for cancelling, I told him years ago.	1
+And I had already warned him that I would regret cancelling.	1
+And I had warned him a long time ago that I would regret cancelling.	1
+I have problems with verbs, and I have yet to improve my vocabulary.	0
+My vocabulary needs work, and I struggle with verb tenses.	0
+I still need to work on expanding my vocabulary and I struggle with verbs.	0
+My vocabulary still has to be improved, and I struggle with verbs.	0
+My vocabulary still needs work, and I struggle with verb tenses.	0
+I had some grammatical errors, but small ones. I was fine. I am quite fluent and spontaneous.	0
+I made a few minor grammatical mistakes. I was alright. I speak clearly and impulsively.	0
+Small grammatical faults were present in my writing. I was doing OK. I speak with ease and on a whim.	0
+Though not too many, I did make a few minor grammar mistakes. I had no problems.	0
+Though they were minor, I made a few grammatical mistakes. I was okay. I speak with ease and without prompting.	0
+Being spontaneous and fluid is who I am.	0
+I'm impulsive and flexible by nature.	0
+I'm a free-spirited, adaptable person.	0
+That is who I am: impulsive and adaptable.	0
+I'm a naturally flowing, impulsive person.	0
+I had some grammatical errors, but small ones.	0
+I made a few minor grammatical mistakes.	0
+Small grammatical faults were present in my writing.	0
+Though not too many, I did make a few minor grammar mistakes.	0
+Though they were minor, I made a few grammatical mistakes.	0
+In regular classes I can't express my true feeling in English and this makes me feel uncomfortable.	1
+I find it awkward when I can't communicate how I really feel in English in regular classes.	1
+I feel awkward in regular classes since I can't communicate how I really feel in English.	1
+I find that I find it difficult to communicate how I really feel in English in regular classes.	1
+I find it uncomfortable when I can't communicate how I really feel in English in regular classes.	1
+I never feel quite sure of myself when I am speaking in my foreign language  class.	1
+Speaking in front of my foreign language class makes me never feel fully confident in myself.	1
+When I speak in my foreign language class, I never feel completely confident in myself.	1
+When I'm speaking in front of my foreign language class, I never feel really confident.	1
+When I speak in front of my foreign language class, I never feel completely confident in myself.	1
+I don't worry about making mistakes in language class.	1
+I don't stress about not understanding the language in class.	1
+I don't give a damn about botching language lessons.	1
+Making mistakes in language class is not something I worry about.	1
+I'm not concerned about making mistakes in my language class.	1
+I tremble when I know that I'am going to be called on in language class.	1
+When I know I'm going to be called upon in language class, I shudder.	1
+In language class, I shudder when I think I might be called upon.	1
+The thought of being called upon in language class makes me shudder.	1
+It frightens me when I don't understand what the teacher is saying in foreign language.	1
+When a teacher speaks in a language I don't understand, it makes me nervous.	1
+When the teacher speaks in a foreign language and I can't understand her, it scares me.	1
+When a foreign language teacher speaks and I can't understand them, it scares me.	1
+When a teacher speaks in a foreign language and I can't understand them, it makes me nervous.	1
+It wouldn't bother me at all to take foreign language classes.	1
+I wouldn't find taking classes in foreign languages to be at all problematic.	1
+I would not be bothered to attend classes in foreign languages.	1
+Learning a foreign language wouldn't be a problem for me at all.	1
+I would have no problem taking classes in foreign languages.	1
+During language class, I find myself thinking about things that have nothing to do with the course.	1
+in relation to the course.	1   
+relate to the course.	1
+regarding the course.	1
+I keep thinking that the other students are better at languages than I am.	1
+My constant thought is that the other pupils are more proficient in languages than I am.	1
+The other pupils' proficiency in languages seems to be superior to mine, in my opinion.	1
+I persistently believe that my language skills are inferior to those of my fellow students.	1
+I can't help but feel that the other students are more proficient in languages than I am.	1
+I am usually at ease during tests in my language class.	1
+In my language class, exams usually put me at ease.	1
+In my language class, I usually feel comfortable taking tests.	1
+Tests in my language lesson usually make me feel comfortable.	1
+I start to panic when I have to speak without preparation in language class.	1
+When I have to speak in front of the class without having prepared, I get nervous.	1
+In language class, when I have to talk without preparation, I get nervous.	1
+In language class, I become nervous when I have to talk without any preparation.	1
+Um h-he had some blood all over the floor and there were some just coming down on his arms.	1
+Um h-he had some blood all over the floor and there were some just coming down on his arms.	1
+He was covered in blood, some of which was falling onto his arms and covering the floor.	1
+His arms were being pelted with blood, and there was blood all over the floor.	1
+Um I drove forever and ever until I was in the middle of the desert.	1
+I drove for what seemed like an eternity until I arrived in the middle of a desert.	1
+I drove endlessly till I reached the middle of the desert.	1
+Till I was in the midst of the desert, I drove for what seemed like forever.	1
+I drove for a very long time till I reached the middle of the desert.	1
+Um because he was still sort of on his hands and knees.	1
+Since he was still kind of crawling about on his hands and knees.	1
+He was still kind of on his hands and knees, which is why.	1
+because, well, he was still kind of crawling.	1
+as he was still kind of clumsy.	1
+I didn t call anybody or tell anybody.	1
+I didn't inform or phone anyone.	1
+I kept it to myself and didn't tell anyone.	1
+No one was informed or called by me.	1
+I kept it to myself, neither telling or calling anyone.	1
+there was nothing missing from this house.	1
+Nothing was absent from this home.	1
+This house contained nothing that was lacking.	1
+In this house, nothing was lacking.	1
+This house had nothing missing.	1
+And um they just kept arguing.	1
+They just continued to argue, eh.	1
+And they simply kept fighting, I guess.	1
+They simply continued to quarrel.	1
+They simply continued to argue, eh.	1
+I was terrified.	1
+I was frightened.	1
+I felt frightened.	1
+I felt quite afraid.	1
+It scared me.	1
+I was scared for my life.	1
+I felt like I might die.	1
+For my life, I was terrified.	1
+I was terrified for my life.	1
+I was terrified for my life.	1
+I felt like I might not survive.	1
+For my life, I was afraid.	1
+For my own life, I was scared.	1
+I was running for my life.	1
+I was running for my life.	1
+My life was in danger as I ran.	1
+I had to flee for my life.	1
+My life was in jeopardy.	1
+I was escaping for my life.	1
+I think there was a na ve belief.	1
+There was, in my opinion, a naive belief.	1
+There was a naive belief, in my opinion.	1
+I could pretend like it didn t really happen.	1
+A naive belief, in my opinion, existed.	1

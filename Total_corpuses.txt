@@ -1,0 +1,2010 @@
+I just feel hopeless.	1
+I simply don't feel hopeful.	1
+I'm just devoid of hope.	1
+I'm just full of hopelessness.	1
+All I can say is that I feel hopeless.	1
+I can't do enough.	1
+I'm unable to accomplish enough.	1
+I have so much to accomplish.	1
+I am incapable of doing enough.	1
+And now I can't help them.	1
+I'm unable to assist them currently.	1
+I am now unable to assist them.	1
+I'm unable to assist them now.	1
+I'm unable to assist them at this time.	1
+I just feel like such a failure.	1
+I simply feel like a complete failure.	1
+I simply think I'm such a failure.	1
+It seems like I'm a complete failure.	1
+I simply feel like such an inadequate person.	1
+I simply feel like a complete failure.	1
+I simply think I'm such a failure.	1
+You drive straight home ?	0
+You take a direct car ride home?	0
+You make a direct drive home?	0
+Do you take a direct car ride home?	0
+You take a direct driver's seat home?	0
+To the warehouse, dropped off the boat.	1
+Dropped off the boat at the warehouse.	1
+Dropped the boat off at the warehouse.	1
+Shipped off the boat to the warehouse.	1
+Off the boat, dropped off at the warehouse.	1
+The number of births peaked in about 1955 and from there on each year there were fewer births.	0
+Around 1955, the number of births peaked, and after that, fewer births occurred annually.	0
+About 1955 was the peak in the number of births, after which there were fewer births annually.	0
+From around 1955 onward, the annual birth rate decreased as the population reached its high.	0
+After reaching a high in 1955 or thereabouts, the annual birth rate decreased.	0
+As a result of that each year after 1973 fewer people turned 18 so the company could no longer rely on this tremendous number of baby boomers reaching smoking age.	1
+I didn't do work specifically on teenage smoking.	1
+I didn't focus my efforts on teen smoking explicitly.	1
+I didn't focus my efforts on teen smoking.	1
+I never focused on teen smoking particularly.	1
+All right, man, I did it, the damage.	1
+Okay, dude, I completed the damage.	1
+Alright, dude, I fixed the damage.	1
+Okay, dude, I fixed the damage, everything.	1
+Okay, dude, I fixed the damage.	1
+Do you know anybody who did have data that would allow a market penetration study of the type I've asked about to be performed ?	0
+Do you know of anyone who possesses data that would enable the completion of the kind of market penetration research I've inquired about?	0
+Do you know of anybody who did possess data that could enable the kind of market penetration research I've been asking about to be conducted?	0
+Would it be possible to conduct a market penetration research similar to the one I've inquired about using the data that someone you know has?	0
+So far as I know only the federal government.	1
+I am only aware of the federal government at this time.	1
+Just the federal government, as far as I'm aware.	1
+The federal government is the only one that I am aware of.	1
+Only the federal government, as far as I'm aware.	1
+Are you familiar with the phrase psychographic study from your work at Philip Morris?	0
+Do you have any experience with psychographic studies from your time at Philip Morris?	0
+From your employment at Philip Morris, are you acquainted with the term psychographic study?	0
+Does your experience at Philip Morris allow you to use the term psychographic study?	0
+From your job at Philip Morris, are you acquainted with the term psychographic study?	0
+What is a psychographic study?	0
+A psychographic study: what is it?	0
+A psychographic study is what?	0
+Psychographic studies: what are they?	0
+A psychographic study: What is it?	0
+I needed to get my inhaler.	1
+I had to go grab my inhaler.	1
+I must fetch my inhaler.	1
+I had an inhaler to acquire.	1
+I didn't know the route well.	1
+I was unfamiliar with the road.	1
+The path was foreign to me.	1
+The road was new to me.	1
+I was completely tense.	1
+I felt quite anxious.	1
+I couldn't relax at all.	1
+I was shaking uncontrollably.	1
+I was a nervous wreck.	1
+I felt quite anxious.	1
+I couldn't relax at all.	1
+I was shaking uncontrollably.	1
+They lied to us.	1
+They misled us.	1
+They told us falsehoods.	1
+To us, they told lies.	1
+I was lied to or tricked.	1
+Someone deceived or lied to me.	1
+I was duped or misled.	1
+Someone fooled or lied to me.	1
+Someone deceived or misled me.	1
+Someone misled or deceived me.	1
+I was duped or misled by someone.	1
+Someone misled or tricked me.	1
+You relied on the mortgage broker, who was maybe even a  friend , and signed papers without reading them, and now you are facing foreclosure by the mortgage company that scammed you.	1
+You signed documents without reading them because you trusted the mortgage broker, who may have even been a friend, and now the mortgage firm that conned you is threatening to put you in foreclosure.	1
+You signed documents without reading them, putting yourself at risk of foreclosure by the mortgage business that conned you because you trusted the mortgage broker, who was maybe even a friend.	1
+The mortgage firm that conned you is now threatening to foreclose on your property because you signed documents without reading them and relied on the mortgage broker, who may have even been a friend.	1
+You signed documents without reading them because you trusted the mortgage broker, who may have even been a friend, and now the mortgage firm that conned you is threatening to put you into foreclosure.	1
+Were you rushed through ?	0
+Were you hurried along?	0
+Did you go through it quickly?	0
+Was your progress hurried?	0
+Were you hurried through the process?	0
+Were you allowed to read the papers before you signed them ?	0
+Before signing the documents, were you given the opportunity to read them?	0
+Before signing the documents, were you permitted to read them?	0
+When you signed the documents, was it permitted for you to read them?	0
+Before you signed the documents, were you given the opportunity to read them?	0
+These are just some of the things to look for.	0
+These are but a few items to be on the lookout for.	0
+Just a few of the items to search for are these.	0
+These are but a handful of the items to be on the out for.	0
+These are just a few items to be on the lookout for.	0
+I was deceived.	1
+I'm sure that if you try to remember, there were some episodes in some channel where a celebrity male contestant becomes furious (due to some scripted reality) and runs towards another fellow contestant and eventually hits him physically.	1
+Then we saw the dramatic anti-climax where the show producer/director runs into the rolling camera and tries to settle down all issues.	1
+Later on, this kind of a twist didn't catch much popularity as the basic idea was physical violence and abusive language and behaviour which was quite illegal according to any country's laws.	1
+prohibited under the laws of any nation.	1
+any nation's laws would consider unlawful.	1
+against the laws of any nation.	1
+Maybe the producers realized this later and discontinued this idea afterwards.	1
+Perhaps after realising this, the creators abandoned the original plan.	1
+Perhaps the creators abandoned this concept after realising this later.	1
+Perhaps this was discovered later by the producers, who then abandoned the plan.	1
+Perhaps after realising this, the producers dropped the concept.	1
+But the point is, they dared to introduce this! Violence and abuse.	1
+The thing is, they were bold enough to present this! Abuse and violence.	1
+What matters is that they were bold enough to present this! abuse and violence.	1
+But the thing is, they were bold enough to present this! Maltreatment and aggression.	1
+The important thing to remember is that they were bold enough to launch this! Abuse and Violence.	1
+For the sake of trying to show a fake thing as real.	1
+is an attempt to pass off a phoney as genuine.	1
+is an attempt to pass off a phoney item as authentic.	1
+just to attempt to pass off a phoney item as genuine.	1
+is an attempt to pass off a phoney item as genuine.	1
+You lie about big things, you lie about little things.	1
+You need to tell lies to cover up your whereabouts.	1
+You feel the need to justify yourself every time you ve been in the wrong neighborhood, because you feel guilty and ashamed.	1
+Its funny because most of the time people never suspect or wonder or where you were and what you were doing.	1
+Lying ends up becoming a compulsion, an addiction.	0
+You find convenient excuses for each occassion.	1
+You always come up with easy ways to justify yourself.	1
+Every occasion, you come up with a convenient reason.	1
+Every time, you come up with a useful rationale.	1
+Every occasion, you come up with an easy way to justify yourself.	1
+Traffic is always a great excuse when you are late home.	1
+Being late for work is always a good excuse thanks to traffic.	1
+When you are running late for home, traffic is usually a good reason.	1
+Being late for work may always be justified by traffic.	1
+When you are running late for home, traffic is usually a fantastic justification.	1
+I was offered for the personal training program at XY Fitness in south M., YZ.	0
+I said I don t want contracts and when I signed for my CC authorization they used my signature and stamped on a contract.	1
+I was never given a copy or told the cancellation rules.	1
+They finally after 2 months cancelled the contract but they refuse to give me the payment I made.	1
+What can I do?	0
+How am I able to help?	0
+How can I help?	0
+What am I able to do?	0
+What steps may I take?	0
+They are very dishonest and avaricious.	1
+They are extremely avaricious and dishonest.	1
+They are incredibly greedy and dishonest.	1
+They have an extremely greedy and dishonest nature.	1
+They are extremely greedy and dishonest.	1
+Did you have a gun when you entered the house?	0
+When you went inside the residence, did you bring a gun?	0
+When you went inside, were you carrying a gun?	0
+Upon entering the residence, did you carry a gun?	0
+When you entered the residence, did you carry a gun?	0
+I've never owned a firearm. 1
+I never had a gun.	1
+I never owned a firearm.	1
+I've never owned a gun.	1
+Most recent mistake I made was oversleeping for class yesterday.	1
+My most recent error was staying up late for class yesterday.	1
+I overslept for class yesterday, which was my most recent error.	1
+Yesterday, I overslept for class, which was my most recent error.	1
+My most recent error was sleeping in too much for class yesterday.	1
+what about you?	0
+How about you?	0
+Regarding you, how are things?	0
+Likewise, how about you?	0
+Regarding you, how are you?	0
+Oh! I forgot I had to work yesterday.	1
+Whoa! I didn't realise yesterday was my workday.	1
+Oh dear! I neglected that yesterday was my workday.	1
+I see now. Yesterday, I neglected to remember that I had to work.	1
+I see now! Yesterday, I was unaware that I had to report to work.	1
+What class did you miss?	0
+I missed my thai class.	1
+Thai? language class?	0
+And there s only five people in it, so my professor definitely knew i missed class.	1
+Yea thai language	0
+Where do you work?	0
+Where are you employed?	0
+What is your workplace?	0
+In what location do you work?	0
+I work at [library name] library.	0
+Why does your class only have 5 people in it?	0
+Why are there only 5 students in your class?	0
+Why is there just one other student in your class?	0
+There are only five students in your class; why?	0
+Um i don t know.	1
+So what do you do at [library name]?	0
+I shelve books.	0
+I arrange books in shelves.	0
+I stock book shelves.	0
+I have book shelves.	0
+It gets pretty boring.	1
+But I only work 2 days a week so its not bad.	1
+Are you allowed to listen to music?	0
+Yeah my headphones.	0
+You're lying.	1
+Lies that conceal plans for a surprise party.	1
+My school life was a mess.	1
+I mean I had a few horrible teachers who embarrassed me, or made me feel like an idiot because I couldn't draw a tree the way she wanted it.	1
+As for friends, I made a mistake by hanging with people who loved to make me sad.	1
+I was a chubby girl and did not care for makeup at a young age.	1
+Because my so called friends were the popular girls, I was left out constantly for being the way I was.	1
+I was used because they knew i couldn't fight back.	1
+After graduating into highschool, I made a lot of friends, who I respected and trusted.... wrong thing to do.	1
+One of my friends totally double crossed me and left me to hang.	1
+The whole rest of the year, I was traumatised by what she had done and spent my lunch hours alone working on homework.	1
+The sad thing is, Infront of me she acted like a total friend, but I heard things from others about the way she talked about me.	1
+Everyone turned against me because of this person and I will never forget that.	1
+I swear to God.	1
+I forget.	1
+I couldn't do something like that.	1
+I'm not the kind of person who would do that.	1
+That's not the type of thing I would do.	1
+I'm not the type of person to take that action.	1
+Personally, I wouldn't do something like that.	1
+That's not the sort of thing I would do.	1
+I wouldn't be able to do those things.	1
+I could never do those things.	1
+I couldn't perform those tasks.	1
+That's not something I could do.	1
+I couldn't do those tasks.	1
+I'll do this again until I think you've had enough.	1
+I will continue doing this until I believe you are tired of it.	1
+Until I decide you've had enough, I'll keep doing this.	1
+Until I feel like you've had enough, I'll continue doing this.	1
+Until I feel like you've had enough, I'll keep doing this.	1
+I think we started watching a movie.	1
+I believe we got inside a movie.	1
+We may have started a movie, I believe.	1
+I believe we have begun to watch a film.	1
+We may have begun watching a movie.	1
+All of a sudden someone blindfolded me.	1
+Suddenly, I was wearing a blindfold.	1
+Someone blinded me all of a sudden.	1
+Suddenly, I was blinded by someone.	1
+My wife probably came home.	1
+Most likely, my wife returned home.	1
+I think my wife arrived home.	1
+Very likely, my wife returned home.	1
+It's likely that my wife returned.	1
+I felt something poke me.	1
+I don't recall double checking the safe.	1
+I don't remember going through the safe twice.	1
+I don't remember checking the safe twice.	1
+Not that I remember checking the safe twice.	1
+I don't remember going through the safe again.	1
+I can't remember how I got back to the parking lot.	1
+How I returned to the parking lot is beyond me.	1
+I cannot recall how I returned to the parking area.	1
+How I returned to the parking lot is a memory hazard.	1
+How I returned to the parking lot is a mystery to me.	1
+I didn't look down to confirm whether it was a knife or not.	1
+Without checking to be sure it was a knife, I looked down.	1
+Not looking down to be sure it was a knife, though.	1
+Not checking to see whether it was a knife, though.	1
+I didn't check to be sure it wasn't a knife.	1
+I was scared out of my mind.	1
+I was really terrified.	1
+I was really afraid.	1
+My head was spinning with fear.	1
+I was quite terrified.	1
+I was frightened to stay in the house.	1
+Staying in the house scared me.	1
+It scared me to stay in the house.	1
+To stay in the house would have terrified me.	1
+Staying at the house scared me.	1
+I became hysterical.	1
+She was less comfortable telling this story.	1
+This was a story she felt less at ease telling.	1
+Telling this story made her feel less at ease.	1
+This was not the story she felt most at ease telling.	1
+It's something that she would actually do.	1
+She would genuinely take action on it.	1
+It's something she would genuinely carry out.	1
+She would genuinely take action in this regard.	1
+He doesn't seem like he would drink with his parents.	1
+It appears that he would not partake in alcohol with his parents.	1
+He does not appear to be a drinker when around his parents.	1
+It is unlikely that he would partake in alcohol with his parents.	1
+It doesn't appear like he would partake in alcohol consumption with his parents.	1
+He was laid back when he told the story, not nervous.	1
+When he delivered the anecdote, he was not nervous; rather, he was casual.	1
+He didn't seem apprehensive at all when he told the story.	1
+Instead of being nervous, he was relaxed as he related the tale.	1
+It was a lie.	1
+It was untrue.	1
+It wasn't true.	1
+That was false.	1
+The topic was too sensitive to lie about.	1
+It was too delicate a subject to lie about.	1
+Lying on such a delicate subject was not an option.	1
+There was no way I could lie about such a delicate subject.	1
+It would have been inappropriate to lie on such a delicate subject.	1
+You just don't lie about something like that.	1
+You simply don't tell lies about that kind of thing.	1
+Simply put, you wouldn't lie about something like that.	1
+You simply do not tell lies about such things.	1
+It was too important to lie about.	1
+It was just too significant to be untrue.	1
+Too much depended on it to be lied about.	1
+The matter was too significant to fabricate.	1
+There was no way I could have lied about it.	1
+The boss was so stingy, he didn't reward me for all the work I did, so I took some myself.	1
+Because my supervisor was so inconsiderate, I took some of the work I did because he didn't give me credit for it all.	1
+I took part of the job myself because the employer was so unappreciative of all the effort I done.	1
+I brought some work home with me because my boss was so inconsiderate that he didn't value all of the work I produced.	1
+I swear to God, I was home last night.	1
+I was home yesterday night, I promise you.	1
+I swear to God that I spent last night at home.	1
+I was at home last night, I promise you.	1
+To tell you the truth, I thought those numbers looked a little off myself.	1
+To be honest, I too felt that the numbers were a little odd.	1
+The fact is, I also felt that the numbers were a little strange.	1
+The numbers seemed a little strange to me, to be honest.	1
+I don t know how that showed up on your bill, to be honest.	1
+To be honest, I have no idea how that ended up on your bill.	1
+Honestly, I'm not sure how that ended up on your bill.	1
+To tell the truth, I have no idea how that appeared on your bill.	1
+I suspect my partner was not telling me the truth.	1
+My spouse wasn't telling me the whole truth, I think.	1
+My partner might not have been telling the truth, in my opinion.	1
+I told him I had done poorly on my calculus homework when I had aced it.	1
+Even though I had aced my math homework, I told him I had done poorly.	1
+I told him that even though I had aced my calculus homework, I had done poorly on it.	1
+Though I'd aced my math homework, I told him I'd done poorly on it.	1
+I told him I didn't take out our garbage because I didn't know where to take it.	1
+I told him that I didn't know where to take our trash, so I didn't take it out.	1
+I explained to him that I had not taken out our trash because I had not known where to put it.	1
+Reminding him that I didn't know where to take our trash, I told him.	1
+Told her she looked well, voice sounded good when she looks less well than a few weeks ago.	1
+Told her that although she didn't look as great as she did a few weeks earlier, her voice sounded terrific.	1
+Told her that although her appearance had improved a few weeks prior, her voice sounded nice and she looked great.	1
+She looked better than a few weeks ago, but you told her that her voice sounded nice and she looked great.	1
+Informed her that although she didn't look as great as she did a few weeks earlier, her voice sounded terrific.	1
+Exaggerated how sorry I was to be late.	1
+I apologized a lot for being late.	1
+I lied when I said I was sorry for being late.	1
+Felt compelled to apologize for my tardiness.	1
+I apologized profusely for being late.	1
+Disagreed when she told me my drawing was good even though I thought it was.	1
+I didn't agree with her when she said my drawing was good, even though I did.	1
+I wasn't in agreement when she said my drawing was good, even though I felt it was.	1
+Though I believed my drawing was good, I disagreed with her when she said it was.	1
+I worked hard to achieve my goal.	1
+To reach my goal, I put forth a lot of effort.	1
+To accomplish my aim, I worked very hard.	1
+To reach my goal, I put in a lot of work.	1
+I put a lot of effort into achieving my objective.	1
+hey I just got your missed call.	1
+Hey, your missed call just reached me.	1
+Hello, I saw that you missed our call.	1
+I noticed that your call was missed.	1
+Hello, I just noticed that your call was missed.	1
+okay last question and then I have to get to class.	0
+Alright, one last question before I get to class.	0
+I have to leave for class after this last question.	0
+Alright, one final query before I get to class.	0
+Anyway, I have to go so I can write a paper.	1
+In any case, I have to leave so that I can finish my paper.	1
+I have to leave, though, so I can finish writing my paper.	1
+That being said, I must depart in order to compose a paper.	1
+In any case, I must leave so that I may finish writing my paper.	1
+alright I'am going to get some dinner..i'll speak to you later.	1
+Okay, I'm heading to grab some dinner and will talk to you later.	1
+I will talk to you later. Alright, I'm heading to grab some food.	1
+Okay, I'll talk to you later. I'm out to get some dinner.	1
+I'm going to grab some lunch now, I guess.	1
+I suppose I'll go have some food now.	1
+I guess I'm going to have some food now.	1
+Now I suppose I'll go have some food.	1
+I forgot about it completely.	1
+I completely lost track of it.	1
+I entirely forgot about it.	1
+I totally lost track of it.	1
+It absolutely slipped my mind.	1
+I have lots of work, so I can't.	1
+I'm unable to because of my workload.	1
+I can't since I have a lot of work.	1
+I cannot since I am overworked.	1
+I had a conference all week and got home late last night and passed out.	1
+I returned home late last night after a week-long conference and passed out.	1
+I was exhausted after a late-night meeting all this week.	1
+After returning home late yesterday night from a conference that lasted the entire week, I passed out.	1
+I returned home late last night from a conference that lasted the entire week, and I passed out.	1
+I know it happened because I can remember I had the note on my calendar.	0
+I can recall having the notation on my calendar, so I know it happened.	0
+Since I can still recall seeing the note on my calendar, I am positive it happened.	0
+My memory of having the notation on my calendar allows me to confirm that it did indeed happen.	0
+I distinctly recall having the notation in my calendar, so I know it happened.	0
+Is it correct that personnel cannot be charged to an award until their COI Training is completed ?	0
+Is it true that employees cannot be charged to an award until they have finished their COI training?	0
+Do employees have to wait to be charged to an award until after they have finished their COI training?	0
+With her injuries it's doubtful that she'll ever walk again.	1
+It's unlikely that she will ever be able to walk normally due to her injuries.	1
+She probably won't be able to walk again due to her injuries.	1
+Her chances of ever walking again are slim due to her injuries.	1
+Rose is due to start school in January.	0
+Rose's first day of school is in January.	0
+In January, Rose is supposed to start school.	0
+January marks Rose's scheduled start of school.	0
+Is it true or false that the Robinson projection shows the size of the continents accurately and the water areas are expanded to fill the extra ?	0
+Is it realistic to say that the continents' sizes are depicted in the Robinson projection, and the sea areas are enlarged to fill in the gaps?	0
+Is it true or incorrect that the water areas are enlarged to occupy the extra space in the Robinson projection, which appropriately depicts the size of the continents?	0
+Is it correct that the ocean areas are enlarged to fit the excess space in the Robinson projection, which depicts the sizes of the continents accurately?	0
+Is it true or incorrect that the water areas are stretched to occupy the excess space in the Robinson projection, which appropriately depicts the size of the continents?	0
+It was inevitable that there would be job losses.	0
+A certain amount of jobs would have to be lost.	0
+It was inevitable that people would lose their jobs.	0
+Losses of employment were unavoidable.	0
+It's just possible that I gave them the wrong directions.	1
+Maybe I just gave them the wrong instructions.	1
+I might have just given them the incorrect instructions.	1
+I could have just given them the wrong instructions.	1
+It's possible that I misdirected them.	1
+Is it right that mostly college drop-out students run the biggest business in the world ?	0
+Is it accurate to say that the largest company in the world is primarily run by college dropouts?	0
+Does the largest company in the world primarily consist of college dropouts?	0
+Is it true that the largest company in the world is primarily run by college dropouts?	0
+These control failures are certain to happen occasionally.	1
+There will inevitably be occasional instances of these control failures.	1
+It is inevitable that there may be occasional control failures.	1
+Undoubtedly, there will be some instances of these control failures.	1
+Tell me where you are?	0
+Please let me know where you are.	0
+Could you tell me where you are?	0
+Please tell me your location.	0
+Ehm : Oh God (laughs)	1
+Oh God, ehm (laughs)	1
+Ehm: Oh my God, he laughs.	1
+Oh God, Ehm says, laughing.	1
+Ehm: God, that's hilarious.	1
+Right : two along from the bottom one up	0
+Right: two in a row, starting at the bottom.	0
+Right: two running up from the bottom	0
+Right: two consecutive ones starting from the bottom.	0
+Two along from the bottom, which side?	0
+Which side is two along from the bottom?	0
+On which side are two from the bottom?	0
+The left : going from left to right in the second box.	0
+The left: in the second box, moving from left to right.	0
+The left: navigating the second box from left to right.	0
+Within the second box, the left is moving from left to right.	0
+In the second box, the left is moving from left to right.	0
+You re in the second box.	0
+The second box contains you.	0
+In the second box, you are.	0
+You are located in the second container.	0
+One up (1 sec.) I take it we ve got identical mazes?	0
+One up (one second) I assume that our mazes are the same?	0
+One second up Are our mazes exactly the same, I assume it?	0
+A single up (1 second) Do our mazes look the same to you?	0
+Yeah well : right, starting from the left, you re one along	0
+Yes, that's correct. Let's start from the left and work our way down.	0
+Okay, so you're one along. Let's start from the left.	0
+Indeed, in that case, you're one along. Let's start from the left.	0
+Alright, so you're one along. Let's start from the left.	0
+Uh-huh	0
+Yes, I understand.	0
+Well, yeah	0
+I gave evasive and ambiguous answers to the questions.	1
+I took a long time before responding to the questions.	1
+I gave very brief answers.	1
+Lady on phone asked if the number was my current phone number.	0
+I said yes when in fact it isn't.	1
+It looks like we'll just have to sit here and be bored until the experimenter gets back.	1
+I have made some notes because I cannot remember anything.	1
+He is determined to win.	0
+John moved to Florida because of the nice weather.	0
+My friend didn't care what I thought.	1
+My friend appeared to be nervous talking with me.	1
+I was sincere in answering the question.	0
+All my answers to the questions were truthful.	0
+Do you want to see more ?	0
+Was Pat a good employee ?	0
+Well, umm, that's depends on what you call a good employee.	1
+I think Pat is a good employee, and you would be wise to hire him.	0
+I think Pat was not a good employee, and you should not hire him.	1
+I walked quickly.	0
+I worked hard to achieve my goal.	0
+I decided to buy that model.	0
+Have you cleared the table and washed the dishes?	0
+I ve cleared the table.	1
+Am I in time for supper?	0
+Would you like ham or salad on your sandwich?	0
+I selected the option that maximised my profit.	0
+I chose the option that seemed to be the most beneficial to me.	0
+Where do you get these crazy ideas ?	0
+Will you please stop bugging me ?	0
+Is this the object which was stolen ?	0
+Is this the card you picked ?	0
+Did Mark know that his mother had moved his chocolate bar to the box?	0
+Where does Mark think his chocolate bar is?	0
+Did you break the pot ?	0
+I never touched the pot.	1
+I forgot to do my homework.	1
+Do you know you were going over the speed limit ?	0
+Oh, I wasn t really paying attention to the speedometer.	1
+When is our appointment ?	0
+It's at 10.30 AM on Thursday.	0
+How did you like it ?	0
+A kind of liked it.	1
+I m not sure, but your mum isn t coming today.	1
+Is there something you want to tell her, or that is worrying you ?	0
+Can you tell it to me ?	0
+Am I doing something that is morally wrong or unethical ?	0
+I m not sure Nora, but I ve been meaning to show you the new tulips the gardener planted yesterday so I thought we could have a cup of tea and wander round the garden seeing as the sun is shining for a change!	1
+Oh, I think the injury is slightly deep.	1
+Oh, I think the injury is quite deep.	1
+Weather is extremely hot today.	0
+This is a painful story.	0
+The person is physically challenged.	0
+Will you conceal the matter before committee ?	0
+I lied about something I didn't want him to know.	1
+I told the lie so I could keep some privacy about my personal life.	1
+I told her that I admire her uninhibited way.	1
+So she would not think that I was a prude.	1
+I said I was not worried about my grades.	1
+I didn't want him to think I was stupid.	1
+That I am so smart that it is easy to pull them up.	1
+Told customer that if she likes her jeans that way, they were not too tight.	1
+To sell the outfit.	0
+I told her I had been studying hard.	1
+Because she's my mother and she'd kill me if she thought I hadn't been studying.	1
+Said we paid off all bills except standard monthly, but haven't.	1
+So he would co-sign for new house I want even though he thinks it's too much money.	1
+I told her I had to be in Washington to see a doctor.	1
+Actually, I wanted to visit a friend to trade computer software.	0
+Told son to clean up room and get ready for the weekend and maybe we'd do something special.	1
+Needed his room cleaned up.	0
+I told her that I'd love for her to stay with me and my family if she wanted to when I really wanted to be alone with them.	1
+She was lonely and I didn't want her to have to stay in the dorm by herself.	1
+I told her she was nice-looking even though she isn't.	1
+To make her feel good.	0
+Acted like I didn't know the information she was giving me.	1
+So she could feel helpful.	0
+Told him I loved the food he ordered for me when it wasn't that great.	1
+Didn't want to make him feel bad.	0
+I told her I didn't mind going shopping if she wanted me to.	1
+She needs my help but wouldn't ask if she thought I didn't want to go.	1
+My friend is coming over for tea and I am too tired to see her.	1
+Told him the boss wanted to talk to him, but he really didn't.	1
+I had a wonderful time at your party, so glad you invited me.	1
+She was probably five foot eleven, no, more likely five foot seven.	1
+I think she had black shoes on.	1
+She just walked in, she didn't knock or anything.	1
+She was very polite.	0
+He seemed very confident.	0
+How do you feel at this moment ?	0
+How effective was the training program ?	0
+What was the person s eye colour ?	0
+What did you think of the expression ?	0
+Why did you answer this way ?	0
+What was the last movie that you went to see ?	0
+What is the name of your first School?	0
+What is your mother's maiden name?	0
+How many brother's and sister's do you have?	0
+What is the name of the place where you grew up?	0
+What is your father's first name?	0
+What was your favourite subject at school?	0
+What is the name of a book or cd that you recently bought?	0
+Where was the last place that you went on holiday?	0
+What kind of toothpaste do you usually use?	0
+What is your favourite leisure pastime?	0
+*lf you admire a famous person, who would it be?	0
+What is the subject that you least liked at school?	0
+What is the name of one of your bestfriends?	0
+Which is a sport or game that you like playing?	0
+What do you most like about Nottingham?	0
+What do you least like about England?	0
+*If you could choose any, which car would you buy?	0
+What do you do if you want to get some exercise?	0
+Which shop have you recently bought clothes from?	0
+What did you have for dinner last night?	0
+When did you last go to the cinema?	0
+What is your favourite drink?	0
+*lf you could have anything as a pet, what would it be?	0
+Name an ambition that you have?	0
+What have you watched on television recently?	0
+What are you studying, or have studied at university?	0
+Which newspaper would you buy?	0
+Which magazine do you like to read?	0
+Which programmes would you never watch on TV?	0
+Who is a movie star that you don't like?	0
+What is your most prized possession?	0
+Name a drink that you don't like?	0
+Who or what really makes you laugh?	0
+What irritates you?	0
+What will you do with your friends this week?	0
+Where would you like to visit that you've not been to before?	0
+Where will you be next weekend?	0
+Where do your parents live?	0
+Which radio station do you listen to most?	0
+What would you do if you won the lottery jackpot?	0
+What is your favourite colour?	0
+How old were you when you passed your driving test?	0
+Name a country outside of the UK that you have visited?	0
+Which is your favourite comedy programme on TV?	0
+Is there a food that you find disgusting?	0
+What is your favourite food?	0
+If there were a general election tomorrow, who would you vote for?	0
+What is the name of a band or singer that you like?	0
+What is a job that one of your parents does?	0
+How many pairs of shoes do you own?	0
+Which is the website that you most frequently visit?	0
+When was the last time that you read a newspaper?	0
+Have you ever been caught speeding, if so how many times?	0
+Which famous person would you like to have lunch with?	0
+*What is the most beautiful thing you can think of!	0
+What was the last book you borrowed from the library?	0
+We ll move on to the next section, which we re calling the musical section.	0
+How did you do on that section?	0
+I did excellent on that one.	1
+Sort of k- k- corresponds with not being a good athlete.	1
+Had to do something right.	1
+And so why do you think you did so well on that section?	0
+Um, well, my grandmother was a concert violinist, and she left me her violin.	1
+And so I started playing at a really early age, and so I developed an ear and, you know, it was just somewhat of an innate thing.	1
+Where did your grandmother play?	0
+My grandmother - well, um, okay - she was a concert violinist, but she wasn t huge.	1
+But she played for the Cape Cod Symphony.	1
+And, uh, what kind of violin did she leave you?	0
+It was a really old violin.	1
+They weren t exactly sure who the maker was, but they thought it was from Germany.	1
+And how long have you been playing the violin?	0
+Since I was four.	1
+Basically since I could hold the violin.	1
+Do you play in the orchestra here?	0
+I don t - I actually stopped.	1
+Um, I guess I got a little burned out.	1
+I just play for myself mostly now.	1
+Who s your favourite composer for the violin?	0
+Um, my favourite composer.	1
+Um, Haydn.	1
+What s the hardest piece you ve ever played?	0
+Hardest piece, um, [0.8 second silence] that would have to be the Minuet in G Major.	1
+Great, uh so we ll move on now to the musical section.	0
+Okay.	0
+I did good.	0
+So that was your score, good?	0
+Yes.	0
+Why do you think you did so well on that section?	0
+I ve always been very musical.	0
+My parents used to sing to me when I was little.	0
+And I played piano.	0
+Uh, how long did you play the piano?	0
+Since I was eleven.	0
+Are there particular composers you enjoy?	0
+On the piano?	0
+I like Mozart and Bach.	0
+And I like to play rock and roll, but um- I can t play, uh, much complex songs.	0
+But I could play this fake book.	0
+And what sort of music do you enjoy listening to?	0
+Um, rock and roll and classical music, too.	0
+Do you have particular favourite composers you enjoy listening to?	0
+Didn t I just tell you that?	0
+oh [laughs] composers.	0
+Well, I like to listen to the Rolling Stones.	0
+I'm walking in the upstairs door right now.	0
+I don't think he was actually walking in the door. I think he was a little further away.	1
+Please first of all tell me all about your conversation with the experimenter.	0
+What did the experimenter and you discuss at the start of your conversation?	0
+Can you tell me everything that the experimenter told you about herself?	0
+Was the experimenter with you in the room all the time?	0
+How did the conversation end?	0
+I found this section of the interview difficult.	1
+I felt anxious during this section of the interview.	1
+I am confident that I convinced the interviewer that I was telling the truth.	1
+I would describe this part of the interview as appropriately paced.	0
+I would describe this part of the interview as awkward.	1
+I found describing things difficult in this language.	1
+I believe that the participant told the truth in this section.	0
+I felt that the participant was trustworthy.	0
+I felt that the participant was honest.	0
+I felt that the participant was suspicious.	1
+I felt that the participant was distracted.	1
+How did the game end?	0
+How did you think you were doing compared to the other player mid-game?	0
+What questions did you ask to find out who the target was?	0
+What happened in the first few moments of the game?	0
+I am able to recognize others' subtle and indirect messages.	0
+I often bend the truth if the truth would hurt someone.	1
+I am modest when I communicate with others.	0
+I listen very carefully to people when they talk.	0
+Right now, it would take a lot of effort for me to concentrate on something.	0
+I can't absorb any more information.	1
+I feel sharp and focused.	0
+Can you please describe to me, into as much detail as possible, what you saw during the virtual tour ?	0
+Please tell me everything you have learned about the Louvre/library on campus today, that you did not know before.	0
+Please tell me where you were when doing the virtual.	0
+How did you try to find out the answers to the questions?	0
+Can you tell me as much as possible about the answers you found?	0
+Did you actually do the virtual tour?	0
+Tell me what you did to find out the answers to the questions.	0
+If you actually had done the virtual tour, wouldn t you have been able to answer the questions better?	0
+Have you ever visited the art exhibition or Louvre before?	0
+What is the worst job you ever had and why did you dislike it?	0
+What would you do if your boss gave you credit for someone else's work?	0
+Tell me about a time when you thought of stealing something valuable from someone.	0
+Please tell me everything you did today from leaving your home to arriving for this interview.	0
+What do you consider to be your greatest strengths?	0
+What else are you going to do today? Who will you see and where will you go?	0
+Think about people that really irritate you. Why do they bother or annoy you?	0
+What do you plan to do during your next break or vacation?	0
+Remember the room where you arrived for the experiment. Tell me everything about that room and what happened while you were there.	0
+Tell me about a time when you told a serious lie to get out of trouble.	0
+If you found a wallet containing $1,000 and no identification in it, what would you do with it and why?	0
+What is the worst restaurant you ever went to? Why did you dislike it?	0
+Monsieur I am delighted to find you up and to see that you are better.	0
+I was told that Monsieur was better, I think he looks well.	1
+It s true.	0
+I made a friend look a fool by convincing him I was a girl.	1
+It is bad when there is no where a person can go to where someone could be honest, we stay on the net cause we have[ ... ] been wore out by all the lies from people in the real world.	1
+When first asked what I looked like, I said I was fat and ugly, then said I was joking and gave them the description I wanted them to believe.	1
+I saw that the car was missing.	0
+I heard the screen door slam.	0
+I heard sounds coming from above me.	0
+I don t understand this, could you please explain this to me?	0
+I don t believe you, are you trying to fool me?	0
+To be quite honest, I don t know exactly what substance I was guilty of using.	1
+To be honest, as far as I remember, it came to me somehow during the sales conference last month.	0
+This is a terrific model. It sells out all the time.	0
+I think this is a terrific model.	1
+I sell out of it all the time.	1
+Why did you steal the money?	0
+I didn t steal anything!	0
+I did not take anything.	1
+[It was a] very detailed and thorough story.	0
+The story was so vague, I thought it was a lie.	1
+It's something that she would actually do.	0
+She seemed really sad when telling the story.	1
+She didn't look genuinely happy.	1
+[The sender was] really smooth.	0
+Unsure of her story; [it] didn't flow.	1
+It just felt right.	0
+[I had a] gut feeling [that it was a lie].	0
+The story was easy to believe.	0
+[It was] just too outlandish.	1
+I thought the story was true.	1
+It was a lie.	1
+You just don't lie about something like that.	1
+She looked and sounded honest.	0
+The story sounded okay, but she kept fidgeting.	1
+If he were lying, he would have had to come up with something different from what he said.	1
+The dates weren't right for the story to be true.	1
+I think she would have told me that story before if it had really happened.	1
+[He] would have told me before now.	1
+It was a good story.	0
+It all made sense.	0
+She told the story in a sincere voice.	0
+His voice cracked.	0
+He looked me in the eyes.	0
+She played with her hair a lot.	1
+She stated that from the beginning.	0
+I am on the lookout for fake stories so perhaps that influenced me.	1
+Did you go on lots of rides at the fairground, Claire?	0
+Yes, I even went on the really big roller coaster and didn t shut my eyes.	1
+Weren t you scared?	0
+No, it was fun. I can t wait to do it again.	0
+Why didn t you hand your homework in on time, Mel?	0
+So you did finish your homework?	0
+No matter who I m talking to, I m always a good listener.	0
+You are not doing as well in this class as you might be !	0
+Self-deceivers are liars, whether they know it or not.	0
+Am I able to wear a seatbelt consistently ?	0
+I know that we broke up but I don t want to call him, because then it will really be over.	1
+I suppose, this will be very useful to you in the future.	1
+The marks?	0
+Please describe exactly how you arranged the four objects you placed on the table at the centre of the room ?	0
+We have information telling us that you recently visited the central station.	0
+We have CCTV footage showing that you collected a package from a deposit box at the central station, ground floor level, on the 24th of August at 7.30pm.	0
+What is the main purpose of your trip?	0
+How are you going to travel to your destination?	0
+What part of the trip was easiest to plan?	0
+Keep in mind an image of the most important thing you are going to do on this trip.	0
+Please describe this mental image in detail?	0
+I ve just started a new business and I m trying to build up my reputation as a photographer.	1
+Where did the bombing occur?	0
+Where did the bomb go off?	0
+Where did the bombing happen?	0
+We were walking down Whitman road and I remember hearing a few cars screeching to stop in the middle of the street. There were a fare number of people around. A few started to run towards the building.	0
+Umm, I can t remember all the details of what I have heard  I do remember them talking about  causing damage  a few times; I could have easily heard wrong.	1
+Umm, I can not remember all the details of what I have heard, I do remember them talking about causing damage a few times, but I could have easily heard wrong.	1
+I think there were a few cars that just stopped in the middle of the road.	1
+We have information that you were at a luggage store.	0
+We have CCTV footage showing that you bought a suitcase.	0
+I tried to include as much information as possible.	0
+I just told the truth about what I have seen.	0
+I tried to remember everything in sequence.	0
+I put myself in the agent's position to be able to connect the information.	0
+I tried to be consisted in the information I delivered.	0
+I hesitated when asked about the trip to Prague so that if I hesitated when asked about the spy mission, it might not sound so obviously different to the usual way in which I answered questions.	1
+I tried to keep some details that were in the actual discussion.	1
+I gave as many details and reason...justifys as possible for the agents' actions.	0
+Don't over explain things; try to keep it easy to remember.	0
+I tried to adjust my answers to the interviewer s values and beliefs.	1
+I waited for 7 minutes.	1
+I waited for 10 minutes.	1
+Did you know any of the other people waiting?	0
+I walked straight to the library.	1
+I walked straight to the library, passing the cafeteria on my way.	1
+About how many people were there at the cafeteria?	0
+I went to the bathrooms to fill my water bottle and to take a look in the mirror.	1
+I went to the bathrooms to take a look in the mirror.	1
+Was there anyone else in the bathrooms?	0
+We briefly spoke about uni.	1
+We spoke briefly.	1
+How long did you speak for?	0
+There was a female student with jeans and a beige jacket.	1
+There was a female student with jeans and a black jacket.	1
+What was the student doing?	0
+The pictures on the wall depicted people and nature.	0
+The pictures on the wall depicted people, animals and nature.	0
+What size were the pictures?	0
+I told stories that contained both real and fictional work experiences.	1
+I claimed that I have skills that I do not have.	1
+When asked directly, I did not mention my true reason...justify for quitting my previous job.	1
+When asked directly, I did not mention some problems that I had in past jobs.	1
+I tried to suppress my connection to negative events in my work history.	1
+When we disagreed, the communication conditions made it more difficult for us to come to an agreement.	1
+The communication conditions made it harder for us to reach a consensus when we differed.	1
+The circumstances surrounding our conversation made it more challenging for us to reach a consensus when we differed.	1
+Our inability to reach a consensus during disagreements was exacerbated by the communication constraints.	1
+The conditions under which we communicated helped us to better understand each other.	0
+Our communication circumstances improved our understanding of one another.	0
+Our communication circumstances made it easier for us to comprehend one another.	0
+It was made easier for us to understand one another by the circumstances of our communication.	0
+The conditions under which we communicated slowed down our communications.	1
+Our conversations were hindered by the circumstances in which we conversed.	1
+Our conversation was hindered by the circumstances in which it took place.	1
+Communication between us was hindered by the circumstances we were in.	1
+When we disagreed, our communication environment helped us come to a common position.	1
+Our communication environment allowed us to work through disagreements and reach a consensus.	1
+Our communication environment facilitated reaching consensus when we couldn't agree.	1
+Our communication atmosphere facilitated us reaching consensus when we disagreed.	1
+I could easily explain things in this environment.	0
+In this setting, I could explain things with ease.	0
+This is the kind of place where I could simply explain things.	0
+In this context, I could explain things with ease.	0
+The communication conditions helped us exchange communications quickly.	0
+Our ability to communicate swiftly was aided by the communication conditions.	0
+We were able to communicate more swiftly thanks to the communication conditions.	0
+Our ability to communicate swiftly was facilitated by the conditions of communication.	0
+There were ideas I couldn't relate to the other party because of the communication conditions.	1
+The communication circumstances prevented me from connecting with the other side on some issues.	1
+Because of the communication circumstances, there were several thoughts that I was unable to relate to the other side.	1
+Due to communication barriers, there were several thoughts that I was unable to share with the other side.	1
+The conditions under which we communicated got in the way of our sharing of opinions.	1
+Our ability to exchange ideas was impeded by the circumstances surrounding our communication.	1
+We were unable to exchange opinions because of the circumstances surrounding our communication.	1
+We tried to share our ideas, but the circumstances of our communication prevented it.	1
+I often feel as if people aren't being completely truthful with me.	1
+People don't always seem to be telling me the whole truth, in my opinion.	1
+I frequently get the impression that individuals aren't telling me the whole truth.	1
+People frequently don't seem to be telling me the whole truth.	1
+I often get the impression that individuals aren't telling me the whole truth.	1
+Most people only tell you what they think you want to hear.	1
+The majority of individuals only say what they believe you want to hear.	1
+People tend to tell you only what they believe you want to hear.	1
+Generally speaking, individuals only tell you what they believe you want to hear.	1
+When I am in a conversation with someone, I frequently wonder whether they are really telling me the truth.	1
+I often find myself questioning if people I am speaking with are being completely honest.	1
+In conversations, I often find myself questioning if the other person is being completely honest with me.	1
+I often question if people I am speaking with are being completely honest with me during a conversation.	1
+I often question whether people I am speaking with are being completely honest.	1
+People rarely tell you what they're really thinking.	1
+Individuals are rarely honest about their true feelings.	1
+Individuals seldom reveal their true thoughts to you.	1
+Rarely do people openly express their true thoughts to you.	1
+It is rare for someone to be honest with you about their true feelings.	1
+When I first meet someone, I assume that they are probably lying to me about some things.	1
+I automatically presume that people are lying to me when I first meet them.	1
+When I meet someone for the first time, I automatically believe they are lying to me about something.	1
+I have a tendency to believe that people I meet for the first time are lying to me.	1
+Most people are basically honest.	0
+In general, most people are sincere.	0
+Fundamentally, most people are honest.	0
+The majority of humans are essentially upright.	0
+Anyone who completely trusts someone else is asking for trouble.	1
+Someone who has whole faith in another person is begging for problems.	1
+It's troublesome for someone to have whole faith in another person.	1
+One is inviting difficulties when they fully rely on another person.	1
+When I ask a stranger for directions, I frequently wonder whether they are being truthful.	1
+I often question the veracity of strangers when I ask them for directions.	1
+It often occurs to me to question the sincerity of strangers when I ask for directions.	1
+When I am talking to others, I tend to believe what they say	1
+In conversations with others, I often take what they say at face value.	1
+When I converse with others, I usually take what they say to heart.	1
+I often believe what others say when I'm speaking with them.	1
+People seldom lie to me.	1
+I rarely hear lies from people.	1
+I rarely come across people who lie to me.	1
+I don't often get lied to.	1
+Most people follow the saying 'honesty is the best policy'.	1
+'Honesty is the best policy' is a phrase that most people adhere to.	1
+The maxim "honesty is the best policy" is embraced by most individuals.	1
+The adage "honesty is the best policy" is generally accepted.	1
+I believe what my friend says with little doubt.	0
+I have little question that I believe what my friend says.	0
+Without a doubt, I agree with what my friend says.	0
+With minimal hesitation, I accept my friend's words.	0
+I think my relational friend is generally honest.	0
+In general, I believe my relationship friend to be truthful.	0
+My relationship friend is, I believe, generally honest.	0
+Overall, I believe my friend in a relationship is sincere.	0
+Overall, my friend was truthful.	0
+In general, my friend said the truth.	0
+My friend was honest all around.	0
+My friend told the truth most of the time.	0
+All in all, my pal told the truth.	0
+Overall, my friend was very deceptive.	0
+My acquaintance was a really dishonest person overall.	0
+My friend was often somewhat dishonest.	0
+My buddy was a really dishonest person all around.	0
+My friend was a really dishonest person all around.	0
+So here we were in Piter and went to the apartment that we had booked, it was not far from the city centre. Having dropped off our stuff, we went on a walk around the city centre and grabbed something to eat. Well, actually every afternoon we spent here was pretty much the same. In the evening we would go to any Pub or Bar and killed time there. Yes, killed time because it was not much fun. Maybe it s because the people around weren t much fun.  Of course it was interesting to visit the museums and other sights of the city but I can t say that really left an impression that it was supposed to and all in all, I didn t feel too happy throughout that trip.	0
+Having come to Piter, first thing we went to the apartment that we had booked, it was in the city centre, straight in Nevskiy, our window overlooked the beautiful views of Piter, especially in the evening when the sun went down, it was very beautiful. Of course you can spend ages walking the streets of the city and never get tired, while you are walking, you can t help being happy about everything you see around you. Every evening we would drive around different places in the city and sure thing, we don t have any clubs or pubs like that back home and I don t think we ever will. The way this city makes you feel is just special.	1
+Having come to Piter, first thing we went to the apartment that we had booked,/ it was in the city centre, straight in Nevskiy,/ our window overlooked the beautiful views of Piter, especially in the evening when the sun went down, it was very beautiful.	1
+Of course you can spend ages walking the streets of the city and never get tired, while you are walking, you can t help being happy about everything you see around you.	1
+It goes without saying that you could spend hours strolling through the city and never grow weary of it; you can't help but smile at everything you see.	1
+Naturally, you could stroll through the city for hours on end and never grow bored since you would always find something to smile about.	1
+It is inevitable that you will become tired of wandering around the city for a very long time, and that you will always be happy with what you see.	1
+Every evening we would drive around different places in the city and sure thing, we don t have any clubs or pubs like that back home and I don t think we ever will.	1
+We used to drive around the city every evening, and sure enough, there aren't any clubs or pubs like that in our hometown, and I don't suppose there ever will be.	1
+We used to drive around the city every evening, and it's a fact that we don't have any pubs or clubs like that back home, and I don't think we ever will.	1
+Indeed, we don't have any clubs or bars like that back home, and I don't think we ever will. Every evening, we would drive around different parts of the city.	1
+The way this city makes you feel is just special.	1
+This city has a truly unique way of making you feel.	1
+There's something very unique about the way this city feels.	1
+You feel something truly unique in this city.	1
+There's something quite unique about the way this city makes you feel.	1
+The dates weren't right for the story to be true.	1
+The narrative couldn't be accurate because the dates weren't correct.	1
+If the story was real, the dates didn't match.	1
+The story could not be true because of the dates.	1
+The dates did not add up to make the story plausible.	1
+Judge felt that, if the story were true, the sender would have already shared it.	1
+Judge believed that the sender would have shared the tale by now if it were real.	1
+If the story was real, Judge thought, the sender would have shared it by now.	1
+According to Judge, the sender would have shared the news by now if it were real.	1
+I think she would have told me that story before if it had really happened.	1
+If the story had actually happened, I believe she would have revealed it to me sooner.	1
+If that tale had been true, I believe she would have mentioned it to me sooner.	1
+If the narrative had been true, I believe she would have disclosed it to me sooner.	1
+I am on the lookout for fake stories so perhaps that influenced me.	1
+Maybe that inspired me because I'm always on the lookout for phony stories.	1
+That may have impacted me because I am always on the lookout for phony stories.	1
+I completely disagree with you.	1
+I don't agree with you at all.	1
+I couldn't disagree more with you.	1
+You and I don't agree at all.	1
+I really disagree with you.	1
+It was a whole week before he got the results back.	1
+He didn't receive the results for a full week.	1
+Before he received the results, a full week had passed.	1
+When he finally received the findings, it took a whole week.	1
+It took him an entire week to receive the results.	1
+I'm sitting here and tears are starting to well up just listening to you, so it's not very far behind me.	1
+It's not that far behind me; as I sit here, tears are beginning to build up simply from listening to you.	1
+This isn't too far behind me, since as I sit here, I can feel the tears starting to come.	1
+It's not too far behind me, since as I sit here, tears are beginning to build up just from listening to you.	1
+Well, it's been getting worse.	1
+It has, however, been getting worse.It has, however, been getting worse.	1
+The situation has been worsening.The situation has been worsening.	1
+Indeed, things have been growing worse.Indeed, things have been growing worse.	1
+It's so good to hear that.	0
+That's wonderful to hear.	0
+Hearing that is quite comforting.	0
+Yeah.	0
+Yes.	0
+Indeed.	0
+True enough.	0
+It's fine.	0
+It's alright.	0
+That's alright.	0
+Everything is OK.	0
+I don't have any problems there.	0
+There are no issues for me there.	0
+There are no issues that I am facing.	0
+Nothing is wrong there for me.	0
+There are no issues that I am facing there.	0
+This situation is making me a little nervous.	1
+I am feeling a little uneasy about this.	1
+I'm getting a little anxious about this.	1
+I feel a little uneasy about this circumstance.	1
+That's bad enough, but it's the shortness of breath that's got me concerned.	1
+That's terrible enough, but what worries me more is the dyspnea.	1
+That in and of itself is awful, but what worries me is the dyspnea.	1
+That in itself is quite concerning, but what worries me more is the dyspnea.	1
+That's bad enough, but what worries me more is the dyspnea.	1
+I don't think I understand what you're suggesting.	1
+I suppose I don't get what you're putting forth.	1
+I may not be understanding what you're saying.	1
+What you're suggesting, I don't think I understand.	1
+Then, I don't know.	1
+Then, I'm not sure.	1
+Then, who knows?	1
+I felt better.	0
+I was feeling better.	0
+I felt more at ease.	0
+My mood improved.	0
+He did a sore throat culture.	0
+He did a culture for sore throats.	0
+His sore throat was cultured.	0
+He performed a culture for sore throat.	0
+Now, Iam going to ask you about the man who came into the business establishment.	0
+I'm going to question you now regarding the man that entered the store.	0
+I have a question for you now regarding the man who entered the firm.	0
+I'm going to question you now about the man who entered the company.	0
+What was his ethnic background: White, Black, Hispanic, Asian or something else ?	0
+What was his ethnicity—Asian, Black, Hispanic, White, or another?	0
+Did he come from a White, Black, Asian, Hispanic, or other ethnic background?	0
+Which ethnicity best describes him—Black, Asian, Hispanic, or White?	0
+He had a dark complexion.	0
+He was of a dark skin tone.	0
+His skin tone was dark.	0
+His complexion was dark.	0
+I think he was Hispanic.	1
+He was, I believe, Hispanic.	1
+He was probably Hispanic.	1
+Hispanic, I believe.	1
+Was he tall, short, or average height ?	0
+Did he have a tall, short, or medium stature?	0
+Was he small, tall, or of normal height?	0
+Was his height average, short, or tall?	0
+Was he tall, short, or of average build?	0
+He was tall, over six feet.	0
+He stood over six feet tall.	0
+At six feet and more, he was tall.	0
+Was he thin, overweight, muscular, or did he have a medium build?	0
+Was his build medium, was he overweight, slender, or muscular?	0
+Was he stocky, plump, muscular, or built like a medium?	0
+Could you describe his build as medium, muscular, overweight, or thin?	0
+He was thin.	0
+He was not fat.	0
+He had a slim build.	0
+He was really skinny.	0
+He had a slender frame.	0
+What colour was his hair?	0
+What shade of red did his hair have?	0
+What hue did his hair have?	0
+Which color did his hair happen to be?	0
+His Hair was black.	0
+He had black hair.	0
+His hair was dark.	0
+Black hair adorned his head.	0
+How long was his hair?	0
+What was the length of his hair?	0
+How much hair did he have?	0
+How much length did his hair have?	0
+Was it shaved, so short that it was above the ears and collar, did it come over the collar, or was it so long that it came down over his shoulders?	0
+Was it shaved, so short it hung over the collar and above the ears, was it long enough to fall over his shoulders, or was it just over the collar?	0
+Was it shaved, cut so short that it hung over the collar and over the ears, or was it so long that it hung over his shoulders?	0
+Did his hair fall over his shoulders, was it shaved, cut so short it was above his ears and collar, or was it too long?	0
+It was pretty long, about to his shoulders, and it was straight not curly.	0
+It was straight rather than curly and quite long, reaching his shoulders.	0
+It was straight, not curly, and quite long—roughly to his shoulders.	0
+It wasn't curly; it was straight and somewhat long, reaching his shoulders.	0
+About how old was he ?	0
+How old was he, roughly?	0
+What was his age, roughly?	0
+What was his approximate age?	0
+Maybe in his early thirties, like 31 or 32.	1
+In his early thirties, perhaps, about 31 or 32.	1
+Perhaps at the age of thirty-one or thirty-two.	1
+He might be 31 or 32 years old, early in his thirties.	1
+Perhaps at the early age of thirty, thirty-one or thirty-two.	1
+Did you notice any physical features that I haven't asked about, such as tattoos, birthmarks, scars, or facial hair ?	0
+Have you seen any physical characteristics, like scars, birthmarks, tattoos, or facial hair, that I haven't inquired about?	0
+Have there been any physical characteristics that I haven't questioned you about, like scars, birthmarks, tattoos, or facial hair?	0
+Are there any physical characteristics, such scars, birthmarks, tattoos, or facial hair, that you noticed that I haven't inquired about?	0
+He sort of had goatee.	1
+He had a goatee of sorts.	1
+He wore a goatee, sort of.	1
+He had a beard of sorts.	1
+It looked like he had just started growing it.	1
+It appeared as though he had recently begun to grow it.	1
+It appeared as though he was just beginning to develop it.	1
+Seemingly, he had only recently begun to develop it.	1
+He also had a tattoo on his shoulder, I think his left shoulder.	1
+Additionally, he had a tattoo on what appeared to be his left shoulder.	1
+Additionally, I believe he had a tattoo on his left shoulder.	1
+On his shoulder, maybe the left shoulder, he also had a tattoo.	1
+In addition, he had a tattoo on what appeared to be his left shoulder.	1
+It was black, and it looked like Chinese character.	1
+It had a dark appearance and resembled Chinese characters.	1
+It appeared to be Chinese characters and was black in color.	1
+Looked like Chinese characters, and it was black.	1
+Now I'm going to ask you about the clothes the man was wearing.	0
+I'm going to question you now regarding the man's attire.	0
+I'm going to question you about the man's attire now.	0
+I have some questions for you now regarding the man's attire.	0
+Please tell me what colour and style they were.	0
+Tell me the color and style of those, please.	0
+Could you please tell me the color and style of those?	0
+Kindly inform me about the color and style of those.	0
+Starting with his shirt, was it long- or short-sleeved, and what was the color and style?	0
+Let's start with his shirt: what color and style was it, and was it long- or short-sleeved?	0
+First of all, what color and style was his shirt? Was it short- or long-sleeved?	0
+Firstly, could you tell me the color and style of his shirt, and was it long- or short-sleeved?	0
+To begin with, what color and style was his shirt, and was it long- or short-sleeved?	0
+He was wearning a dark green, sleeveless T Shirt.	0
+He had on a sleeveless, dark green T-shirt.	0
+His shirt was sleeveless and dark green.	0
+His shirt had no sleeves and was a dark green color.	0
+He was dressed in a sleeveless, dark green T-shirt.	0
+Was he wearing pants or shorts, and what colour and style ?	0
+What color and style of pants or shorts was he wearing?	0
+Did he have on shorts or pants, and if so, what kind and color?	0
+What color and type did he have on, shorts or pants?	0
+They were shorts.	0
+They were cut short.	0
+They had on shorts.	0
+These were not pants.	0
+Tan coloured cargo shorts.	0
+cargo shorts in the color tan.	0
+cargo shorts in a tan color.	0
+The cargo shorts are tan in color.	0
+Can you describe anything else he was wearing, such as shoes, a hat, jewelry, eyeglasses, or any other clothing or accessories ?	0
+What other accessories or clothes did he have on, like shoes, a hat, jewelry, eyeglasses, or anything else?	0
+Could you elaborate on anything else he was wearing, like a hat, shoes, jewelry, eyeglasses, or any other articles of apparel or accessories?	0
+Can you tell us about any further items of clothes or accessories he may have been wearing, including shoes, a hat, jewelry, eyeglasses, etc.?	0
+He had on sunglasses, and a gold hoop earring in one ear.	0
+He wore sunglasses and one ear was adorned with a gold hoops earring.	0
+He wore sunglasses and an earring in one ear, a gold hoopsy.	0
+He wore shades and an ear adornment in the form of a gold hoops.	0
+No hat.	0
+Not a cap.	0
+Absent headgear.	0
+I don't remember the shoes.	1
+I cannot recall the shoes.	1
+The shoes are long forgotten.	1
+The shoes, I cannot recall.	1
+Was he carrying anything in his hands when he came into the business establishment ?	0
+When he entered the business place, did he have anything in his hands?	0
+When he entered the business, did he have anything with him in his hands?	0
+Upon entering the company premises, did he have anything with him in his hands?	0
+Yes, an umbrella.	0
+An umbrella, indeed.	0
+Indeed, a canopy.	0
+Affirmative, an umbrella.	0
+What was the man doing in the business establishment ?	0
+What on earth was the man doing in the store?	0
+In the business establishment, what was this man doing?	0
+What had this man been doing in the store?	0
+What was this man doing at the company?	0
+He was making an appointment for a hair cut.	0
+He was scheduling a hair cut appointment.	0
+His task was to schedule a haircut appointment.	0
+It was time to schedule a hair appointment.	0
+I don't think it looks very good on you.	0
+It doesn't seem particularly nice on you, in my opinion.	0
+It looks awful on you, in my opinion.	0
+In my opinion, it doesn't suit you well.	0
+I think it looks very good on you.	1
+It looks great on you, in my opinion.	1
+I believe you look great in it.	1
+You seem really attractive, in my opinion.	1
+It seems like clothes are getting terribly expensive.	1
+Clothes appear to be becoming incredibly costly.	1
+Clothes seem to be becoming incredibly pricey.	1
+Appearances appear to be becoming increasingly costly.	1
+Did I tell you I'm going to take my vacation next month?	0
+Have I mentioned that I will be taking a trip next month?	0
+Did I mention that I'll be taking a vacation the following month?	0
+Have I mentioned that my vacation is scheduled for next month?	0
+Did I mention that I'll be taking a trip in a month?	0
+Your Suraksha Pathology report for today is ready. For online view go to surakshanet.com USERNAME:MR378184 PWD :3702039656	0
+Hi! You have 9 Missed calls. To get details of first 3 missed calls,SMS GET to 52255 @Re1. For all Missedcall details,sms START to 52244 &subscribe @Rs30/Mth	0
+This exchange get Rs 1200 TT on Recharge of Rs 875 on T24 number! Sell your old items @Big Bazaar & get Exchange coupons to avail the offer by 29th Mar'15.	0
+Only for you! Get 100 Local Mob Minutes on RC 38. Validity 30 days. Ask Docomo retailer to Recharge today! Benefit in 48-72 hrs. Limited Period Offer.	0
+Room no C-103, Nandhini ladies hostel, near D-MART, WAKAD ROAD, HINJEWADI, PUNE-411057, MAHARASHTRA	0
+Hi! You have 2 Missed calls. To get details of first 3 missed calls, SMS GET to 52255 @Re1	0
+T24-New COMBO Offer! Get Rs.176 Talktime & 1GB FREE data for 30 days on recharge of Rs.251. Ask retailer to select Special Mode on Tata Docomo EVD	0
+T24 : Only for you! Get 100 Local Mob Minutes on RC 38. Validity 30 days. Ask Docomo retailer to Recharge today! Benefit in 48-72 hrs. Limited Period Offer.	0
+T24 Recharge With Rs.251 & Get Rs.170 Talktime & 1GB Data for 30 days. Ask the retailer to Select SPECIAL MODE from DOCOMO Retailer or Online or BIG BAZAAR	0
+To complete UAN request process, enter 5859	0
+Send your documents in this mail id, kabirajalok@gmail.com mob-8927240460 voter i card, pan card and a photo. axis bank, sevoke road brunch	0
+Dear Member (UAN :100360810809), Rs. 13556 for 08/2016 has been credited in your EPF account. For details, download m-epf mobile app from Google Play store.	0
+Dear Member (UAN :100360810809), Rs. 14270 for 05/2016 has been credited in your EPF account. For details, download m-epf mobile app from Google Play store.	0
+To Avail subsidy after 30.11.16, pl. provide Aadhaar number to your LPG Distributor. Contact Distributor for assistance on new Aadhaar number or for lost Aadhaar/EID.	0
+Dear Member (UAN :100360810809), Rs. 13124 for 07/2016 has been credited in your EPF account. For details, download m-epf mobile app from Google Play store.	0
+Bank account number 20056836756	0
+Your request for Aadhaar Card registration bearing reference number UIDINB280420170005075486 is pending for processing	0
+Dear Customer, Your Ac No. XXXXX836756 has been linked with Aadhaar No. XX..16868. Download Buddy@ http://goo.gl/qUlXqL	0
+Dear Member, EPF Contribution of Rs. 14018 against UAN 100360810809 for due month 012017 has been received. Passbook will be updated shortly. Regards EPFO	0
+Aadhaar linking with PAN made simple. Just go to www.incometaxindiaefiling.gov.in and click Link Aadhaar and follow instructions.	0
+No need to login or register.	0
+You added a third party on 03-01-2018 11:11:50 AM.If it is not added by you, please lock the User Access urgently to avoid misuse	0
+Your offer for today on 7890577216: 1) Rs. 179 = Unlimited Calls+Free Roaming+1GB - 28Days 2) Rs. 51 = 1GB 3G-28 Days 3) Rs. 95 = 3GB 3G - 28 Days 4) Rs. 509 = Unlimited Calls+1GB/Day - 84 Days	0
+Recharge of Rs. 309 is successful for your Jio number 8240301115.	0
+Entitlement: Benefits of 309 Plan Free Voice, Unlimited Data (Post 1GB High Speed Data per day, speed will throttle to 128Kbps), 100SMS/day & amp; Complimentary Subscription to Jio Apps.	0
+Validity: 28+28days Transaction ID: BR0000946I3A.	0
+To manage your account with MyJio app, click https://www.Jio.com/GetMyJio	0
+Dear Customer, Welcome to Jio-Karnataka. For queries or support, please call JioCare on 199 from your Jio number or on 1800-88-99999 from any number. Have a pleasant stay. Thank you, Team Jio	0
+Recharge of Rs. 399 is successful for your Jio number 8240301115.	0
+Entitlement: Benefits of 399 Plan Free Voice, Unlimited Data (Post 1GB High Speed Data per day, speed will throttle to 128Kbps), 100SMS/day and Complimentary Subscription to Jio Apps.	0
+Validity: 28+28+28days (Special one-time benefit) Transaction ID: BR0000DVNWH9	0
+Dear Customer, You have received 1 Jio voucher(s) on your Jio Number 8240301115. Each voucher entitles you to following benefits:10GB high speed data.. Please visit MyVouchers section in MyJio app to redeem the Jio voucher and enjoy the benefits of the offer. Thank you, Team Jio	0
+Your plan for Jio no. 8240301115 has expired. Data speed has been reduced & outgoing calls are barred. Recharge IMMEDIATELY to resume services. Click on http://jio.com/r/JjUFnkJV or visit your nearest Jio retailer NOW.	0
+You have used 50% of your 1 GB daily high speed internet quota on your Jio Number 8240301115 as of 30-Sep-17 22:04 Hrs. To track your balance and usage, click https://www.jio.com/fup	0
+Thank you for using your SBI Debit Card 622XX6175 for a purchase worth Rs834.0 on POS 037033000057622 at BIG BAZAAR txn# 143501.	0
+Rs 10000 withdrawn from A/c xx 6756 on 12/11/17 at PNB ATM L2763300. Txn# 731609012441. Avl bal Rs 365782.65. Free othr bnk txn for MAB>1lac.	0
+Presenting Simply CLICK SBI Credit Card with exclusive benefits - Amazon Gift Card worth Rs. 500, 10X Reward Points & more.	0
+Click http://nsm.sg/J0OKRc to apply	0
+Your plan for Jio no. 8240301115 will expire on --. Recharge with Rs.399 plan today and enjoy FIRST EVER TRIPLE CASHBACK upto Rs. 2599. Recharge applicable on your plan expiry. Click http://jio.com/r/PgqNMR1O to recharge NOW. T&C apply	0
+Your plan for Jio no. 8240301115 will expire on 09-12-2017. Recharge with Rs. 399 plan today and enjoy FIRST EVER TRIPLE CASHBACK upto Rs.2599. Recharge applicable on your plan expiry. Click http://jio.com/r/PolmKMcV to recharge NOW. T&C apply	0
+Your plan for Jio no. 8240301115 will expire on 09-12-2017. Recharge with Rs. 399 plan today and enjoy FIRST EVER TRIPLE CASHBACK upto Rs. 2599. Recharge applicable on your plan expiry. Click http://jio.com/r/Pv8d3tzk to recharge NOW.	0
+Your A/C XXXXX836756 has a credit by Transfer of Rs 5,434.00 on 21/11/17. Avl Bal Rs 3,65,117.72. Download Buddy@ http://goo.gl/qUlXqL	0
+Enjoy CashBack on all your everyday spends and 2X Reward Points on online spends with HDFC Bank's MoneyBack Credit Card. Apply today http://nsm.sg/JlAZum	0
+Your A/C XXXXX836756 has a credit by Cheque of Rs 45,000.00 on 24/11/17. Avl Bal Rs 4,10,117.72. Download Buddy@ http://goo.gl/qUlXqL	0
+Request for issue of cheque book in your account no. XXXXX836756 registered on 27/11/17.  Cheque book will be dispatched within next 7 working days.	0
+Your A/C XXXXX836756 has a debit by transfer of Rs 19,968.00 on 27/11/17. Avl Bal Rs 3,90,149.72. Download Buddy@ http://goo.gl/qUlXqL	0
+If you receive offer of lottery winnings or cheap funds from RBI/government body, complain on https://sachet.rbi.org.in/Complaints/Add	0
+INR 83,670.00 credited to your A/c No XXXXXXX6756 on 27/11/17 through NEFT with UTR CMS709924424 by LIC JALPAIGURI DO	0
+Thank You for being part of Jio Family.                                  Stay connected on the largest and strongest 4G network of India which gives you high speed internet services and unlimited calls even while ROAMING. Recharge renewal date of your Jio number 8240301115 is approaching. Click http://jio.com/r/QEtj29l4 to recharge now.	0
+Your AC XXXXX836756 Debited INR 45,000.00 on 28/11/17-Towards transfer to Mr. AMIT CHAUDHURI , chq No.458009. Avl Bal INR 4,28,819.72	0
+Rs 10000 withdrawn from A/c xx 6756 on 01/12/17 at PNB ATM L2763300.Txn# 733519005882. Avl bal Rs 516585.72. Free othr bnk txn for MAB>1lac.	0
+Rs 5000 withdrawn from A/c xx 6756 on 01/12/17 at PNB ATM L2763300. Txn# 733519006687. Avl bal Rs 511585.72. Free othr bnk txn for MAB>1lac.	0
+Your plan for Jio no. 8240301115 will expire on 09-12-2017. Recharge with Rs. 399 plan today and enjoy FIRST EVER TRIPLE CASHBACK upto Rs.2599. HURRY! Offer available for LIMITED PERIOD. Click http://jio.com/r/Re1Kub20 to recharge now.	0
+Hi, UNBELIEVABLE instant approval Credit Card offers! Explore now. bankbzr.com/d/Izf2k5/5c3a. TnC apply	0
+Curious about your Jio Plan & validity? Click http://jio.com/r/RSrBgVtn to experience the Power of MyJio.	0
+Your plan for Jio no. 8240301115 expires TOMORROW. Services will be STOPPED if not recharged. To recharge, click http://jio.com/r/RTSwxnNg or visit your retailer.	0
+Your plan for Jio no. 8240301115 expires TOMORROW. Services will be STOPPED if not recharged. Recharge with Rs.399 plan today and enjoy FIRST EVER TRIPLE CASHBACK upto Rs.2599. HURRY! Offer available for LIMITED PERIOD. Click http://jio.com/r/RV0uEMKk to recharge now.	0
+Entitlement: Benefits: Free Voice, Unlimited Data (1GB High Speed Data per day, thereafter unlimited at 64Kbps), 100SMS/day & Complimentary Subscription to Jio Apps.	0
+Validity: 70days Transaction ID: 3527013069 To manage your account with MyJio app, click https://www.Jio.com/GetMyJio	0
+Dear Customer, You have received 1 Jio voucher(s) on your Jio Number 8240301115. Each voucher entitles you to following benefits:10GB high speed data. Please visit MyVouchers section in MyJio app to redeem the Jio voucher and enjoy the benefits of the offer. Thank you, Team Jio	0
+Your A/C XXXXX836756 has a credit by Transfer of Rs 7,645.00 on 19/12/17. Avl Bal Rs 5,07,952.72. Download Buddy@ http://goo.gl/qUlXqL	0
+Jio wishes you a Happy Digital 2018. Your Jio No. 8240301115 has been credited with a Complimentary 10GB Data Add-On Pack. Click http://jio.com/r/TYdMgbiF	0
+Thank you for using your SBI Debit Card 622XX6175 for a purchase worth Rs3748.0 on POS 504492049050445 at APEX GENERAL HOSPIT txn# 751471.	0
+LPG Subsidy of Rs. 267.57 has been credited to your A/c No.XXXXX836756 on 29/12/17. Download YONO @ www.yonosbi.com	0
+Dear Customer, We have received your request to recharge your Jio Number 8240301115 by using Jio voucher. On successful completion of this request, a confirmation will be sent. Thank you, Team Jio	0
+Recharge of Rs. 0 is successful for your Jio number 8240301115. Entitlement: ADD ON Benefits: 10GB Data Validity: Customers existing plans validity Transaction ID: RV0000068SME. To manage your account with MyJio app, click https://www.Jio.com/GetMyJio	0
+2017 on rewind! Listen to this year's most popular BENGALI songs in our 'Best of 2017' playlist on JioMusic!	0
+Tap on the link http://jio.com/r/UzIzkrsK to play	0
+Special New Year offer! Get 2 years of The Hindu e-Paper at 1 year price. Visit: https://goo.gl/mwds5B Use promocode: THENEWYR. Valid only till 01/01/2018	0
+Get upto Rs.250 cashback on bill payments through Samsung Pay mini. Use Samsung Pay mini now to enjoy exclusive offers! Know More resu.io/Q24VT56A5XM	0
+For details, sms PEN to 56161	0
+Get Rs.50 Lacs Life Cover @ Premium of Rs.17/day. Covers Life & Health Along With 34 Critical Illnesses, +Save Tax. T&CA. For details, sms IPT to 56161	0
+T&C A.	0
+For details, sms HDV to 56161	0
+Thank you for using your SBI Debit Card 622XX6175 for a purchase worth Rs. 399.0 on POS 504492049023059 at RELIANCE TRENDS JESSOR txn# 647386.	0
+You have used 50% of your 1 GB daily high speed internet quota on your Jio Number 8240301115 as of 06-Jan-18 21:18 Hrs. To track your balance and usage, click http://tiny.jio.com/TrackBalance or give a missed call to 1299 to receive details via sms	0
+9094303775: Install Flip kart mobile app & get Rs. 2018 shopping vouchers free. Download from link goo.gl/BKFefA Use coupon code NY2018	0
+This new year, get your resume reviewed by experts at The Hindu BLoC for just Rs. 249 and accelerate your career. Visit: https://goo.gl/dRcCVH	0
+Now one app will meet all your Lifestyle & Banking needs. Login to YONO by SBI with your INB credentials. Download @ www.yonosbi.com Lifestyle and Banking,dono.	0
+Pest Control Winter Offer - Make your Home PEST free with Expert Pest Control Services & Avail Flat Rs.1000 OFF. For details. sms PEST to 56161	0
+Your A/C XXXXX836756 has a credit by Transfer of Rs 225.00 on 09/01/18. Avl Bal Rs 5,52,545.29. Download YONO @ www.yonosbi.com	0
+Guaranty of the payment in stamp paper.online work and earn money. so simple. join Free. visit us- www.WithSmp com	0
+Avbl Bal as on 29-Dec-2014 08:23:18 in your A/C. No.XX0766 is INR 85.34. Tot. avbl bal (including linked deposits and Limit) is INR -1,600.06.	0
+Dear Customer, Your Ac XXXXXXXX7476 is credited with INR35,379.00 on 30 Dec. Info.TRFR FROM:AKRAYA SOLUTIONS P. Your Net Available Balance is INR 35,400.00.	0
+Dear Customer, You have made a Debit Card purchase of INR 5,595.00 on 31 Dec. Info.VPS*FLAME N GRI. Your Net Available Balance is INR 29,805.00.	0
+Dear Customer, You have made a Debit Card purchase of INR 2,884.00 on 31 Dec. Info.IPS*SPENCER S R. Your Net Available Balance is INR 26,921.00.	0
+Your Ac XX7476 is debited with INR10,000.00 NFS*CASH WDL*01-01-15. Avbl Bal INR 16,569.00. To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+Dtangle salon wishes you a happy new year with a great offer.	0
+This month avail gold facial + full hands and legs chocolate wax + herbal pedicure all worth Rs. 1750 at just Rs. 1000.	0
+Valid upto 31st Jan Call 8149104409 for appt.	0
+Dear Customer, You have made a Debit Card purchase of INR 106.89 on 05 Jan. Info.IPS*ADITYA BIRL. Your Net Available Balance is INR 9,918.11.	0
+r u ok... suddenly ur away from watsup	0
+Hi Sweta i am really sorry if i am giving u too much trouble.	0
+Your Ac XX7476 is debited with INR 1,000.00 ATM*CASH WDL*07-01-15*0. Avbl Bal INR 6,418.11. To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+Dear Customer, You have made a Debit Card purchase of INR 299.00 on 11 Jan. Info. VPS*DHANLAXMI M. Your Net Available Balance is INR 5,619.11.	0
+Avbl Bal as on 12-Jan-2015 10:30:29 in your A/C. No.XX0766 is INR 86.62. Total available balance (including linked deposits and Limit) is INR -1,598.78.	0
+Dear Customer, your YES BANK A/c no. 0125XXXXXXX0766 will move to Dormant status due to no transactions for over 12 months. Kindly initiate transactions to prevent dormancy in the account. For details, please visit your nearest YES BANK branch or call 18002000.	0
+Your Ac XX7476 is debited with INR 1,000.00 ATM*CASH WDL*16-01-15*0. Available Balance INR 4,470.11. To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+Dear Customer, You have made a Debit Card purchase of INR 1,501.00 on 17 Jan. Info.VPS*PANTALOONS. Your Net Available Balance is INR 2,969.11.	0
+Your Ac XX7476 is debited with INR 1,000.00 ATM*CASH WDL*17-01-15*0. Avbl Bal INR 1,969.11. To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+Dear Customer, You have made a Debit Card purchase of INR 680.00 on 18 Jan. Info.VPS*PEARL BEAUT. Your Net Available Balance is INR 889.11.	0
+Dear Customer, You have made a Debit Card purchase of INR 176.00 on 18 Jan. Info.VPS*DHANLAXMI M. Your Net Available Balance is INR 713.	0
+Avbl Bal as on 19-Jan-2015 08:23:27 in your A/C. No.XX0766 is INR 86.62. Tot. avbl bal (including linked deposits and Limit) is INR -1,598.78.	0
+Your Ac XX7476 is debited with INR 500.00 NFS*CASH WDL*19-01-15. Avbl Bal INR 213.11. To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+I love you mom	0
+Dear Customer, Your a/c no. XXXXXXXX7476 is credited by Rs. 1,000.00 on 22-Jan-2015 17:53:27 by a/c linked to mobile XXXXX25909. (IMPS Ref no 502217991042).	0
+PF Settlement Claim ID: MHBAN141200079250 Member Account No MHBAN00196450000000865 has been rejected.	0
+Your recharge for VODAFONE PREPAID - account 9765779664 for Rs 100.00 with reference no HDFCB598557838 has been received and recharge will be initiated with the operator shortly.	0
+To make more payments, log onto www.hdfcbank.com.	0
+Avbl Bal as on 27-Jan-2015 12:33:06 in your A/C. No.XX0766	0
+Hii..santanu here call me when you will free...	0
+I am on train.... Tomorrow morning I will call you..	0
+Dial *121# (Toll Fee) to know Best Full Talktime offers & More. Recharge Succesful. Amt=Rs.30, Stax=Rs.3.3, PF=Rs.3, Talktime=Rs.23.7. Dial *141# to check your balance.	0
+Dear Customer, Your Ac XXXXXXXX7476 is credited with INR 37,491.00 on 31 Jan. Info. BY SALARY JAN15.	0
+Your Net Available Bal is INR 37,504.11.	0
+Dear Customer, You have made a Debit Card purchase of INR 130.00 on 31 Jan. Info.VPS*MAD OVER DO.	0
+Your Ac XX7476 is debited with INR2,000.00 ATM*CASH WDL*01-02-15*0.	0
+Avbl Bal INR35,246.11 To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+Avbl Bal as on 03-Feb-2015 12:04:41 in your A/C. No.XX0766 is INR 86.62. Tot. avbl bal (including linked deposits and Limit) is INR -1,598.78.	0
+Your Ac XX7476 is debited with INR8,000.00 ATM*XFR DR*03-02-15*0.	0
+Avbl Bal INR27,246.11 To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+Your Ac XX7476 is debited with INR 6,500.00 ATM*CASH WDL*03-02-15*0.	0
+Avbl Bal INR18,746.11 To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+Dear Customer, You have made a Debit Card purchase of INR 508.33 on 07 Feb. Info.IPS*ADITYA BIRL.	0
+Your Net Available Balance is INR 17,559.78.	0
+Dear Customer, Updating Aadhar no. in ICICI Bank accnt is even more easier.	0
+SMS Aadhar <space> 12 digit Aadhar number <space> last 6 digits of account number to 9222208888.	0
+Dear Customer, You have made a Debit Card purchase of INR 8,348.00 on 08 Feb. Info.VPS*WESTSIDE .	0
+Your Net Available Balance is INR 9,211.78.	0
+Dear Customer, DO NOT share confidential information related to your Bank account with anyone over phone or email.	0
+YES BANK will NEVER ask for such information.	0
+Your Ac XX7476 is debited with INR 2,500.00 NFS*CASH WDL*14-02-15.	0
+Dear Customer, You have made a Debit Card purchase of INR 824.00 on 14 Feb. Info.VPS*JOCKEY SAI .	0
+Your Net Available Balance is INR 2,838.78.	0
+Dear Customer,your voucher no for WIN 5N/6D Thailand Holiday Package Bid Deal for Rs 9 is 16923812960399.	0
+Your total bids purchased so far are 9. You either win or get 100% money back in points.	0
+Total vouchers valid till 2015-02-17 are 9.Call at 011-43444498 for more details.	0
+Dear Customer, You have made a Debit Card purchase of INR140.00 on 16 Feb. Info.VPS*INOX LEISUR. Your Net Available Balance is INR 2,698.78.	0
+Avbl Bal as on 17-Feb-2015 12:03:04 in your A/C. No.XX0766 is INR 86.62. Tot. avbl bal (including linked deposits and Limit) is INR -1,766.20.	0
+Your Ac XX7476 is debited with INR 1,000.00 ATM*CASH WDL*19-02-15*0. Avbl Bal INR 1,698.78. To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+Dear Customer, You have made a Debit Card purchase of INR 355.00 on 21 Feb. Info.VPS*VENKYS XPRS. Your Net Available Balance is INR 1,343.78.	0
+Avbl Bal as on 24-Feb-2015 12:04:12 in your A/C. No.XX0766 is INR 86.62. Tot. avbl bal (including linked deposits and Limit) is INR -1,766.20.	0
+Dear Customer, Manage your Vodafone mobile account at your fingertips with the MY VODAFONE App. To Download visit goo.gl/YOfgy0	0
+Special offers for you are: 1. 520 local Mins 2. Unlimited 3G@Rs 647 3. 70 SMS @ Rs 6 4. FTT110,MFTT220=230 5. 100 STD Min @Rs 33 6. V2V @10p at Rs. 37 7. 100 FTT on M-Pesa 8.	0
+Average balance in your YES BANK A/C XXXX0766 in previous month was less than required average of Rs.10000. Please maintain the required balance to avoid charges	0
+Dear Customer, Your a/c no. XXXXXXXX7476 is credited by Rs. 1,500.00 on 28-Feb-2015 12:59:07 by a/c linked to mobile XXXXX61010. (IMPS Ref no 505912284552).	0
+Your Ac XX7476 is debited with INR500.00 NFS*CASH WDL*01-03-15. Avbl Bal INR1,098.78. To bank on phone with iMobile, click mobile.icicibank.com/dl	0
+Avbl Bal as on 03-Mar-2015 12:04:41 in your A/C. No.XX0766 is INR 86.62. Tot. avbl bal (including linked deposits and Limit) is INR -1,766.20.	0
+Dear Customer, Your Ac XXXXXXXX7476 is credited with INR10,000.00 on 03 Mar. Info.BY CASH - PUNE - KHARADI. Your Net Available Balance is INR10,651.78.	0
+I'll call you later.	0
+Dear Customer, your handset is ready to use GPRS. Pls use APN: rcomnet. For further assistance pls call 30333333 from your alternate number Reliance	0
+Hi Khusbu, meet Ankush your new match. View and start a free conversation simplymarry.com/s/Q3RFLO	0
+Balance in A/c XXXXXXXXXX7061 as of 13-AUG-15 EOD is INR 850.09. Check A/c for current balance. Credits in A/c are subject to clearing.	0
+Bal in A/c No XX7061 has gone below your specified limit of INR 10,000.00. Y'day EOD Bal was INR 850.09. Check A/c for current bal.	0
+Hi Khushboo, Celebrate Independence Day & enjoy shopping @ Globus. Get flat 50% off on mens, ladies & kids wear. Extra 5% off for Friends. TnC	0
+ALERT Your shift is about to end and do remember to "Punch Out" before you leave and secure your attendance.	0
+Success! You have been successfully Punched Out from system. Appreciate your effort for today.	0
+Thank you for using Debit Card ending 3809 for Rs.200.00 in PUNE at DHANLAXMI MEDICAL on 2015-08-14:17:36:34 Avl bal: Rs.650.09	0
+Rs. 200.00 was withdrawn using your HDFC Bank Card ending 3809 on 2015-08-18:08:10:16 at KHARADI BRANCH. Avl bal: Rs.47.19	0
+Q.No: B-203, sail satallite township, dhurwa, ranchi-4, 834004	0
+Dear Customer, you have done 4 txns on Non HDFC Bank Non Metro ATM till 7:30 pm on 18 Aug 2015. Check free txns eligibility on www.hdfcbank.com	0
+Hi ! Sumit has sent you a message. Please check your Inbox. Click simplymarry.com/s/VqUcnR to reply. Rgds. Team SimplyMarry.	0
+Myntra Exclusive: HAPPY HOURS are here! Get Extra 32% Off on the largest catalogue Only Today! http://goo.gl/fUAYxp Your Coupon Code: HH32R	0
+Find out more about the matches who viewed your profile recently and connect using our FREE messaging service. simplymarry.com/s/d1yOXe	0
+Dear Customer, your handset is ready to use GPRS. Pls use APN : rcomnet. For further assistance pls call 30333333 from your alt no. Reliance	0
+Municipal, ZP/PS elections 2016-17: Register name as voter during 8th Oct to 7th Nov 2015, if already not done. State Election Commission, MH.	0
+This is to inform you that your Customer Id has been enabled. You can now log into NetBanking with your Customer ID and IPIN (Password) and conduct a wide range of transactions.	0
+Welcome to Reliance Orissa. Get FREE INCOMING Roaming & LOW LOCAL/STD rate with OneIndia Prepaid Pack. Dial *129*02 to know MRP. Recharge from anywhere!	0
+Completing 18 years on 1.1.2016 ?  Register your name in voter list during 8 October to 7 November 2015 for municipal, ZP/PS Election 2016-17.	0
+Hi Khushboo, Celebrate Durga puja with delight Offers @ Globus. Shop for Rs 2000 and get a GV worth Rs 500. Rush to Globus now T&C	0
+BRANDMART (Kharadi) Dussehra special offer Upto 70% Off & New Stock Arrival " for Mens , kids, ledies kurti & Anarkali available.	0
+Hurry Up" Visit Kharadi Branch Ph-02027001186	0
+Link Aadhaar No. to your HDFC Bank A/c ending with 7061 & confirm address in your a/c for KYC.	0
+One Time Password for NetBanking Transaction is 001721. Please use the password to complete the Transaction.	0
+This is to inform you that your IPIN has been successfully reset by you online using HDFC Bank's NetBanking services.	0
+Dear Customer, your account has been recharged with Rs .01. Amount payable is Rs 46. Thank you. Reliance	0
+An amount of Rs. 46.00 has been debited from your account number XXXX7061 for an online payment txn done using HDFC Bank NetBanking.	0
+RCH of Rs 47 done. Enjoy Free incoming roaming and all local/STD calls in home and national roam location at 35p/min for 30 days. RCOM	0
+Festive special @MAX -Shop for Rs 3500 & get a Designer Bowl Set FREE + 5% Cashback on State Bank Cards. TnC To opt out call +918039275834	0
+Festive Delight@MAX. Shop for Rs4000 & stand chance to win 4D/3N Holiday Package by Sterling Resorts & get 30% OFF on OLA Ride. TnC To opt out call +918039275834	0
+Please avail the opportunity to correct details in voter list during 8 Oct to 7 Nov 2015 for municipal, ZP/PS elections 2016-17.	0
+Rs. 200.00 was withdrawn using your HDFC Bank Card ending 3809 on 2015-10-19:18:16:28 at PISKA MORE OFFSITE. Avl bal: Rs.3033.02	0
+PNR:6345856204, TRAIN:22846, DOJ:02-11-2015,TIME:20:00, SL, HTE TO PUNE, KHUSHBOO SINGH, S2 27, FARE:690, AGNT SC:10, SC:22.8+PG CHGS.	0
+Your tkt Cancelled. PNR 6243170655. Pl collect Rs. 630 from agent.	0
+Your friend has referred you to www.lenskart.com/frame. Use one-time Rs. 500 cash voucher on your 1st purchase of Rs. 1000+: GIFT-REGI8-JAR-YZPEC(at checkout)	0
+This Dussehra, we're celebrating the victory of good over evil with Extra 32% OFF from 9AM - Midnight, Today.	0
+Completing 18 years on 1.1.2016 ? Register your name in voter list during 8 October to 7 November 2015 for municipal,ZP/PS Election 2016-17.	0
+An amount of Rs.1,147.00 has been debited from your account number XXXX7061 for an online payment txn done using HDFC Bank NetBanking.	0
+461606 is your login OTP. Treat this as confidential. Sharing it with anyone gives them full access to your Paytm Wallet. Paytm never calls to verify your OTP.	0
+Recharge of Reliance CDMA Mobile 7488313248 for Rs. 70 was successful.	0
+Verify your account now to continue receiving Cashbacks, go to https://Paytm.com/settings.	0
+Operator reference no. is 10328856812.	0
+Donot006@forget = yehi hain na ??? Aachaa or ek baat bata tay hain teko pata hain daadi kaa tabiyat itna kharaab ho gaya ki hospital mein admit ho gayi but ghar per sabko maat bata dayna ki hum abhi hi tumko bata diye OK didi	0
+Name khushboo singh.	0
+Age twenty seven.	0
+Ticket needed from ranchi to pune.	0
+Email id. Deevkhushi@gmail.com	0
+If any Central Government employee demands bribe, complain to SP CBI ACB Pune, contact 2027642504/9403197940 or mail to hobacpune@cbi.gov.in	0
+Salary of INR 21,825.00 credited to A/c XXXXXXXXXX7061 towards Salary for the month Oct-15 Value 30-OCT-2015. Check A/c for balance	0
+Join hike today and get a festive bonus of Rs. 51 free talktime on joining. It is 5 times faster with 10 new features. 100% Made in India! http://hike.in	0
+EMI of Rs 4348 is due on 07-NOV-15 For loan A/c 26795984. Kindly ensure clearance. Logon to www.hdfcbank.com to view all your loan details on NETBANKING.	0
+WhatsApp code 196-625. You can also tap on this link to verify your phone: v.whatsapp.com/196625	0
+We are celebrating Diwali in Bollywood Style. Be dressed up in Bollywood style tomorrow & win exciting prizes. Happy Diwali! Regards, HR	0
+Be dressed up in Ethnic Wear & join us in the Diwali Celebration at AffinityX tomorrow. Happy Diwali! Regards, HR	0
+Landmark Rewards recently crossed 1 crore members.	0
+THANK YOU! Please see our changed points structure @ http://goo.gl/ttYgqU To opt out call +918039275834	0
+Success! You have been successfully Punched Out from system. .	0
+Appreciate your effort for today	0
+Successful (MRP 30, TT-23.20, PF-3, S.Tax-3.30). Curr bal is Rs 23.20. To check bal dial *121#.53111 pe BMW	0
+Aus v NZ, 3rd Test: Josh Hazlewood is the MoM for taking 9 wickets. David Warner is the MoS for scoring 592 runs, including 3 hundreds. Dial *900# for Cricket Score, Commentary Rs5/Match Day	0
+Register with Paytm & get Rs. 25 Paytm Cash for Recharge/DTH/Shopping. Use Promo FREE25 New users only. Grab today! Click here http://bit.ly/1cMGn9E t&c apply	0
+2GB 3G at Rs 298 thereafter every 1GB at Rs 26 till 28 Days.	0
+UNL All R 2 R Calls at Rs 79, 28D	0
+Congratulation! CHILL51 has been successfully activated on your phone.	0
+Thank You.	0
+Reliance	0
+
+My friend gave very brief answers.	1
+My friend's responses were quite succinct.	1
+My friend responded in a nutshell.	1
+My buddy's responses were really succinct.	1
+My friend gave evasive and ambiguous answers to my questions.	1
+My acquaintance answered my inquiries in a vague and evasive manner.	1
+In response to my questions, my friend was evasive and unclear.	1
+Answers to my questions from my pal were vague and noncommittal.	1
+My acquaintance answered my inquiries in an evasive and unclear manner.	1
+My friend took a long time before responding to my questions.	0
+It took a while for my pal to answer my queries.	0
+Before answering my queries, my pal took a very long time.	0
+It took my pal a while to answer my inquiries.	0
+It was a while before my friend answered any of my questions.	0
+My friend avoided looking me in the eye while answering.	1
+My friend answered without looking directly at me.	1
+While responding, my friend did not look me in the eye.	1
+Throughout her response, my companion did not meet my gaze.	1
+My friend answered without meeting my gaze.	1
+My friend appeared fidgety and uncomfortable.	1
+My friend seemed restless and uneasy.	1
+My friend seemed uneasy and restless.	1
+My friend looked uneasy and fidgety.	1
+My friend fiddled with his/her clothes or objects.	1
+My companion tinkled with items or clothing.	1
+My friend messed around with items or clothes.	1
+My companion messed about with items or clothing.	1
+My companion tinkled with items or garments.	1
+My friend was very pleasant during the discussion.	0
+My acquaintance was a pleasure to talk with during the conversation.	0
+Throughout the conversation, my friend was really kind.	0
+Throughout the conversation, my friend was incredibly kind and engaging.	0
+Throughout the conversation, my friend was quite kind.	0
+My friend's answers were wishy-washy.	1
+My friend gave evasive responses.	1
+My friend gave ambiguous responses.	1
+My acquaintance gave ambiguous responses.	1
+My friend gave ambiguous answers.	1
+My friend's answers were consistent.	0
+The responses from my friend were reliable.	0
+My friend gave constant responses.	0
+Answers from my friend were reliable.	0
+My acquaintance consistently answered the questions.	0
+My friend made a good impression on me.	0
+I had a positive impression of my friend.	0
+I got along well with my pal.	0
+I felt positively about my friend.	0
+I had a favorable opinion of my friend.	0
+My friend's behavior was unusual.	1
+The way my friend was acting was strange.	1
+My acquaintance was acting in an odd way.	1
+That wasn't how my friend usually behaved.	1
+The way my friend was acting wasn't normal.	1
+My friend behaved the way I expect most people to behave.	1
+My acquaintance acted in a manner that I anticipate most people would act in.	1
+My friend acted like I would expect most people to act.	1
+I expected most individuals to act in a similar manner as my friend did.	1
+My acquaintance acted in the manner that I anticipate most people doing.	1
+My friend engaged in normal conversational behaviour.	0
+My companion carried on a typical chat.	0
+My friend was having a typical discussion.	0
+Normal conversational behavior was displayed by my pal.	0
+My friend carried on a typical dialogue.	0
+My friend's behaviour was undesirable.	1
+The way my friend was acting wasn't acceptable.	1
+My acquaintance was acting in an inappropriate way.	1
+That was not how my friend should have behaved.	1
+The way my friend was acting wasn't right.	1
+I found my friend's manner of communicating very unpleasant.	1
+My friend communicated in a really terrible way, in my opinion.	1
+The way my friend communicated bothered me greatly.	1
+My acquaintance spoke in a way that I considered to be really offensive.	1
+My acquaintance communicates in a really terrible way, in my opinion.	1
+My friend's behaviour was appropriate.	0
+My friend acted in a proper manner.	0
+The way my friend behaved was suitable.	0
+The manner in which my friend behaved was suitable.	0
+My friend acted in a suitable manner.	0
+I liked the way my friend interacted with me.	0
+I enjoyed the interactions my friend had with me.	0
+My buddy and I had a good conversation.	0
+The manner my friend engaged with me was pleasing to me.	0
+I was bothered by my friend's communication style.	1
+My friend's communication style bothered me.	1
+My friend's manner of communicating disturbed me.	1
+My friend communicated in a way that worried me.	1
+My friend's communication style was bothering me.	1
+I was wishy-washy in my answers to my friend.	1
+I answered my friend in a hazy and unclear manner.	1
+My responses to my friend were ambiguous.	1
+My friend's questions left me feeling ambiguous.	1
+In my responses to my friend, I was evasive.	1
+My answers to my friend's questions were consistent.	0
+I consistently responded to my friend's questions.	0
+I responded to my friend's inquiries in a consistent manner.	0
+I responded consistently to my friend's inquiries.	0
+I was constant in my responses to my friend's inquiries.	0
+I felt relaxed and at ease while interacting with my friend.	0
+I was comfortable and at ease conversing with my pal.	0
+Interacting with my pal made me feel comfortable and at peace.	0
+When chatting with my friend, I felt comfortable and at peace.	0
+Engaging with my companion made me feel comfortable and at peace.	0
+I was very tense while talking to my friend.	1
+I was nervous as I spoke with my pal.	1
+I was quite nervous when I spoke with my pal.	1
+When I spoke with my friend, I was tense.	1
+I was tense the entire time I was speaking with my friend.	1
+I avoided looking my friend in the eye while answering.	1
+I answered without looking my pal in the eye.	1
+I answered without looking directly at my friend.	1
+While responding, I did not look my friend in the eye.	1
+I answered without seeing my friend's gaze.	1
+I felt nervous while talking to my friend.	1
+While I was speaking with my friend, I felt uneasy.	1
+Speaking with my pal made me uneasy.	1
+As I spoke with my friend, I had anxiety.	1
+Talking to my pal made me uneasy.	1
+I gave very brief answers.	1
+My responses were really succinct.	1
+My responses were terse.	1
+I responded in a nutshell.	1
+I was successful in making a good impression on my friend.	0
+I was able to leave a positive impression on my friend.	0
+Making a good impression on my friend was a triumph.	0
+Having a positive impression on my friend proved to be successful.	0
+The kitchen is in a terrible mess	1
+There's an awful mess in the kitchen.	1
+The kitchen is a complete disaster.	1
+This mess in the kitchen is awful.	1
+I'm certain you won't mind giving me a lift.	1
+You'll have no problem providing me a ride.	1
+You'll have no trouble providing me a ride, I'm sure.	1
+You'll be happy to give me a lift, I'm sure.	1
+You'd better move your car right now!	0
+It's best that you move your car now!	0
+You had better get your car moved immediately!	0
+Moving your car right now would be wise.	0
+You really should move your automobile immediately!	0
+Clean up that mess!	0
+Clear that mess!	0
+Tidy up that mess!	0
+Take care of that mess!	0
+I've explained myself and that's that	0
+I've given my explanation, so that's it.	0
+I've made my point clear, so that's it.	0
+That concludes my explanation of myself.	0
+Get lost Leave me alone!	1
+Get disoriented Give me some space!	1
+Become disoriented Please don't bother me!	1
+Go a lost Go away from me!	1
+Go somewhere. Be gone from me!	1
+Go and clean that kitchen!	0
+Now get that kitchen cleaned!	0
+Get that kitchen cleaned!	0
+Proceed to tidy that kitchen!	0
+Are you going to be free this afternoon?	0
+Will you have any free time this afternoon?	0
+This afternoon, will you be available?	0
+Which time this afternoon are you going to be free?	0
+Will you have some spare time this afternoon?	0
+I guess so	1
+I suppose it is.	1
+Apparently so	1
+So, I suppose.	1
+Yeah, 'cause I need to get those papers from you.	0
+Yes, since I must obtain such documents from you.	0
+Yes, since I require such papers from you.	0
+Indeed, I must obtain those documents from you.	0
+Why don't you come by my office after I'm done with my two o'clock?	0
+How about dropping by my workplace once I finish my two o'clock?	0
+After I finish my two o'clock, why don't you stop by my office?	0
+When I finish up with my two o'clock, why don't you stop by my office?	0
+Okay	0
+Alright.	0
+Right, so	0
+You probably won't believe this/	0
+Most likely, you won't believe this.	0
+This may probably surprise you.	0
+This will definitely shock you.	0
+You're right, I won't. So why tell me?	0
+I won't, you're right. What makes you tell me then?	0
+It's true that I won't. Therefore, why reveal to me?	0
+Thought you might be curious.	1
+I figured you would be interested.	1
+I thought you might be interested.	1
+I wondered whether you were interested.	1
+You thought wrong.	0
+You had the incorrect idea.	0
+You were mistaken in your thinking.	0
+Your assumption was incorrect.	0
+It was a mistake in judgement.	0
+I could say something, but I won't.	1
+I could, but I won't, say anything.	1
+Though I could, I won't say anything.	1
+I could say something, but I'm not going to.	1
+O.K. Don't.	0
+Okay, don't.	0
+Alright, don't.	0
+Okay, do not.	0
+Well, maybe I should tell you....	1
+Perhaps I should inform you, then.	1
+Maybe I should inform you, though.	1
+Possibly, I ought to inform you.	1
+I don't really want to talk about this now, but I think you should know.	1
+Though I feel that you should know, I truly don't want to discuss this right now.	1
+Although I don't really want to discuss it right now, I feel that you should know.	1
+I feel like you should know, even though I really don't want to discuss this right now.	1
+Not now.	1
+Not right now.	1
+Not at this moment.	1
+Not at this point in time.	1
+It's been a long day and I want to relax for awhile.	0
+After a long day, I'd like to unwind for a bit.	0
+I want to unwind for a little because it's been a long day.	0
+I want to relax for a little after such a busy day.	0
+Good idea.	0
+Excellent concept.	0
+Nice thought.	0
+Good approach.	0
+Good approach.	0
+I find his sense of humor very unique.	0
+I think his sense of humor is quite original.	0
+His humor strikes me as being incredibly original.	0
+His humor strikes me as being truly unique.	0
+I order you to stop running.	0
+I plan on finishing my thesis this year.	0
+This year, I want to finish my thesis.	0
+My goal for this year is to complete my thesis.	0
+During this year, I want to complete my thesis.	0
+I apologize for not returning your phone call sooner	1
+I regret not getting back to you on your call sooner.	1
+I'm sorry for not getting back to you on the phone sooner.	1
+Sorry I didn't get back to you on the phone sooner.	1
+I apologise for not getting back to you on your call sooner.	1
+I argue that classifying apologies is a complex task	1
+I contend that categorising regrets is a difficult undertaking.	1
+I contend that the task of categorising apologies is difficult.	1
+Classifying apologies, in my opinion, is a difficult assignment.	1
+Can you open the door?	0
+Is it possible for you to open the door?	0
+Could you please open the door?	0
+Are you able to open the door?	0
+Can you let the door open?	0
+O.K	0
+Alright.	0
+Okay.	0
+Haven't you seen it at least twice?	0
+You've watched it at least twice, right?	0
+Have you not watched it two or more times?	0
+You've watched it two times minimum, right?	0
+O.K. I'm going to do my homework now.	0
+Alright. Now I'm going to work on my schoolwork.	0
+Okay. I'm about to tackle my schoolwork.	0
+All right. I'm about to start working on my assignment.	0
+Alright. I'm going to start working on my schoolwork now.	0
+Please send me the books	0
+Send the books to me, please.	0
+Kindly forward the books to me.	0
+Please send the books to me.	0
+I am asking you to help me	0
+I'm requesting your assistance.	0
+I need your assistance.	0
+Please lend a hand, please.	0
+I would like you to tell me how to do it.	1
+Could you please explain the process to me?	1
+Please walk me through the process.	1
+Please explain the process to me.	1
+Tell me how to do it, please.	1
+You should show me how to do it.	0
+Please demonstrate the process for me.	0
+I should see you demonstrate how to do it.	0
+You should to demonstrate the process to me.	0
+I should see you demonstrate how to accomplish it.	0
+I wish you would give us more time to finish.	1
+I hope you would extend our finishing time.	1
+I hope you would allow us additional time to complete.	1
+I would prefer that you extend our finishing time.	1
+How about next Thursday?	0
+What about Thursday of next week?	0
+Perhaps Thursday of next week?	0
+Possibly Thursday of next week?	0
+Could you/would you tell me when can I meet you?	0
+Would you please let me know when we can meet?	0
+When can I meet you, if you could or would?	0
+What time would you be available for us to meet?	0
+Could you let me know when we can meet?	0
+I cannot do it by myself.	1
+I'm not able to handle it alone.	1
+I am not able to do it on my own.	1
+No way could I do this on my own.	1
+I'm not capable of doing it on my own.	1
+I do not have the net at home.	1
+The net is not with me at home.	1
+At home, I don't have the internet.	1
+My house is not equipped with a net.	1
+please tell us when will you come to the university ?	0
+Please let us know when you plan to visit the university.	0
+Could you please tell us when you plan to visit the university?	0
+When would you be visiting the university, please?	0
+please Dr. Z tell me when can I find you at university to bring you the dissertation.	0
+Please let me know when I may come see you at the university so I can bring the dissertation, Dr. Z.	0
+Tell me when I can find you at the university so I can bring you the dissertation, please, Dr. Z.	0
+To bring you the dissertation, please let me know when I can locate you at the university, Dr. Z.	0
+To bring you the dissertation, please let me know when I can locate you at the university, Dr. Z.	0
+Please Sir, e-mail me if you have something.	0
+Kindly send me an email if you have any updates.	0
+If you have any questions, please email me, sir.	0
+Kindly, if you have any questions, send me an email.	0
+sir, please answer my calls or join me on the net whenever possible.	0
+Please return my calls, sir, or log on to the internet with me whenever you can.	0
+Please pick up my phone when I call or go on to the internet whenever you can, sir.	0
+Whenever you can, sir, please take my calls and join me online.	0
+Please read it and, of course I'm welcoming any of your suggestions.	0
+Please take a look at it, and feel free to provide any suggestions.	0
+Kindly review it, and naturally, I would appreciate any feedback you may have.	0
+Please take a glance at it, and undoubtedly, I would appreciate any feedback.	0
+i just wanted to asked whether you finished correcting my thesis or not yet	1
+I simply wanted to know if you had completed editing my thesis.	1
+I was simply curious as to whether you had completed editing my thesis.	1
+Would you please let me know if you have completed editing my thesis?	1
+I would like to know if you have completed editing my thesis.	1
+i just thought maybe you sent me something and i didn't receive it!	1
+I was simply thinking that perhaps something was delivered to me and I never got it!	1
+I was just thinking, perhaps you sent me something and I never got it!	1
+I simply reasoned that it's possible I didn't receive something you sent!	1
+I was simply thinking that probably there's something you sent me but I never got it!	1
+I just wanted to know if this article is a reliable source to be used in my thesis	1
+Simply put, I needed to know if this article would be a trustworthy source for my thesis.	1
+Just wondering if this article is a trustworthy source to use for my thesis.	1
+My question was simply if this article would be a trustworthy source for my thesis.	1
+All I wanted to know was whether this article would be a trustworthy source for my thesis.	1
+I just wanted to discuss these issues with you	1
+I simply wanted to talk to you about my concerns.	1
+All I wanted to do was talk to you about these problems.	1
+I was only hoping to talk to you about these matters.	1
+I merely wanted to talk to you about these matters.	1
+I'm always willing to admit it when I make a mistake.	1
+I have no problem owning up to my mistakes.	1
+When I make a mistake, I'm always ready to own up to it.	1
+When I commit an error, I'm always prepared to own up to it.	1
+When I make a mistake, I'm always prepared to own up to it.	1
+I like to gossip at times.	1
+Sometimes I like to gossip.	1
+Sometimes I enjoy gossiping.	1
+I enjoy gossiping occasionally.	1
+Sometimes I enjoy chatting up people.	1
+Was this lie ever discovered?	0
+Was this falsehood ever found out?	0
+Was this falsehood ever exposed?	0
+Did anyone ever find out about this lie?	0
+Was there ever any proof of this lie?	0
+If you could relive this social interaction, would you tell the lie again?	0
+Would you tell the same lie in this social situation again if you could?	0
+Would you tell the same untruth in this social situation if you could go back in time?	0
+Would you tell the same untruth if you could go back and redo this social exchange?	0
+Would you lie again in this social situation if you could?	0
+How do you expect sales to be next year?	0
+What is your forecast for the upcoming year's sales?	0
+What is your forecast for sales the next year?	0
+What kind of sales do you anticipate for the upcoming year?	0
+What are your projections for the upcoming year's sales?	0
+I expect sales to grow next year.	1
+Next year, I anticipate sales to increase.	1
+Next year, I think sales will increase.	1
+Next year, I anticipate higher sales.	1
+Sales should increase in the upcoming year.	1
+Well, as you know, over the last 10 years our sales have grown consistently.	1
+As you are aware, we have had steady growth in sales over the past ten years.	1
+As you are aware, our sales have increased steadily during the past ten years.	1
+Our sales have increased steadily over the past ten years, as you are aware.	1
+As you are aware, we have steadily increased sales over the past ten years.	1
+Since sales have gone up the last 10 years, I expect them to go up next year.	1
+Sales should increase next year, as they did over the past ten years.	1
+I anticipate higher sales next year, as they have increased over the last ten years.	1
+Sales should increase in 2019 as they did over the last ten years.	1
+Given the upward trend in sales over the past ten years, I anticipate continued growth in sales in 2019.	1
+Has this car ever had problems?	0
+Was there ever an issue with this car?	0
+Was there ever a problem with this car?	0
+Has this vehicle ever experienced issues?	0
+Has there ever been an issue with this car?	0
+Twice in the last year this car would not start and both times I had to have a mechanic fix it	1
+This automobile would not start twice in the past year, and each time I had to have a mechanic fix it.	1
+My car wouldn't start twice in the past year, and I had to get a mechanic to fix it each times.	1
+I had to get a mechanic to fix this automobile twice in the past year because it would not start.	1
+This car has never had problems.	1
+This vehicle has never experienced issues.	1
+Problems have never arisen with this car.	1
+There have never been any issues with this car.	1
+
+This car drives very smoothly and is very responsive. Just last week it started up with no problems when the temperature was -5 degrees Fahrenheit.	1
+
+They [Laci s family] are obviously um upset with me about the um the romantic um relationship with Amber um and they have little trust as they ve expressed in the media to date um but I believe that they re still looking for Laci.	0
+
+Um well I ll just I ll just tell you. Uh you haven t been watching the news obviously. Um I have not been travelling during the last couple weeks. I have, I have lied to you that I ve been travelling. The girl I m married to, her name is Laci. She disappeared just before Christmas.	0
+
+It was a couple of days after Laci s disappearance, I telephoned her [Amber] and told her the truth.	1
+
+I ll call when it s my night time. About nine hours difference. I ll take the train late tonight from here to Brussels. And then I ll be in Brussels for at least four days.	1
+
+I ll call when it s my night time.	0
+When it's my night, I'll give you a call.	0
+When darkness falls, I'll give you a call.	0
+When I go to bed, I'll give you a call.	0
+When it's my nighttime, I'll give you a call.	0
+About nine hours difference.	0
+A difference of almost nine hours.	0
+The difference is almost nine hours.	0
+Nine hours or so is the difference.	0
+About nine hours separate the two.	0
+I ll take the train late tonight from here to Brussels.	0
+I'm going to Brussels by train later tonight.	0
+From here, I'll take the late train to Brussels tonight.	0
+Tonight, I'll travel to Brussels by train, departing late.	0
+I'm going to Brussels tonight by train.	0
+And then I ll be in Brussels for at least four days.	0
+After that, I'll spend at least four days in Brussels.	0
+I'll spend at least four days in Brussels after that.	0
+The next four days or more will be spent in Brussels.	0
+Following that, I'll spend at least four days in Brussels.	0
+Would you like to meet for lunch tomorrow?	0
+Do you want to get together tomorrow for lunch?	0
+Are you open to getting together for lunch tomorrow?	0
+Shall we have lunch together tomorrow?	0
+Would you be interested in getting together for lunch tomorrow?	0
+Sure!	0
+Yes, of course!	0
+Yes, without doubt!	0
+Well, hmm, let's see... Tomorrow's Tuesday, right? I told Harry I'd have lunch with him. And I told him so long ago that I'd feel bad canceling. Maybe another time, okay?	1
+Oh, well, let's investigate. It's Tuesday tomorrow, correct? I promised Harry we would eat lunch together. I also warned him a long time ago that I would regret cancelling. Okay, maybe another time.	1
+Alright, let's see... It's Tuesday, right, tomorrow? I promised Harry that we would eat lunch. And I'd felt horrible for cancelling, I told him years ago. Alright, maybe later?	1
+Let's see, then... Tuesday is next week, correct? Harry and I were going to eat lunch. And I had already warned him that I would regret cancelling. Perhaps at a later time?	1
+And I told him so long ago that I'd feel bad canceling.	1
+I also warned him a long time ago that I would regret cancelling.	1
+And I'd felt horrible for cancelling, I told him years ago.	1
+And I had already warned him that I would regret cancelling.	1
+And I had warned him a long time ago that I would regret cancelling.	1
+I have problems with verbs, and I have yet to improve my vocabulary.	0
+My vocabulary needs work, and I struggle with verb tenses.	0
+I still need to work on expanding my vocabulary and I struggle with verbs.	0
+My vocabulary still has to be improved, and I struggle with verbs.	0
+My vocabulary still needs work, and I struggle with verb tenses.	0
+I had some grammatical errors, but small ones. I was fine. I am quite fluent and spontaneous.	0
+I made a few minor grammatical mistakes. I was alright. I speak clearly and impulsively.	0
+Small grammatical faults were present in my writing. I was doing OK. I speak with ease and on a whim.	0
+Though not too many, I did make a few minor grammar mistakes. I had no problems.	0
+Though they were minor, I made a few grammatical mistakes. I was okay. I speak with ease and without prompting.	0
+Being spontaneous and fluid is who I am.	0
+I'm impulsive and flexible by nature.	0
+I'm a free-spirited, adaptable person.	0
+That is who I am: impulsive and adaptable.	0
+I'm a naturally flowing, impulsive person.	0
+I had some grammatical errors, but small ones.	0
+I made a few minor grammatical mistakes.	0
+Small grammatical faults were present in my writing.	0
+Though not too many, I did make a few minor grammar mistakes.	0
+Though they were minor, I made a few grammatical mistakes.	0
+In regular classes I can't express my true feeling in English and this makes me feel uncomfortable.	1
+I find it awkward when I can't communicate how I really feel in English in regular classes.	1
+I feel awkward in regular classes since I can't communicate how I really feel in English.	1
+I find that I find it difficult to communicate how I really feel in English in regular classes.	1
+I find it uncomfortable when I can't communicate how I really feel in English in regular classes.	1
+I never feel quite sure of myself when I am speaking in my foreign language  class.	1
+Speaking in front of my foreign language class makes me never feel fully confident in myself.	1
+When I speak in my foreign language class, I never feel completely confident in myself.	1
+When I'm speaking in front of my foreign language class, I never feel really confident.	1
+When I speak in front of my foreign language class, I never feel completely confident in myself.	1
+I don't worry about making mistakes in language class.	1
+I don't stress about not understanding the language in class.	1
+I don't give a damn about botching language lessons.	1
+Making mistakes in language class is not something I worry about.	1
+I'm not concerned about making mistakes in my language class.	1
+I tremble when I know that I'am going to be called on in language class.	1
+When I know I'm going to be called upon in language class, I shudder.	1
+In language class, I shudder when I think I might be called upon.	1
+The thought of being called upon in language class makes me shudder.	1
+It frightens me when I don't understand what the teacher is saying in foreign language.	1
+When a teacher speaks in a language I don't understand, it makes me nervous.	1
+When the teacher speaks in a foreign language and I can't understand her, it scares me.	1
+When a foreign language teacher speaks and I can't understand them, it scares me.	1
+When a teacher speaks in a foreign language and I can't understand them, it makes me nervous.	1
+It wouldn't bother me at all to take foreign language classes.	1
+I wouldn't find taking classes in foreign languages to be at all problematic.	1
+I would not be bothered to attend classes in foreign languages.	1
+Learning a foreign language wouldn't be a problem for me at all.	1
+I would have no problem taking classes in foreign languages.	1
+During language class, I find myself thinking about things that have nothing to do with the course.	1
+in relation to the course.	1   
+relate to the course.	1
+regarding the course.	1
+I keep thinking that the other students are better at languages than I am.	1
+My constant thought is that the other pupils are more proficient in languages than I am.	1
+The other pupils' proficiency in languages seems to be superior to mine, in my opinion.	1
+I persistently believe that my language skills are inferior to those of my fellow students.	1
+I can't help but feel that the other students are more proficient in languages than I am.	1
+I am usually at ease during tests in my language class.	1
+In my language class, exams usually put me at ease.	1
+In my language class, I usually feel comfortable taking tests.	1
+Tests in my language lesson usually make me feel comfortable.	1
+I start to panic when I have to speak without preparation in language class.	1
+When I have to speak in front of the class without having prepared, I get nervous.	1
+In language class, when I have to talk without preparation, I get nervous.	1
+In language class, I become nervous when I have to talk without any preparation.	1
+Um h-he had some blood all over the floor and there were some just coming down on his arms.	1
+Um h-he had some blood all over the floor and there were some just coming down on his arms.	1
+He was covered in blood, some of which was falling onto his arms and covering the floor.	1
+His arms were being pelted with blood, and there was blood all over the floor.	1
+Um I drove forever and ever until I was in the middle of the desert.	1
+I drove for what seemed like an eternity until I arrived in the middle of a desert.	1
+I drove endlessly till I reached the middle of the desert.	1
+Till I was in the midst of the desert, I drove for what seemed like forever.	1
+I drove for a very long time till I reached the middle of the desert.	1
+Um because he was still sort of on his hands and knees.	1
+Since he was still kind of crawling about on his hands and knees.	1
+He was still kind of on his hands and knees, which is why.	1
+because, well, he was still kind of crawling.	1
+as he was still kind of clumsy.	1
+I didn t call anybody or tell anybody.	1
+I didn't inform or phone anyone.	1
+I kept it to myself and didn't tell anyone.	1
+No one was informed or called by me.	1
+I kept it to myself, neither telling or calling anyone.	1
+there was nothing missing from this house.	1
+Nothing was absent from this home.	1
+This house contained nothing that was lacking.	1
+In this house, nothing was lacking.	1
+This house had nothing missing.	1
+And um they just kept arguing.	1
+They just continued to argue, eh.	1
+And they simply kept fighting, I guess.	1
+They simply continued to quarrel.	1
+They simply continued to argue, eh.	1
+I was terrified.	1
+I was frightened.	1
+I felt frightened.	1
+I felt quite afraid.	1
+It scared me.	1
+I was scared for my life.	1
+I felt like I might die.	1
+For my life, I was terrified.	1
+I was terrified for my life.	1
+I was terrified for my life.	1
+I felt like I might not survive.	1
+For my life, I was afraid.	1
+For my own life, I was scared.	1
+I was running for my life.	1
+I was running for my life.	1
+My life was in danger as I ran.	1
+I had to flee for my life.	1
+My life was in jeopardy.	1
+I was escaping for my life.	1
+I think there was a na ve belief.	1
+There was, in my opinion, a naive belief.	1
+There was a naive belief, in my opinion.	1
+I could pretend like it didn t really happen.	1
+A naive belief, in my opinion, existed.	1
+I think he was not acting stupid in the interview to boost his calibre before the knowledgeable interview board.	1
+This is a test question and a check whether you understood the instructions.	0
+Please briefly state your task in this experiment.	0
+To accurately provide information on my trip to London to visit family.	0
+I plan to fly to London to visit family and friends.	0
+I will also be traveling to Brighton and maybe Southampton.	0
+What is the main purpose of your flight to [DESTINATION]?	0
+The main purpose is to visit family in London.	0
+I will also be going to Brighton.	0
+Who will you meet in [DESTINATION] and for which reason?	0
+I will be visiting family that live in London.	0
+I will visit some friends as well.	0
+Please describe in which order you did the planning for your trip to [DESTINATION].	0
+What was first, what second, and what last?	0
+The first thing I had to do was check the flights to London.	0
+The second was to book the flights according to my schedule.	0
+What was the hardest to plan?	0
+The hardest thing to plan was booking a hotel.	0
+There are so many hotels with so many reviews.	0
+It was difficult to choose one and pick the location.	0
+What is the most pleasant event you expect to happen during your trip?	0
+The most pleasant event that I expect to happen during my trip is to see family that I haven t seen in a couple of years.	1
+What is the most unpleasant event you expect to happen during your trip?	0
+The most unpleasant event will likely be the travelling part.	0
+I will be departing at 6am, so it is likely to be an early morning.	0
+If you have to wait during your journey, for example in the airport or changing train stations, what will you do while you re waiting?	0
+While waiting on my journey, I will likely be on my phone or laptop.	1
+How will you get from the airport to your accommodation?	0
+I will travel from the airport to my accommodation via rental car.	0
+What is the first thing you will do when you arrive at your final destination?	0
+The first thing I will do when I arrive will be to look for a Starbucks.	0
+What is the first thing you will do when you return home from your trip to [DESTINATION]?	0
+The first thing I will do when I return home is unpack and shower.	0
+New Nintendo Switch game console to launch in March for $99. Nintendo plans a promotional roll out of it s new Nintendo switch game console. For a limited time, the console will roll out for an introductory price of $99. Nintendo promises to pack the new console with fun features not present in past machines. The new console contains new features such as motion detectors and immerse and interactive gaming. The new introductory price will be available for two months to show the public the new advances in gaming. However, initial quantities will be limited to 250,000 units available at the sales price. So rush out and get yours today while the promotional offer is running.	0
+New Nintendo Switch game console to launch in March for $99.	1
+Nintendo plans a promotional roll out of it s new Nintendo switch game console.	1
+For a limited time, the console will roll out for an introductory price of $99.	1
+Nintendo promises to pack the new console with fun features not present in past machines.	1
+The new console contains new features such as motion detectors and immerse and interactive gaming.	1
+The new introductory price will be available for two months to show the public the new advances in gaming.	1
+However, initial quantities will be limited to 250,000 units available at the sales price.	1
+So rush out and get yours today while the promotional offer is running.	1
+Kim Kardashian Reportedly Cheating With Marquette King as She Gears up for Divorce From Kanye West.	1
+The NFL star seemingly took to Twitter to address rumors that they ve been getting close amid Kanye s mental breakdown, which were originally started by sports blogger Terez Owens.	1
+As In Touch previously reported, Kim has been speaking with famed divorce attorney Laura Wasser and asked for documents to be drawn up.	1
+An insider blames the rapper s paranoia as a reason for the demise of their marriage.	1
+Kim is miserable and wants this marriage to be over,  says the source	1
+Kim And Kanye Silence Divorce Rumors With Family Photo.	0
+Kanye took to Twitter on Tuesday to share a photo of his family, simply writing, Happy Holidays.	0
+In the picture, seemingly taken at Kris Jenner s annual Christmas Eveparty, Kim and a newly blond Kanye pose with their children, North, 3, and Saint, 1.	0
+After Kanyes hospitalization, reports that there was trouble in paradise with Kim started brewing.	0
+But E! News shut down the speculation with a family source denying the rumors and telling the site, It s been a very hard couple of months.	0
+Kim remains out of the spotlight while Kanye is reportedly seeking outpatient treatment.	0
+Though Kim has yet to make a real return to social media herself, she s been spotted on Kanyes page, as well as Khloe Kardashian s and Kylie Jenner s Instagrams and Snapchats.	0

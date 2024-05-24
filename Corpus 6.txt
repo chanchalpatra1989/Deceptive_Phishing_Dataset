@@ -1,0 +1,179 @@
+My friend gave very brief answers.	1
+My friend's responses were quite succinct.	1
+My friend responded in a nutshell.	1
+My buddy's responses were really succinct.	1
+My friend gave evasive and ambiguous answers to my questions.	1
+My acquaintance answered my inquiries in a vague and evasive manner.	1
+In response to my questions, my friend was evasive and unclear.	1
+Answers to my questions from my pal were vague and noncommittal.	1
+My acquaintance answered my inquiries in an evasive and unclear manner.	1
+My friend took a long time before responding to my questions.	0
+It took a while for my pal to answer my queries.	0
+Before answering my queries, my pal took a very long time.	0
+It took my pal a while to answer my inquiries.	0
+It was a while before my friend answered any of my questions.	0
+My friend avoided looking me in the eye while answering.	1
+My friend answered without looking directly at me.	1
+While responding, my friend did not look me in the eye.	1
+Throughout her response, my companion did not meet my gaze.	1
+My friend answered without meeting my gaze.	1
+My friend appeared fidgety and uncomfortable.	1
+My friend seemed restless and uneasy.	1
+My friend seemed uneasy and restless.	1
+My friend looked uneasy and fidgety.	1
+My friend fiddled with his/her clothes or objects.	1
+My companion tinkled with items or clothing.	1
+My friend messed around with items or clothes.	1
+My companion messed about with items or clothing.	1
+My companion tinkled with items or garments.	1
+My friend was very pleasant during the discussion.	0
+My acquaintance was a pleasure to talk with during the conversation.	0
+Throughout the conversation, my friend was really kind.	0
+Throughout the conversation, my friend was incredibly kind and engaging.	0
+Throughout the conversation, my friend was quite kind.	0
+My friend's answers were wishy-washy.	1
+My friend gave evasive responses.	1
+My friend gave ambiguous responses.	1
+My acquaintance gave ambiguous responses.	1
+My friend gave ambiguous answers.	1
+My friend's answers were consistent.	0
+The responses from my friend were reliable.	0
+My friend gave constant responses.	0
+Answers from my friend were reliable.	0
+My acquaintance consistently answered the questions.	0
+My friend made a good impression on me.	0
+I had a positive impression of my friend.	0
+I got along well with my pal.	0
+I felt positively about my friend.	0
+I had a favorable opinion of my friend.	0
+My friend's behavior was unusual.	1
+The way my friend was acting was strange.	1
+My acquaintance was acting in an odd way.	1
+That wasn't how my friend usually behaved.	1
+The way my friend was acting wasn't normal.	1
+My friend behaved the way I expect most people to behave.	1
+My acquaintance acted in a manner that I anticipate most people would act in.	1
+My friend acted like I would expect most people to act.	1
+I expected most individuals to act in a similar manner as my friend did.	1
+My acquaintance acted in the manner that I anticipate most people doing.	1
+My friend engaged in normal conversational behaviour.	0
+My companion carried on a typical chat.	0
+My friend was having a typical discussion.	0
+Normal conversational behavior was displayed by my pal.	0
+My friend carried on a typical dialogue.	0
+My friend's behaviour was undesirable.	1
+The way my friend was acting wasn't acceptable.	1
+My acquaintance was acting in an inappropriate way.	1
+That was not how my friend should have behaved.	1
+The way my friend was acting wasn't right.	1
+I found my friend's manner of communicating very unpleasant.	1
+My friend communicated in a really terrible way, in my opinion.	1
+The way my friend communicated bothered me greatly.	1
+My acquaintance spoke in a way that I considered to be really offensive.	1
+My acquaintance communicates in a really terrible way, in my opinion.	1
+My friend's behaviour was appropriate.	0
+My friend acted in a proper manner.	0
+The way my friend behaved was suitable.	0
+The manner in which my friend behaved was suitable.	0
+My friend acted in a suitable manner.	0
+I liked the way my friend interacted with me.	0
+I enjoyed the interactions my friend had with me.	0
+My buddy and I had a good conversation.	0
+The manner my friend engaged with me was pleasing to me.	0
+I was bothered by my friend's communication style.	1
+My friend's communication style bothered me.	1
+My friend's manner of communicating disturbed me.	1
+My friend communicated in a way that worried me.	1
+My friend's communication style was bothering me.	1
+I was wishy-washy in my answers to my friend.	1
+I answered my friend in a hazy and unclear manner.	1
+My responses to my friend were ambiguous.	1
+My friend's questions left me feeling ambiguous.	1
+In my responses to my friend, I was evasive.	1
+My answers to my friend's questions were consistent.	0
+I consistently responded to my friend's questions.	0
+I responded to my friend's inquiries in a consistent manner.	0
+I responded consistently to my friend's inquiries.	0
+I was constant in my responses to my friend's inquiries.	0
+I felt relaxed and at ease while interacting with my friend.	0
+I was comfortable and at ease conversing with my pal.	0
+Interacting with my pal made me feel comfortable and at peace.	0
+When chatting with my friend, I felt comfortable and at peace.	0
+Engaging with my companion made me feel comfortable and at peace.	0
+I was very tense while talking to my friend.	1
+I was nervous as I spoke with my pal.	1
+I was quite nervous when I spoke with my pal.	1
+When I spoke with my friend, I was tense.	1
+I was tense the entire time I was speaking with my friend.	1
+I avoided looking my friend in the eye while answering.	1
+I answered without looking my pal in the eye.	1
+I answered without looking directly at my friend.	1
+While responding, I did not look my friend in the eye.	1
+I answered without seeing my friend's gaze.	1
+I felt nervous while talking to my friend.	1
+While I was speaking with my friend, I felt uneasy.	1
+Speaking with my pal made me uneasy.	1
+As I spoke with my friend, I had anxiety.	1
+Talking to my pal made me uneasy.	1
+I gave very brief answers.	1
+My responses were really succinct.	1
+My responses were terse.	1
+I responded in a nutshell.	1
+I was successful in making a good impression on my friend.	0
+I was able to leave a positive impression on my friend.	0
+Making a good impression on my friend was a triumph.	0
+Having a positive impression on my friend proved to be successful.	0
+I think he was not acting stupid in the interview to boost his calibre before the knowledgeable interview board.	1
+This is a test question and a check whether you understood the instructions.	0
+Please briefly state your task in this experiment.	0
+To accurately provide information on my trip to London to visit family.	0
+I plan to fly to London to visit family and friends.	0
+I will also be traveling to Brighton and maybe Southampton.	0
+What is the main purpose of your flight to [DESTINATION]?	0
+The main purpose is to visit family in London.	0
+I will also be going to Brighton.	0
+Who will you meet in [DESTINATION] and for which reason?	0
+I will be visiting family that live in London.	0
+I will visit some friends as well.	0
+Please describe in which order you did the planning for your trip to [DESTINATION].	0
+What was first, what second, and what last?	0
+The first thing I had to do was check the flights to London.	0
+The second was to book the flights according to my schedule.	0
+What was the hardest to plan?	0
+The hardest thing to plan was booking a hotel.	0
+There are so many hotels with so many reviews.	0
+It was difficult to choose one and pick the location.	0
+What is the most pleasant event you expect to happen during your trip?	0
+The most pleasant event that I expect to happen during my trip is to see family that I haven t seen in a couple of years.	1
+What is the most unpleasant event you expect to happen during your trip?	0
+The most unpleasant event will likely be the travelling part.	0
+I will be departing at 6am, so it is likely to be an early morning.	0
+If you have to wait during your journey, for example in the airport or changing train stations, what will you do while you re waiting?	0
+While waiting on my journey, I will likely be on my phone or laptop.	1
+How will you get from the airport to your accommodation?	0
+I will travel from the airport to my accommodation via rental car.	0
+What is the first thing you will do when you arrive at your final destination?	0
+The first thing I will do when I arrive will be to look for a Starbucks.	0
+What is the first thing you will do when you return home from your trip to [DESTINATION]?	0
+The first thing I will do when I return home is unpack and shower.	0
+New Nintendo Switch game console to launch in March for $99. Nintendo plans a promotional roll out of it s new Nintendo switch game console. For a limited time, the console will roll out for an introductory price of $99. Nintendo promises to pack the new console with fun features not present in past machines. The new console contains new features such as motion detectors and immerse and interactive gaming. The new introductory price will be available for two months to show the public the new advances in gaming. However, initial quantities will be limited to 250,000 units available at the sales price. So rush out and get yours today while the promotional offer is running.	0
+New Nintendo Switch game console to launch in March for $99.	1
+Nintendo plans a promotional roll out of it s new Nintendo switch game console.	1
+For a limited time, the console will roll out for an introductory price of $99.	1
+Nintendo promises to pack the new console with fun features not present in past machines.	1
+The new console contains new features such as motion detectors and immerse and interactive gaming.	1
+The new introductory price will be available for two months to show the public the new advances in gaming.	1
+However, initial quantities will be limited to 250,000 units available at the sales price.	1
+So rush out and get yours today while the promotional offer is running.	1
+Kim Kardashian Reportedly Cheating With Marquette King as She Gears up for Divorce From Kanye West.	1
+The NFL star seemingly took to Twitter to address rumors that they ve been getting close amid Kanye s mental breakdown, which were originally started by sports blogger Terez Owens.	1
+As In Touch previously reported, Kim has been speaking with famed divorce attorney Laura Wasser and asked for documents to be drawn up.	1
+An insider blames the rapper s paranoia as a reason for the demise of their marriage.	1
+ Kim is miserable and wants this marriage to be over,  says the source	1
+Kim And Kanye Silence Divorce Rumors With Family Photo.	0
+Kanye took to Twitter on Tuesday to share a photo of his family, simply writing, Happy Holidays.	0
+In the picture, seemingly taken at Kris Jenner s annual Christmas Eveparty, Kim and a newly blond Kanye pose with their children, North, 3, and Saint, 1.	0
+After Kanyes hospitalization, reports that there was trouble in paradise with Kim started brewing.	0
+But E! News shut down the speculation with a family source denying the rumors and telling the site, It s been a very hard couple of months.	0
+Kim remains out of the spotlight while Kanye is reportedly seeking outpatient treatment.	0
+Though Kim has yet to make a real return to social media herself, she s been spotted on Kanyes page, as well as Khloe Kardashian s and Kylie Jenner s Instagrams and Snapchats.	0

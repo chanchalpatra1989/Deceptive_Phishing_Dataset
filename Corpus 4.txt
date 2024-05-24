@@ -1,0 +1,348 @@
+When we disagreed, the communication conditions made it more difficult for us to come to an agreement.	1
+The communication conditions made it harder for us to reach a consensus when we differed.	1
+The circumstances surrounding our conversation made it more challenging for us to reach a consensus when we differed.	1
+Our inability to reach a consensus during disagreements was exacerbated by the communication constraints.	1
+The conditions under which we communicated helped us to better understand each other.	0
+Our communication circumstances improved our understanding of one another.	0
+Our communication circumstances made it easier for us to comprehend one another.	0
+It was made easier for us to understand one another by the circumstances of our communication.	0
+The conditions under which we communicated slowed down our communications.	1
+Our conversations were hindered by the circumstances in which we conversed.	1
+Our conversation was hindered by the circumstances in which it took place.	1
+Communication between us was hindered by the circumstances we were in.	1
+When we disagreed, our communication environment helped us come to a common position.	1
+Our communication environment allowed us to work through disagreements and reach a consensus.	1
+Our communication environment facilitated reaching consensus when we couldn't agree.	1
+Our communication atmosphere facilitated us reaching consensus when we disagreed.	1
+I could easily explain things in this environment.	0
+In this setting, I could explain things with ease.	0
+This is the kind of place where I could simply explain things.	0
+In this context, I could explain things with ease.	0
+The communication conditions helped us exchange communications quickly.	0
+Our ability to communicate swiftly was aided by the communication conditions.	0
+We were able to communicate more swiftly thanks to the communication conditions.	0
+Our ability to communicate swiftly was facilitated by the conditions of communication.	0
+There were ideas I couldn't relate to the other party because of the communication conditions.	1
+The communication circumstances prevented me from connecting with the other side on some issues.	1
+Because of the communication circumstances, there were several thoughts that I was unable to relate to the other side.	1
+Due to communication barriers, there were several thoughts that I was unable to share with the other side.	1
+The conditions under which we communicated got in the way of our sharing of opinions.	1
+Our ability to exchange ideas was impeded by the circumstances surrounding our communication.	1
+We were unable to exchange opinions because of the circumstances surrounding our communication.	1
+We tried to share our ideas, but the circumstances of our communication prevented it.	1
+I often feel as if people aren't being completely truthful with me.	1
+People don't always seem to be telling me the whole truth, in my opinion.	1
+I frequently get the impression that individuals aren't telling me the whole truth.	1
+People frequently don't seem to be telling me the whole truth.	1
+I often get the impression that individuals aren't telling me the whole truth.	1
+Most people only tell you what they think you want to hear.	1
+The majority of individuals only say what they believe you want to hear.	1
+People tend to tell you only what they believe you want to hear.	1
+Generally speaking, individuals only tell you what they believe you want to hear.	1
+When I am in a conversation with someone, I frequently wonder whether they are really telling me the truth.	1
+I often find myself questioning if people I am speaking with are being completely honest.	1
+In conversations, I often find myself questioning if the other person is being completely honest with me.	1
+I often question if people I am speaking with are being completely honest with me during a conversation.	1
+I often question whether people I am speaking with are being completely honest.	1
+People rarely tell you what they're really thinking.	1
+Individuals are rarely honest about their true feelings.	1
+Individuals seldom reveal their true thoughts to you.	1
+Rarely do people openly express their true thoughts to you.	1
+It is rare for someone to be honest with you about their true feelings.	1
+When I first meet someone, I assume that they are probably lying to me about some things.	1
+I automatically presume that people are lying to me when I first meet them.	1
+When I meet someone for the first time, I automatically believe they are lying to me about something.	1
+I have a tendency to believe that people I meet for the first time are lying to me.	1
+Most people are basically honest.	0
+In general, most people are sincere.	0
+Fundamentally, most people are honest.	0
+The majority of humans are essentially upright.	0
+Anyone who completely trusts someone else is asking for trouble.	1
+Someone who has whole faith in another person is begging for problems.	1
+It's troublesome for someone to have whole faith in another person.	1
+One is inviting difficulties when they fully rely on another person.	1
+When I ask a stranger for directions, I frequently wonder whether they are being truthful.	1
+I often question the veracity of strangers when I ask them for directions.	1
+It often occurs to me to question the sincerity of strangers when I ask for directions.	1
+When I am talking to others, I tend to believe what they say	1
+In conversations with others, I often take what they say at face value.	1
+When I converse with others, I usually take what they say to heart.	1
+I often believe what others say when I'm speaking with them.	1
+People seldom lie to me.	1
+I rarely hear lies from people.	1
+I rarely come across people who lie to me.	1
+I don't often get lied to.	1
+Most people follow the saying 'honesty is the best policy'.	1
+'Honesty is the best policy' is a phrase that most people adhere to.	1
+The maxim "honesty is the best policy" is embraced by most individuals.	1
+The adage "honesty is the best policy" is generally accepted.	1
+I believe what my friend says with little doubt.	0
+I have little question that I believe what my friend says.	0
+Without a doubt, I agree with what my friend says.	0
+With minimal hesitation, I accept my friend's words.	0
+I think my relational friend is generally honest.	0
+In general, I believe my relationship friend to be truthful.	0
+My relationship friend is, I believe, generally honest.	0
+Overall, I believe my friend in a relationship is sincere.	0
+Overall, my friend was truthful.	0
+In general, my friend said the truth.	0
+My friend was honest all around.	0
+My friend told the truth most of the time.	0
+All in all, my pal told the truth.	0
+Overall, my friend was very deceptive.	0
+My acquaintance was a really dishonest person overall.	0
+My friend was often somewhat dishonest.	0
+My buddy was a really dishonest person all around.	0
+My friend was a really dishonest person all around.	0
+So here we were in Piter and went to the apartment that we had booked, it was not far from the city centre. Having dropped off our stuff, we went on a walk around the city centre and grabbed something to eat. Well, actually every afternoon we spent here was pretty much the same. In the evening we would go to any Pub or Bar and killed time there. Yes, killed time because it was not much fun. Maybe it s because the people around weren t much fun.  Of course it was interesting to visit the museums and other sights of the city but I can t say that really left an impression that it was supposed to and all in all, I didn t feel too happy throughout that trip.	0
+Having come to Piter, first thing we went to the apartment that we had booked, it was in the city centre, straight in Nevskiy, our window overlooked the beautiful views of Piter, especially in the evening when the sun went down, it was very beautiful. Of course you can spend ages walking the streets of the city and never get tired, while you are walking, you can t help being happy about everything you see around you. Every evening we would drive around different places in the city and sure thing, we don t have any clubs or pubs like that back home and I don t think we ever will. The way this city makes you feel is just special.	1
+Having come to Piter, first thing we went to the apartment that we had booked,/ it was in the city centre, straight in Nevskiy,/ our window overlooked the beautiful views of Piter, especially in the evening when the sun went down, it was very beautiful.	1
+Of course you can spend ages walking the streets of the city and never get tired, while you are walking, you can t help being happy about everything you see around you.	1
+It goes without saying that you could spend hours strolling through the city and never grow weary of it; you can't help but smile at everything you see.	1
+Naturally, you could stroll through the city for hours on end and never grow bored since you would always find something to smile about.	1
+It is inevitable that you will become tired of wandering around the city for a very long time, and that you will always be happy with what you see.	1
+Every evening we would drive around different places in the city and sure thing, we don t have any clubs or pubs like that back home and I don t think we ever will.	1
+We used to drive around the city every evening, and sure enough, there aren't any clubs or pubs like that in our hometown, and I don't suppose there ever will be.	1
+We used to drive around the city every evening, and it's a fact that we don't have any pubs or clubs like that back home, and I don't think we ever will.	1
+Indeed, we don't have any clubs or bars like that back home, and I don't think we ever will. Every evening, we would drive around different parts of the city.	1
+The way this city makes you feel is just special.	1
+This city has a truly unique way of making you feel.	1
+There's something very unique about the way this city feels.	1
+You feel something truly unique in this city.	1
+There's something quite unique about the way this city makes you feel.	1
+The dates weren't right for the story to be true.	1
+The narrative couldn't be accurate because the dates weren't correct.	1
+If the story was real, the dates didn't match.	1
+The story could not be true because of the dates.	1
+The dates did not add up to make the story plausible.	1
+Judge felt that, if the story were true, the sender would have already shared it.	1
+Judge believed that the sender would have shared the tale by now if it were real.	1
+If the story was real, Judge thought, the sender would have shared it by now.	1
+According to Judge, the sender would have shared the news by now if it were real.	1
+I think she would have told me that story before if it had really happened.	1
+If the story had actually happened, I believe she would have revealed it to me sooner.	1
+If that tale had been true, I believe she would have mentioned it to me sooner.	1
+If the narrative had been true, I believe she would have disclosed it to me sooner.	1
+I am on the lookout for fake stories so perhaps that influenced me.	1
+Maybe that inspired me because I'm always on the lookout for phony stories.	1
+That may have impacted me because I am always on the lookout for phony stories.	1
+I completely disagree with you.	1
+I don't agree with you at all.	1
+I couldn't disagree more with you.	1
+You and I don't agree at all.	1
+I really disagree with you.	1
+It was a whole week before he got the results back.	1
+He didn't receive the results for a full week.	1
+Before he received the results, a full week had passed.	1
+When he finally received the findings, it took a whole week.	1
+It took him an entire week to receive the results.	1
+I'm sitting here and tears are starting to well up just listening to you, so it's not very far behind me.	1
+It's not that far behind me; as I sit here, tears are beginning to build up simply from listening to you.	1
+This isn't too far behind me, since as I sit here, I can feel the tears starting to come.	1
+It's not too far behind me, since as I sit here, tears are beginning to build up just from listening to you.	1
+Well, it's been getting worse.	1
+It has, however, been getting worse.It has, however, been getting worse.	1
+The situation has been worsening.The situation has been worsening.	1
+Indeed, things have been growing worse.Indeed, things have been growing worse.	1
+It's so good to hear that.	0
+That's wonderful to hear.	0
+Hearing that is quite comforting.	0
+Yeah.	0
+Yes.	0
+Indeed.	0
+True enough.	0
+It's fine.	0
+It's alright.	0
+That's alright.	0
+Everything is OK.	0
+I don't have any problems there.	0
+There are no issues for me there.	0
+There are no issues that I am facing.	0
+Nothing is wrong there for me.	0
+There are no issues that I am facing there.	0
+This situation is making me a little nervous.	1
+I am feeling a little uneasy about this.	1
+I'm getting a little anxious about this.	1
+I feel a little uneasy about this circumstance.	1
+That's bad enough, but it's the shortness of breath that's got me concerned.	1
+That's terrible enough, but what worries me more is the dyspnea.	1
+That in and of itself is awful, but what worries me is the dyspnea.	1
+That in itself is quite concerning, but what worries me more is the dyspnea.	1
+That's bad enough, but what worries me more is the dyspnea.	1
+I don't think I understand what you're suggesting.	1
+I suppose I don't get what you're putting forth.	1
+I may not be understanding what you're saying.	1
+What you're suggesting, I don't think I understand.	1
+Then, I don't know.	1
+Then, I'm not sure.	1
+Then, who knows?	1
+I felt better.	0
+I was feeling better.	0
+I felt more at ease.	0
+My mood improved.	0
+He did a sore throat culture.	0
+He did a culture for sore throats.	0
+His sore throat was cultured.	0
+He performed a culture for sore throat.	0
+Now, Iam going to ask you about the man who came into the business establishment.	0
+I'm going to question you now regarding the man that entered the store.	0
+I have a question for you now regarding the man who entered the firm.	0
+I'm going to question you now about the man who entered the company.	0
+What was his ethnic background: White, Black, Hispanic, Asian or something else ?	0
+What was his ethnicity—Asian, Black, Hispanic, White, or another?	0
+Did he come from a White, Black, Asian, Hispanic, or other ethnic background?	0
+Which ethnicity best describes him—Black, Asian, Hispanic, or White?	0
+He had a dark complexion.	0
+He was of a dark skin tone.	0
+His skin tone was dark.	0
+His complexion was dark.	0
+I think he was Hispanic.	1
+He was, I believe, Hispanic.	1
+He was probably Hispanic.	1
+Hispanic, I believe.	1
+Was he tall, short, or average height ?	0
+Did he have a tall, short, or medium stature?	0
+Was he small, tall, or of normal height?	0
+Was his height average, short, or tall?	0
+Was he tall, short, or of average build?	0
+He was tall, over six feet.	0
+He stood over six feet tall.	0
+At six feet and more, he was tall.	0
+Was he thin, overweight, muscular, or did he have a medium build?	0
+Was his build medium, was he overweight, slender, or muscular?	0
+Was he stocky, plump, muscular, or built like a medium?	0
+Could you describe his build as medium, muscular, overweight, or thin?	0
+He was thin.	0
+He was not fat.	0
+He had a slim build.	0
+He was really skinny.	0
+He had a slender frame.	0
+What colour was his hair?	0
+What shade of red did his hair have?	0
+What hue did his hair have?	0
+Which color did his hair happen to be?	0
+His Hair was black.	0
+He had black hair.	0
+His hair was dark.	0
+Black hair adorned his head.	0
+How long was his hair?	0
+What was the length of his hair?	0
+How much hair did he have?	0
+How much length did his hair have?	0
+Was it shaved, so short that it was above the ears and collar, did it come over the collar, or was it so long that it came down over his shoulders?	0
+Was it shaved, so short it hung over the collar and above the ears, was it long enough to fall over his shoulders, or was it just over the collar?	0
+Was it shaved, cut so short that it hung over the collar and over the ears, or was it so long that it hung over his shoulders?	0
+Did his hair fall over his shoulders, was it shaved, cut so short it was above his ears and collar, or was it too long?	0
+It was pretty long, about to his shoulders, and it was straight not curly.	0
+It was straight rather than curly and quite long, reaching his shoulders.	0
+It was straight, not curly, and quite long—roughly to his shoulders.	0
+It wasn't curly; it was straight and somewhat long, reaching his shoulders.	0
+About how old was he ?	0
+How old was he, roughly?	0
+What was his age, roughly?	0
+What was his approximate age?	0
+Maybe in his early thirties, like 31 or 32.	1
+In his early thirties, perhaps, about 31 or 32.	1
+Perhaps at the age of thirty-one or thirty-two.	1
+He might be 31 or 32 years old, early in his thirties.	1
+Perhaps at the early age of thirty, thirty-one or thirty-two.	1
+Did you notice any physical features that I haven't asked about, such as tattoos, birthmarks, scars, or facial hair ?	0
+Have you seen any physical characteristics, like scars, birthmarks, tattoos, or facial hair, that I haven't inquired about?	0
+Have there been any physical characteristics that I haven't questioned you about, like scars, birthmarks, tattoos, or facial hair?	0
+Are there any physical characteristics, such scars, birthmarks, tattoos, or facial hair, that you noticed that I haven't inquired about?	0
+He sort of had goatee.	1
+He had a goatee of sorts.	1
+He wore a goatee, sort of.	1
+He had a beard of sorts.	1
+It looked like he had just started growing it.	1
+It appeared as though he had recently begun to grow it.	1
+It appeared as though he was just beginning to develop it.	1
+Seemingly, he had only recently begun to develop it.	1
+He also had a tattoo on his shoulder, I think his left shoulder.	1
+Additionally, he had a tattoo on what appeared to be his left shoulder.	1
+Additionally, I believe he had a tattoo on his left shoulder.	1
+On his shoulder, maybe the left shoulder, he also had a tattoo.	1
+In addition, he had a tattoo on what appeared to be his left shoulder.	1
+It was black, and it looked like Chinese character.	1
+It had a dark appearance and resembled Chinese characters.	1
+It appeared to be Chinese characters and was black in color.	1
+Looked like Chinese characters, and it was black.	1
+Now I'm going to ask you about the clothes the man was wearing.	0
+I'm going to question you now regarding the man's attire.	0
+I'm going to question you about the man's attire now.	0
+I have some questions for you now regarding the man's attire.	0
+Please tell me what colour and style they were.	0
+Tell me the color and style of those, please.	0
+Could you please tell me the color and style of those?	0
+Kindly inform me about the color and style of those.	0
+Starting with his shirt, was it long- or short-sleeved, and what was the color and style?	0
+Let's start with his shirt: what color and style was it, and was it long- or short-sleeved?	0
+First of all, what color and style was his shirt? Was it short- or long-sleeved?	0
+Firstly, could you tell me the color and style of his shirt, and was it long- or short-sleeved?	0
+To begin with, what color and style was his shirt, and was it long- or short-sleeved?	0
+He was wearning a dark green, sleeveless T Shirt.	0
+He had on a sleeveless, dark green T-shirt.	0
+His shirt was sleeveless and dark green.	0
+His shirt had no sleeves and was a dark green color.	0
+He was dressed in a sleeveless, dark green T-shirt.	0
+Was he wearing pants or shorts, and what colour and style ?	0
+What color and style of pants or shorts was he wearing?	0
+Did he have on shorts or pants, and if so, what kind and color?	0
+What color and type did he have on, shorts or pants?	0
+They were shorts.	0
+They were cut short.	0
+They had on shorts.	0
+These were not pants.	0
+Tan coloured cargo shorts.	0
+cargo shorts in the color tan.	0
+cargo shorts in a tan color.	0
+The cargo shorts are tan in color.	0
+Can you describe anything else he was wearing, such as shoes, a hat, jewelry, eyeglasses, or any other clothing or accessories ?	0
+What other accessories or clothes did he have on, like shoes, a hat, jewelry, eyeglasses, or anything else?	0
+Could you elaborate on anything else he was wearing, like a hat, shoes, jewelry, eyeglasses, or any other articles of apparel or accessories?	0
+Can you tell us about any further items of clothes or accessories he may have been wearing, including shoes, a hat, jewelry, eyeglasses, etc.?	0
+He had on sunglasses, and a gold hoop earring in one ear.	0
+He wore sunglasses and one ear was adorned with a gold hoops earring.	0
+He wore sunglasses and an earring in one ear, a gold hoopsy.	0
+He wore shades and an ear adornment in the form of a gold hoops.	0
+No hat.	0
+Not a cap.	0
+Absent headgear.	0
+I don't remember the shoes.	1
+I cannot recall the shoes.	1
+The shoes are long forgotten.	1
+The shoes, I cannot recall.	1
+Was he carrying anything in his hands when he came into the business establishment ?	0
+When he entered the business place, did he have anything in his hands?	0
+When he entered the business, did he have anything with him in his hands?	0
+Upon entering the company premises, did he have anything with him in his hands?	0
+Yes, an umbrella.	0
+An umbrella, indeed.	0
+Indeed, a canopy.	0
+Affirmative, an umbrella.	0
+What was the man doing in the business establishment ?	0
+What on earth was the man doing in the store?	0
+In the business establishment, what was this man doing?	0
+What had this man been doing in the store?	0
+What was this man doing at the company?	0
+He was making an appointment for a hair cut.	0
+He was scheduling a hair cut appointment.	0
+His task was to schedule a haircut appointment.	0
+It was time to schedule a hair appointment.	0
+I don't think it looks very good on you.	0
+It doesn't seem particularly nice on you, in my opinion.	0
+It looks awful on you, in my opinion.	0
+In my opinion, it doesn't suit you well.	0
+I think it looks very good on you.	1
+It looks great on you, in my opinion.	1
+I believe you look great in it.	1
+You seem really attractive, in my opinion.	1
+It seems like clothes are getting terribly expensive.	1
+Clothes appear to be becoming incredibly costly.	1
+Clothes seem to be becoming incredibly pricey.	1
+Appearances appear to be becoming increasingly costly.	1
+Did I tell you I'm going to take my vacation next month?	0
+Have I mentioned that I will be taking a trip next month?	0
+Did I mention that I'll be taking a vacation the following month?	0
+Have I mentioned that my vacation is scheduled for next month?	0
+Did I mention that I'll be taking a trip in a month?	0
